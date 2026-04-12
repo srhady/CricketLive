@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Playlist Info", 👤 Owner: Md Sohanur Rahman Hady
-http://dummy-link.local
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="Playlist Info", 🕒 Last Updated: 12 April 2026, 07:50 PM
-http://dummy-link.local
+#name: CricketLive Auto Update Playlist
+#telegram: https://t.me/livesportsplay
+#owner: Md Sohanur Rahman Hady
+#last update time: 07:55:18 PM 12-04-2026
 
