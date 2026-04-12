@@ -2,7 +2,7 @@ name: CricketLive Poster Studio
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পরপর
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -24,12 +24,12 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run Poster Maker Script
-      run: python scripts/poster_maker.py # <--- ফোল্ডারের ভেতরের পাথ
+      run: python scripts/poster_maker.py
 
     - name: Commit and Push Changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add posters/ # <--- শুধু posters ফোল্ডারটা সেভ করবে
+        git add posters/
         git diff --quiet && git diff --staged --quiet || git commit -m "🎨 Auto-updated match posters"
         git push
