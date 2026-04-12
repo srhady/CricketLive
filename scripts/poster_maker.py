@@ -6,12 +6,12 @@ from io import BytesIO
 from PIL import Image
 
 print("="*70)
-print(" 🎨 CRICKETLIVE: CLEAN FOLDER POSTER STUDIO 🎨")
+print(" 🎨 CRICKETLIVE: BULLETPROOF POSTER STUDIO 🎨")
 print("="*70)
 
-# পাথ ডাইনামিক করা হলো যাতে স্ক্রিপ্ট scripts/ ফোল্ডারে থাকলেও ছবিগুলো রুট ডিরেক্টরিতে যায়
+# আপনার ফোল্ডারের নাম bing_posters করা হলো
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUTPUT_DIR = os.path.join(BASE_DIR, "posters")
+OUTPUT_DIR = os.path.join(BASE_DIR, "bing_posters")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -34,7 +34,7 @@ def create_match_poster(match_name, logo1_url, logo2_url, local_path):
         res2 = s.get(logo2_url, timeout=10)
         
         if res1.status_code != 200 or res2.status_code != 200:
-            print("    [!] Logo download failed.")
+            print("    [!] Logo download failed. URL might be incorrect.")
             return
             
         img1 = Image.open(BytesIO(res1.content)).convert('RGBA')
@@ -44,13 +44,12 @@ def create_match_poster(match_name, logo1_url, logo2_url, local_path):
         img1 = img1.resize(logo_size, Image.Resampling.LANCZOS)
         img2 = img2.resize(logo_size, Image.Resampling.LANCZOS)
         
-        # 800x400 সাইজের ট্রান্সপারেন্ট ক্যানভাস
         canvas = Image.new('RGBA', (800, 400), (0, 0, 0, 0))
         canvas.paste(img1, (100, 75), img1)
         canvas.paste(img2, (450, 75), img2)
         
         canvas.save(local_path, "PNG")
-        print(f"    [+] Success! Saved to 'posters/{match_name}.png'")
+        print(f"    [+] Success! Saved to 'bing_posters/{match_name}.png'")
 
     except Exception as e:
         print(f"    [!] Error processing '{match_name}': {e}")
@@ -76,23 +75,28 @@ def main():
             
             # ৩০ মিনিটের ফিল্টার
             if (match_time - now_utc).total_seconds() <= 1800:
-                match_title = link.split('/')[-1].replace('-', ' ').title().replace(" Vs ", " vs ")
+                # URL থেকে স্লাগ বের করা (lucknow-super-giants-vs-gujarat-titans)
+                match_slug = link.split('/')[-1]
+                
+                # সুন্দর নাম তৈরি
+                match_title = match_slug.replace('-', ' ').title().replace(" Vs ", " vs ")
                 
                 safe_name = sanitize_filename(match_title)
                 final_filename = f"{safe_name}.png"
                 local_path = os.path.join(OUTPUT_DIR, final_filename)
                 active_poster_filenames.append(final_filename)
                 
-                print(f"\n🎯 Extracting Logos for: {match_title}")
-                event_html = s.get(f"https://crichd.asia{link}", timeout=10).text
+                print(f"\n🎯 Processing Match: {match_title}")
                 
-                logos = re.findall(r'<img alt="[^"]+"[^>]+src="(https://images\.crichd\.asia/team/[^"]+/logo\.webp)"', event_html)
-                unique_logos = list(dict.fromkeys(logos))
-                
-                if len(unique_logos) >= 2:
-                    create_match_poster(match_title, unique_logos[0], unique_logos[1], local_path)
-                else:
-                    print(f"    [-] Couldn't find both team logos for {match_title}")
+                # দ্য জিনিয়াস ট্রিক: স্লাগ থেকে সরাসরি লোগোর লিংক বানানো!
+                try:
+                    team1_slug, team2_slug = match_slug.split('-vs-')
+                    logo1_url = f"https://images.crichd.asia/team/{team1_slug}/logo.webp"
+                    logo2_url = f"https://images.crichd.asia/team/{team2_slug}/logo.webp"
+                    
+                    create_match_poster(match_title, logo1_url, logo2_url, local_path)
+                except ValueError:
+                    print(f"    [-] Could not split teams properly for {match_slug}")
 
         print("\n[*] Cleaning up old match posters...")
         if os.path.exists(OUTPUT_DIR):
@@ -100,7 +104,7 @@ def main():
                 if file.endswith('.png') and file not in active_poster_filenames:
                     try:
                         os.remove(os.path.join(OUTPUT_DIR, file))
-                        print(f"   [-] Deleted old poster: posters/{file}")
+                        print(f"   [-] Deleted old poster: bing_posters/{file}")
                     except:
                         pass
 
