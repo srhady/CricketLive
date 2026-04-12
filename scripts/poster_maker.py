@@ -6,7 +6,7 @@ from io import BytesIO
 from PIL import Image
 
 print("="*75)
-print(" 🏏 CRICKETLIVE: 1080x810 GIANT LOGO POSTER STUDIO 🏏")
+print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print("="*75)
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -22,18 +22,21 @@ s.headers.update({
 def sanitize_filename(name):
     return re.sub(r'[\\/*?:"<>|]', "", name).strip()
 
-# এই কাস্টম ফাংশনটা ছবিকে জোর করে বড় করবে (Aspect Ratio ঠিক রেখে)
-def force_resize(img, max_w, max_h):
+# এই ফাংশনটি চারপাশের অদৃশ্য ফাঁকা জায়গা কেটে ফেলে লোগোকে টেনে বড় করবে
+def auto_crop_and_resize(img, max_w, max_h):
+    # চারপাশের ট্রান্সপারেন্ট ফাঁকা জায়গা (padding) কেটে ফেলা
+    bbox = img.getbbox()
+    if bbox:
+        img = img.crop(bbox)
+        
+    # এবার আসল লোগোটাকে রেশিও ঠিক রেখে দানব সাইজে বড় করা
     ratio = min(max_w / img.width, max_h / img.height)
     new_w = int(img.width * ratio)
     new_h = int(img.height * ratio)
     return img.resize((new_w, new_h), Image.Resampling.LANCZOS)
 
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
-    if os.path.exists(local_path):
-        print(f"    [=] Poster already exists: {match_name}.png")
-        return
-
+    # পুরোনো 'if exists' লজিক বাদ দিয়েছি, যাতে সে সবসময় নতুন করে ওভাররাইট করে!
     try:
         print(f"    [*] Generating 1080x810 PNG for: {match_name}...")
         res1 = s.get(logo1_url, timeout=10)
@@ -46,21 +49,19 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
         img1 = Image.open(BytesIO(res1.content)).convert('RGBA')
         img2 = Image.open(BytesIO(res2.content)).convert('RGBA')
         
-        # === ১০৮০x৮১০ ফিক্সড ক্যানভাস লজিক ===
+        # === ১০৮০x৮১০ ফিক্সড ক্যানভাস ===
         canvas_width = 1080
         canvas_height = 810
         canvas = Image.new('RGBA', (canvas_width, canvas_height), (0, 0, 0, 0))
         
-        # প্রতিটা লোগোর জন্য ম্যাক্সিমাম জায়গা 450x600 পিক্সেল (বিশাল সাইজ!)
-        img1 = force_resize(img1, 450, 600)
-        img2 = force_resize(img2, 450, 600)
+        # প্রতিটা লোগোর জন্য ম্যাক্সিমাম জায়গা 480x600 পিক্সেল (বিশাল সাইজ!)
+        img1 = auto_crop_and_resize(img1, 480, 600)
+        img2 = auto_crop_and_resize(img2, 480, 600)
         
         # লোগোগুলোকে একদম সেন্টারে বসানোর ক্যালকুলেশন
-        # বাম দিকের লোগোর সেন্টার (270, 405)
         x1 = 270 - (img1.width // 2)
         y1 = 405 - (img1.height // 2)
         
-        # ডান দিকের লোগোর সেন্টার (810, 405)
         x2 = 810 - (img2.width // 2)
         y2 = 405 - (img2.height // 2)
         
