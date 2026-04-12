@@ -6,7 +6,7 @@ from io import BytesIO
 from PIL import Image
 
 print("="*75)
-print(" 🏏 CRICKETLIVE: 1080x810 MAX LOGO POSTER STUDIO 🏏")
+print(" 🏏 CRICKETLIVE: 1080x810 GIANT LOGO POSTER STUDIO 🏏")
 print("="*75)
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -21,6 +21,13 @@ s.headers.update({
 
 def sanitize_filename(name):
     return re.sub(r'[\\/*?:"<>|]', "", name).strip()
+
+# এই কাস্টম ফাংশনটা ছবিকে জোর করে বড় করবে (Aspect Ratio ঠিক রেখে)
+def force_resize(img, max_w, max_h):
+    ratio = min(max_w / img.width, max_h / img.height)
+    new_w = int(img.width * ratio)
+    new_h = int(img.height * ratio)
+    return img.resize((new_w, new_h), Image.Resampling.LANCZOS)
 
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
     if os.path.exists(local_path):
@@ -44,13 +51,9 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
         canvas_height = 810
         canvas = Image.new('RGBA', (canvas_width, canvas_height), (0, 0, 0, 0))
         
-        # লোগো ম্যাক্সিমাম কতটা বড় হতে পারবে (অর্ধেক ক্যানভাসের চেয়ে একটু কম)
-        max_logo_w = 480
-        max_logo_h = 750
-        
-        # Aspect ratio ঠিক রেখে লোগো বড় করা
-        img1.thumbnail((max_logo_w, max_logo_h), Image.Resampling.LANCZOS)
-        img2.thumbnail((max_logo_w, max_logo_h), Image.Resampling.LANCZOS)
+        # প্রতিটা লোগোর জন্য ম্যাক্সিমাম জায়গা 450x600 পিক্সেল (বিশাল সাইজ!)
+        img1 = force_resize(img1, 450, 600)
+        img2 = force_resize(img2, 450, 600)
         
         # লোগোগুলোকে একদম সেন্টারে বসানোর ক্যালকুলেশন
         # বাম দিকের লোগোর সেন্টার (270, 405)
@@ -67,15 +70,9 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
         
         # === ১০০ কেবি এর নিচে রাখার লজিক ===
         quantized_canvas = canvas.convert('P', palette=Image.Palette.ADAPTIVE, colors=256)
-        
         quantized_canvas.save(local_path, "PNG", optimize=True)
-        file_size_kb = os.path.getsize(local_path) / 1024
         
-        # ডাবল চেক সাইজ অপ্টিমাইজেশন
-        if file_size_kb > 100:
-             quantized_canvas.save(local_path, "PNG", optimize=True, compress_level=9)
-             file_size_kb = os.path.getsize(local_path) / 1024
-             
+        file_size_kb = os.path.getsize(local_path) / 1024
         print(f"    [+] Success! Saved to 'posters/{match_name}.png' ({file_size_kb:.1f} KB)")
 
     except Exception as e:
