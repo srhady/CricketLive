@@ -6,12 +6,12 @@ from io import BytesIO
 from PIL import Image
 
 print("="*70)
-print(" 🎨 CRICKETLIVE: BULLETPROOF POSTER STUDIO 🎨")
+print(" 🎨 CRICKETLIVE: POSTER STUDIO 🎨")
 print("="*70)
 
-# আপনার ফোল্ডারের নাম bing_posters করা হলো
+# একদম ফ্রেশ ফোল্ডার: 'posters'
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUTPUT_DIR = os.path.join(BASE_DIR, "bing_posters")
+OUTPUT_DIR = os.path.join(BASE_DIR, "posters")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -49,7 +49,7 @@ def create_match_poster(match_name, logo1_url, logo2_url, local_path):
         canvas.paste(img2, (450, 75), img2)
         
         canvas.save(local_path, "PNG")
-        print(f"    [+] Success! Saved to 'bing_posters/{match_name}.png'")
+        print(f"    [+] Success! Saved to 'posters/{match_name}.png'")
 
     except Exception as e:
         print(f"    [!] Error processing '{match_name}': {e}")
@@ -75,10 +75,7 @@ def main():
             
             # ৩০ মিনিটের ফিল্টার
             if (match_time - now_utc).total_seconds() <= 1800:
-                # URL থেকে স্লাগ বের করা (lucknow-super-giants-vs-gujarat-titans)
                 match_slug = link.split('/')[-1]
-                
-                # সুন্দর নাম তৈরি
                 match_title = match_slug.replace('-', ' ').title().replace(" Vs ", " vs ")
                 
                 safe_name = sanitize_filename(match_title)
@@ -88,7 +85,6 @@ def main():
                 
                 print(f"\n🎯 Processing Match: {match_title}")
                 
-                # দ্য জিনিয়াস ট্রিক: স্লাগ থেকে সরাসরি লোগোর লিংক বানানো!
                 try:
                     team1_slug, team2_slug = match_slug.split('-vs-')
                     logo1_url = f"https://images.crichd.asia/team/{team1_slug}/logo.webp"
@@ -104,7 +100,7 @@ def main():
                 if file.endswith('.png') and file not in active_poster_filenames:
                     try:
                         os.remove(os.path.join(OUTPUT_DIR, file))
-                        print(f"   [-] Deleted old poster: bing_posters/{file}")
+                        print(f"   [-] Deleted old poster: posters/{file}")
                     except:
                         pass
 
