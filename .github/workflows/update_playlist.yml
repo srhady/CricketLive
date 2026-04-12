@@ -1,0 +1,48 @@
+name: CricketLive Private Engine Updater
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 🌐 Checkout Public Repository (CricketLive)
+      uses: actions/checkout@v3
+
+    - name: 🔐 Checkout Private Repository (axsportspvt)
+      uses: actions/checkout@v3
+      with:
+        repository: srhady/axsportspvt
+        token: ${{ secrets.GH_PAT }}
+        path: private_scripts # প্রাইভেট রিপোর কোডগুলো এই ফোল্ডারে এনে রাখবে
+
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 📦 Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests Pillow
+
+    - name: 🚀 Run Main Generator Script (From Private Repo)
+      run: python private_scripts/cricket.py
+
+    - name: 💾 Commit and Push Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # জেনারেট হওয়া ফাইলগুলো অ্যাড করা
+        git add playlist.m3u
+        
+        # যদি পোস্টার বানানোর স্ক্রিপ্টও রান করেন, তাহলে নিচের লাইনটার হ্যাশ (#) উঠিয়ে দেবেন
+        # git add posters/ 
+        
+        git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Auto-updated M3U playlist from Private Engine"
+        git push
