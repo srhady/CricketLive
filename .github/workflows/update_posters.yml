@@ -21,20 +21,21 @@ jobs:
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install requests beautifulsoup4 Pillow
 
     - name: Run CricHD Poster Script
       run: python scripts/poster_maker.py
-      continue-on-error: true  # যদি কোনো কারণে এই সাইট ডাউন থাকে, তবুও পরেরটা রান করবে
+      continue-on-error: true
 
     - name: Run Footystream Poster Script
       run: python scripts/Footystream.py
-      continue-on-error: true  # এরর আসলেও গিটহাব কমিট করা বন্ধ করবে না
+      continue-on-error: true
 
     - name: Commit and Push Changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add posters/
-        git diff --quiet && git diff --staged --quiet || git commit -m "🎨 Auto-updated all match posters"
+        # দুইটা ফোল্ডারই গিট-এ অ্যাড করা হচ্ছে
+        git add posters/ footy_posters/
+        git diff --quiet && git diff --staged --quiet || git commit -m "🎨 Auto-updated match posters (Cricket & Footy)"
         git push
