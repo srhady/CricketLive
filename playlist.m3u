@@ -3,33 +3,33 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:24 PM 13-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=gvzaMd9S66Bcr4lDawm3Rw&expires=1776102625
+#last update time: 11:14:35 PM 13-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=iTcDvCUq_PLHO9gIfONABQ&expires=1776102625
+https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=Zr8qoeofEgDZnGTEXhbmkw&expires=1776105275
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=TTBlDOHmHJB6wk7UcmjLaA&expires=1776105276
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=B7IOzs1Q2TCrQJhJP8n31Q&expires=1776102626
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=c566fvhIDo2ifAZxa4Im1g&expires=1776102626
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=BVPp4EshTF0t0KrnkGYJFw&expires=1776102626
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=0aMSddA8SRWRVyPqjmjGxw&expires=1776102627
+https://n4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=5C0qB6FZ8zSLoyLm69FGKg&expires=1776105276
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=W3c6R-CPOIR-KZTO6s7lbw&expires=1776102627
+https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=9rWK14TtiXadO5Yc0yx3xg&expires=1776105276
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=FMOt_cYJapPI3FM9rz69Gw&expires=1776105276
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=qSkVVErr6O6VXaJTr2oYiw&expires=1776105276
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/star1in.m3u8?md5=7XAb831HjXcB7fhMq6JZbA&expires=1776105276
 
