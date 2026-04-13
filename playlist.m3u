@@ -3,33 +3,5 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:01:59 PM 13-04-2026
-
-#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/236/responsive-images/Peshawar-Zalmi___preview_thumbnail_120_120.webp" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://hitsportshd.xyz/
-https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=1PJQaXmqaQ5IMnC49vLClA&expires=1776093719|Referer=https://hitsportshd.xyz/
-
-#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/236/responsive-images/Peshawar-Zalmi___preview_thumbnail_120_120.webp" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (TENSPK)
-#EXTVLCOPT:http-referrer=https://hitsportshd.xyz/
-https://n4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=JH-tt3RP18jSp99d4GHwag&expires=1776093720|Referer=https://hitsportshd.xyz/
-
-#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/236/responsive-images/Peshawar-Zalmi___preview_thumbnail_120_120.webp" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (PTVPK)
-#EXTVLCOPT:http-referrer=https://hitsportshd.xyz/
-https://n3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=FUW1TykwkaYsonDjk5yv5g&expires=1776093720|Referer=https://hitsportshd.xyz/
-
-#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/224/responsive-images/Sunrisers-Hyderabad___preview_thumbnail_120_120.webp" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://hitsportshd.xyz/
-https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=40_MZZF70pmkkQV0Xs3DUQ&expires=1776093720|Referer=https://hitsportshd.xyz/
-
-#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/224/responsive-images/Sunrisers-Hyderabad___preview_thumbnail_120_120.webp" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://hitsportshd.xyz/
-https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=esLHny2QehrdCKLsfsYe_w&expires=1776093720|Referer=https://hitsportshd.xyz/
-
-#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/224/responsive-images/Sunrisers-Hyderabad___preview_thumbnail_120_120.webp" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://hitsportshd.xyz/
-https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=5E6cz2sOU-Bo1zgGFgqiMQ&expires=1776093720|Referer=https://hitsportshd.xyz/
-
-#EXTINF:-1 tvg-logo="https://v2.1cdnforall.online/storage/224/responsive-images/Sunrisers-Hyderabad___preview_thumbnail_120_120.webp" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://hitsportshd.xyz/
-https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=DeiBdgDv-0ZMc6PG9JGQUA&expires=1776093720|Referer=https://hitsportshd.xyz/
+#last update time: 08:09:31 PM 13-04-2026
 
