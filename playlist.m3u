@@ -3,53 +3,37 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:25 AM 14-04-2026
+#last update time: 02:01:42 AM 14-04-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=5rtmyW9eG0cqTVzImrXvgw&expires=1776115226
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=wdwD8rdTcDKX6yPo2VhBQQ&expires=1776115226
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=BeaezU4_q6bLjrgpHEbTdg&expires=1776115227
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=dEbpd6-YJ5ZkjikOzYPhmg&expires=1776115227
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=xd1KqYR-o1te8frKoziOmQ&expires=1776115227
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/star1in.m3u8?md5=PJzrfASNv7OCjtNU09YtkQ&expires=1776115227
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=1Q4jyq2sRh53Wi3953LyKw&expires=1776115228
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
+http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Lazio%20vs%20Fiorentina.png" group-title="Football" http-referrer="https://bhalocast.com/", Lazio vs Fiorentina (Link 1)
-https://dz1.bhalocast.pro:7059/hls/yt2.m3u8?md5=IdUZbn5X2921COW-1bGHCg&expires=1776115236&ch=yt2&s=95698e2b4a23f4c843604a2c4bc39c3b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Lazio%20vs%20Fiorentina.png" group-title="Football" http-referrer="https://bhalocast.com/", Lazio vs Fiorentina (Link 2)
-https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=QPUWxsoJzDUm6gdh-Rr87w&expires=1776115237&ch=superspfb&s=48db057e56a008c9cd1aae439789fa12
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe%20vs%20Levante.png" group-title="Football" http-referrer="https://bhalocast.com/", Getafe vs Levante (Link 1)
-https://dz1.bhalocast.pro:7059/hls/loligaboo.m3u8?md5=7mKyv6KBaDN_J6L8rtDamQ&expires=1776115240&ch=loligaboo&s=5b438eec822b447167811d12686dec98
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe%20vs%20Levante.png" group-title="Football" http-referrer="https://bhalocast.com/", Getafe vs Levante (Link 2)
-https://dz1.bhalocast.pro:7059/hls/spch4.m3u8?md5=IiaZCg0XUs6gbUhGzBHnAQ&expires=1776115241&ch=spch4&s=09d973d5a3b4995949af126c80ed763e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe%20vs%20Levante.png" group-title="Football" http-referrer="https://bhalocast.com/", Getafe vs Levante (Link 3)
-https://dz1.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=7u7c07iUFvNBewVtxCT5GQ&expires=1776115243&ch=viaplaysp1&s=1102ca61d52b0f62715bd4419c6e9a9d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe%20vs%20Levante.png" group-title="Football" http-referrer="https://bhalocast.com/", Getafe vs Levante (Link 4)
-https://dz1.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=exnH2VLT-_iYPy56lxhXNQ&expires=1776115244&ch=daznlaliga&s=7e1360e5f0e9482fab88334e4760535c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Manchester%20United%20vs%20Leeds%20United.png" group-title="Football" http-referrer="https://bhalocast.com/", Manchester United vs Leeds United (Link 1)
-https://dz1.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=XimiMV7t_ywbGGiuyKisUw&expires=1776115252&ch=dadoskypormi&s=d55c74d3929b9ec7f8c97ba164d8512d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Manchester%20United%20vs%20Leeds%20United.png" group-title="Football" http-referrer="https://bhalocast.com/", Manchester United vs Leeds United (Link 2)
-https://dz1.bhalocast.pro:7059/hls/yt1.m3u8?md5=FJnOVE6a2LSrbid_fZ-ldg&expires=1776115253&ch=yt1&s=56ac971bbe2a0be5614d62d0dab9016d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Manchester%20United%20vs%20Leeds%20United.png" group-title="Football" http-referrer="https://bhalocast.com/", Manchester United vs Leeds United (Link 3)
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=b4F8_akN4tYosLgGbpXMnA&expires=1776115254&ch=dadosky1&s=ef7b7004583b8e58e95025292df0f990
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Lazio%20vs%20Fiorentina.png", group-title="Football", Lazio vs Fiorentina (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/yt2.m3u8?md5=gdNNo_CW8Cjj9QIin8Q7mw&expires=1776115308&ch=yt2&s=4bf1e37ddd616c027c07dbcafddd8c3c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Lazio%20vs%20Fiorentina.png", group-title="Football", Lazio vs Fiorentina (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=dds6xP8h6GjCwnHf143e8Q&expires=1776115310&ch=superspfb&s=6b891df05313145ea03a7cd3d7933cff
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe%20vs%20Levante.png", group-title="Football", Getafe vs Levante (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/loligaboo.m3u8?md5=9dXUuZnTgmKQ3uFnch0aoA&expires=1776115312&ch=loligaboo&s=5658d8617f6989cffaf35bb89d1aff9e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe%20vs%20Levante.png", group-title="Football", Getafe vs Levante (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/spch4.m3u8?md5=9r6lnufleMgvocbNC2eCzA&expires=1776115313&ch=spch4&s=d29e6c0026225a30c14700a1d5355d76
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe%20vs%20Levante.png", group-title="Football", Getafe vs Levante (Link 3)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=PkG4Z-lNRe2I0MSJyE-LRQ&expires=1776115314&ch=viaplaysp1&s=dfaaac4ce4c51dfac3d1c45fa2507393
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe%20vs%20Levante.png", group-title="Football", Getafe vs Levante (Link 4)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=s0cfmiRv_oJAr-B8rmC0-w&expires=1776115316&ch=daznlaliga&s=dcb5c34d3a97973f5f265017813a00f9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Manchester%20United%20vs%20Leeds%20United.png", group-title="Football", Manchester United vs Leeds United (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=NgZmBD3-OIUApdhDqgQ_Yw&expires=1776115318&ch=dadoskypormi&s=f48586a6d394a4d77f047252f82994a4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Manchester%20United%20vs%20Leeds%20United.png", group-title="Football", Manchester United vs Leeds United (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/yt1.m3u8?md5=zl85cK0DofgaZ0U4Fe3iGg&expires=1776115321&ch=yt1&s=89f34fb40e74c5dd89cac7e83e35ab15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Manchester%20United%20vs%20Leeds%20United.png", group-title="Football", Manchester United vs Leeds United (Link 3)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=V5MYAhSvG4dD9GeSYL2a4A&expires=1776115322&ch=dadosky1&s=4018c2290157504ce083de25ac5bdf03
