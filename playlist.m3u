@@ -3,33 +3,33 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:26 PM 13-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=5qIe6zraiWpA6Ir0QHR_kA&expires=1776099027
+#last update time: 09:48:24 PM 13-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/tenspk.m3u8?md5=NiATVm66svAX2-sPTrRwcA&expires=1776099027
+https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=CXZ70JEbjWYLJ18p0Jb3vQ&expires=1776100106
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=7AVP-mC3HcHMIDbqLxfp6Q&expires=1776099027
+https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=SGODwucWO23etlN4VYxrlQ&expires=1776100106
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=P91p0V1aSOruPFdI_v8uew&expires=1776099028
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ghlKjGoBYChFL9_Su0ZG1A&expires=1776099028
+https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=-VAa0NK1veeLZyqc__9UXg&expires=1776100106
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=_L-FBtmhonAy2emQ8v6_tw&expires=1776099028
+https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=K3qFm0VLoskX4wKKYwba6g&expires=1776100107
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=CDjpT6jbfBcOV2ndXItKwQ&expires=1776099028
+https://n2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Tf-KpNTPCdLeUFHddhhsPg&expires=1776100107
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=_ByZcHLVVLm-voRpaHEfpQ&expires=1776100107
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=F_qLl1iObh713xRbpbWqUg&expires=1776100107
 
