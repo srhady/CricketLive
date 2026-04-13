@@ -1,4 +1,4 @@
-name: CricketLive Poster Studio
+name: Auto Sports Poster Studio
 
 on:
   schedule:
@@ -23,13 +23,18 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run Poster Maker Script
+    - name: Run CricHD Poster Script
       run: python scripts/poster_maker.py
+      continue-on-error: true  # যদি কোনো কারণে এই সাইট ডাউন থাকে, তবুও পরেরটা রান করবে
+
+    - name: Run Footystream Poster Script
+      run: python scripts/Footystream.py
+      continue-on-error: true  # এরর আসলেও গিটহাব কমিট করা বন্ধ করবে না
 
     - name: Commit and Push Changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add posters/
-        git diff --quiet && git diff --staged --quiet || git commit -m "🎨 Auto-updated match posters"
+        git diff --quiet && git diff --staged --quiet || git commit -m "🎨 Auto-updated all match posters"
         git push
