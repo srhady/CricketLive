@@ -3,33 +3,33 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:21:07 PM 13-04-2026
+#last update time: 08:32:29 PM 13-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=P9rY8G1X-Y0TiqlPIHusUg&expires=1776094868
+https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=M0pxRXS-oge5c-Uc3YTweQ&expires=1776095550
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=zivjvkpcFHUWNybZWTHVAw&expires=1776094868
+https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=6u506BJxYjb3RkpV4a4_RA&expires=1776095550
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=yoYFTBTkRJRhE-c7wtwXTA&expires=1776094869
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=2iN0rLxUWLzV5o5Si4Q9FA&expires=1776094869
+https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=j5GKZZy7u2lNlLOGn0h7ag&expires=1776095550
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=K2wFkOtSdcKNlp56CYRGTw&expires=1776094869
+https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=7UaWR0pjxd3tkaszuLRFJA&expires=1776095550
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STAR1IN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=Hq79ne19j5KfBfpVh9N7AQ&expires=1776094870
+https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=LyQtjhk6re30_D4gXGrLpg&expires=1776095550
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=gnWmaPOYcVL3FrllP-kd8Q&expires=1776094870
+https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=92qfQznPRFc_uvW2PgaPDQ&expires=1776095551
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=ah_EUi00lU5fGe_Tvs0dyQ&expires=1776095551
 
