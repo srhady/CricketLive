@@ -1,4 +1,4 @@
-name: CricketLive Private Engine Updater
+Name: Sports Private Engine (Cricket & Footy)
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
       with:
         repository: srhady/axsportspvt
         token: ${{ secrets.GH_PAT }}
-        path: private_scripts # প্রাইভেট রিপোর কোডগুলো এই ফোল্ডারে এনে রাখবে
+        path: private_scripts # প্রাইভেট রিপোর কোডগুলো এই ফোল্ডারে থাকবে
 
     - name: 🐍 Set up Python
       uses: actions/setup-python@v4
@@ -28,21 +28,24 @@ jobs:
     - name: 📦 Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests Pillow
+        # ফুটবল ইঞ্জিনের জন্য beautifulsoup4 মাস্ট
+        pip install requests Pillow beautifulsoup4
 
-    - name: 🚀 Run Main Generator Script (From Private Repo)
+    - name: 🚀 Run Cricket Engine (Private)
       run: python private_scripts/cricket.py
+      continue-on-error: true
+
+    - name: ⚽ Run Footy Engine (Private)
+      run: python private_scripts/footy_m3u8.py
+      continue-on-error: true
 
     - name: 💾 Commit and Push Changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # জেনারেট হওয়া ফাইলগুলো অ্যাড করা
-        git add playlist.m3u
+        # সব ফাইল এবং পোস্টার ফোল্ডার অ্যাড করা হচ্ছে
+        git add playlist.m3u posters/ footy_posters/
         
-        # যদি পোস্টার বানানোর স্ক্রিপ্টও রান করেন, তাহলে নিচের লাইনটার হ্যাশ (#) উঠিয়ে দেবেন
-        # git add posters/ 
-        
-        git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Auto-updated M3U playlist from Private Engine"
+        git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Auto-updated All Engines (Cricket & Footy)"
         git push
