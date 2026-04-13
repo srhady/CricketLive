@@ -1,9 +1,7 @@
-Name: Sports Private Engine (Cricket & Footy)
+name: Sports Private Engine (Cricket & Footy)
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
+  workflow_dispatch: # এখন থেকে আর অটোমেটিক রান হবে না, আপনি ক্লিক করলে হবে
 
 jobs:
   build:
@@ -18,7 +16,7 @@ jobs:
       with:
         repository: srhady/axsportspvt
         token: ${{ secrets.GH_PAT }}
-        path: private_scripts # প্রাইভেট রিপোর কোডগুলো এই ফোল্ডারে থাকবে
+        path: private_scripts
 
     - name: 🐍 Set up Python
       uses: actions/setup-python@v4
@@ -28,7 +26,6 @@ jobs:
     - name: 📦 Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        # ফুটবল ইঞ্জিনের জন্য beautifulsoup4 মাস্ট
         pip install requests Pillow beautifulsoup4
 
     - name: 🚀 Run Cricket Engine (Private)
@@ -44,8 +41,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # সব ফাইল এবং পোস্টার ফোল্ডার অ্যাড করা হচ্ছে
         git add playlist.m3u posters/ footy_posters/
         
-        git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Auto-updated All Engines (Cricket & Footy)"
+        git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Manual Update: All Engines (Cricket & Footy)"
         git push
