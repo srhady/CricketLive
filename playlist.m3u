@@ -1,35 +1,22 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/srhady/CricketLive/main/epg.xml"
+#EXTINF:-1 tvg-id="info" tvg-logo="https://bhalocast.com/logo.png" group-title="INFO", --- FOOTYSTREAM LIVE BY HADY ---
+https://bhalocast.com/dummy.m3u8
 
-#name: CricketLive Auto Update Playlist
-#telegram: https://t.me/livesportsplay
-#owner: Md Sohanur Rahman Hady
-#last update time: 01:30:40 AM 14-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=WVclbfUcOVum_474HOm1DQ&expires=1776113441
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=aC0KvTaKqGhmuoW9HrWGUQ&expires=1776113441
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Peshawar Zalmi vs Multan Sultans (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/tenspk.m3u8?md5=ba5oirX-si8TbAHQBQeZeg&expires=1776113441
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=DoFwTauwlzGhMNYcz7vw0w&expires=1776113442
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=fjy9YFoCdLGtP0X7YR-6gw&expires=1776113442
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Ip0OejfxV9PzFEDhmX-Ssw&expires=1776113442
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Rajasthan Royals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=AmQAxlVC2CUKknxighMF0Q&expires=1776113442
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Lazio vs Fiorentina.png" group-title="Football" http-referrer="https://bhalocast.com/", Lazio vs Fiorentina (Link 1)
+https://dz1.bhalocast.pro:7059/hls/yt2.m3u8?md5=wTUa9ym6rl9Nn-aU1HwnIw&expires=1776114471&ch=yt2&s=98b1994168586030fbb06e6b046cafe7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Lazio vs Fiorentina.png" group-title="Football" http-referrer="https://bhalocast.com/", Lazio vs Fiorentina (Link 2)
+https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=n_u0Gn7aUx7D6EU1y-9KOw&expires=1776114472&ch=superspfb&s=94660bd5f726f3d081b6b78a8e372351
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe vs Levante.png" group-title="Football" http-referrer="https://bhalocast.com/", Getafe vs Levante (Link 1)
+https://dz1.bhalocast.pro:7059/hls/loligaboo.m3u8?md5=j3lU8fbMCANsQPbwq_JB4g&expires=1776114474&ch=loligaboo&s=91c4ba54b42af9d53084cf80aaecde2b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe vs Levante.png" group-title="Football" http-referrer="https://bhalocast.com/", Getafe vs Levante (Link 2)
+https://dz1.bhalocast.pro:7059/hls/spch4.m3u8?md5=O0He4BWvtkmtQ7y1zeh6vg&expires=1776114475&ch=spch4&s=e584e4f11ef9a7be462d12e46df98b51
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe vs Levante.png" group-title="Football" http-referrer="https://bhalocast.com/", Getafe vs Levante (Link 3)
+https://dz1.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=Toq9MTh7Ytkw-24JXnHwIw&expires=1776114476&ch=viaplaysp1&s=de92db4dc349e71531289743303b8068
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Getafe vs Levante.png" group-title="Football" http-referrer="https://bhalocast.com/", Getafe vs Levante (Link 4)
+https://dz1.bhalocast.pro:7059/hls/daznlaliga.m3u8?md5=mYFpe-rYcBA0HHWehUr-wQ&expires=1776114478&ch=daznlaliga&s=74e3aa282f01833fd6089a13ddee2885
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Manchester United vs Leeds United.png" group-title="Football" http-referrer="https://bhalocast.com/", Manchester United vs Leeds United (Link 1)
+https://dz1.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=H8xiWz7z_TNc2Nugt5iN1A&expires=1776114479&ch=dadoskypormi&s=77b7766e101037807e520d5c77bf187a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Manchester United vs Leeds United.png" group-title="Football" http-referrer="https://bhalocast.com/", Manchester United vs Leeds United (Link 2)
+https://dz1.bhalocast.pro:7059/hls/yt1.m3u8?md5=pbgcuaYn32rijLZslZLG0A&expires=1776114480&ch=yt1&s=51604ac16d4b26c121d5af0c8e5bd249
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Manchester United vs Leeds United.png" group-title="Football" http-referrer="https://bhalocast.com/", Manchester United vs Leeds United (Link 3)
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=8qd9gVOp03jvWCwgnlAG0Q&expires=1776114481&ch=dadosky1&s=31c1fd28e1b3117256dfad38ce190f77
