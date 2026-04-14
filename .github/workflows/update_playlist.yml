@@ -1,7 +1,7 @@
 name: Sports Private Engine (Cricket & Footy)
 
 on:
-  workflow_dispatch: # এখন থেকে আর অটোমেটিক রান হবে না, আপনি ক্লিক করলে হবে
+  workflow_dispatch: # ম্যানুয়াল রানের জন্য
 
 jobs:
   build:
@@ -41,7 +41,10 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        git add playlist.m3u posters/ footy_posters/
+        # ফাইল বা ফোল্ডার না পেলেও এরর দিয়ে ক্র্যাশ করবে না (|| true এর ম্যাজিক)
+        git add playlist.m3u || true
+        git add posters/ || true
+        git add footy_posters/ || true
         
         git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Manual Update: All Engines (Cricket & Footy)"
         git push
