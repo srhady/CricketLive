@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:26 AM 15-04-2026
+#last update time: 03:00:26 AM 15-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,37 +12,37 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=hAByfGJgxWZ88xRJxzI9kA&expires=1776201629&ch=spch71&s=3e724e8069fc8ffdd44c6705f212c952
+https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=mCULtPqpmms-Ky8-w4DPtA&expires=1776205230&ch=spch71&s=8725ce91a50c3a5bc3794b6662181aed
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt7.m3u8?md5=xlsBGaSHr1CKH3pCV8NXng&expires=1776201631&ch=yt7&s=2e3ceca262145909065f5e5f9d39d62d
+https://dz1.bhalocast.pro:7059/hls/yt7.m3u8?md5=4hIZ9OfM2OqonF6l6zoSLA&expires=1776205232&ch=yt7&s=c8ed135b8b27710d12f18914f973b1d4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bein1en.m3u8?md5=RaGjplGts4kPeow45QyfaQ&expires=1776201632&ch=bein1en&s=f95dbedf1357a4cbccd5b91e2969b295
+https://dz1.bhalocast.pro:7059/hls/bein1en.m3u8?md5=faIIAPaZIAFXpGdHRlSEwg&expires=1776205233&ch=bein1en&s=9c4fc355659f584465356e6e5df71276
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 4)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt35.m3u8?md5=uBpQRST52muOj9a0suAu3w&expires=1776201634&ch=yt35&s=7597a4f92be4a203133933afa17f91c9
+https://dz1.bhalocast.pro:7059/hls/yt35.m3u8?md5=mVpcuGL1BBnmxL93cyVMlA&expires=1776205235&ch=yt35&s=7046686ac5ec04674e238300fc8cdc52
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 5)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt52.m3u8?md5=1CLO1JyaSZufrs-r1wNvTw&expires=1776201635&ch=yt52&s=9e76d4ab68e7777640b54b2941bc4c43
+https://dz1.bhalocast.pro:7059/hls/yt52.m3u8?md5=F0T25rzeFa---hC3miGU8w&expires=1776205238&ch=yt52&s=bb8c1e2bf9efb2853be9ae2ea2c43c48
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 6)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=PNtdVyGFr_5SN9j8yzr8WA&expires=1776201636&ch=yt22&s=6c26df4ed994fdd57e88fbdc4eb03bda
+https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=I6x-znECCK9-lSOIL_kIiw&expires=1776205239&ch=yt22&s=d2d1b2f3584e0a7c07fcac5b3f9e6723
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=WlHFxIxoP-pq57I-L9M4TQ&expires=1776201638&ch=bbtsip1&s=0474f099e20011b2b1a071dc9e1cfc75
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=ORD-gQ87o5LnbsTzLVw34w&expires=1776205241&ch=bbtsip1&s=0ddc8da755786b7a9a4458b85cc1a05a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch72.m3u8?md5=ExW6LZvQ1nC8SERR3CWL3Q&expires=1776201639&ch=spch72&s=dc21a34ebc49571f855764c71aecd5d7
+https://dz1.bhalocast.pro:7059/hls/spch72.m3u8?md5=5ap-tPNCFUYpE8ungw9aFA&expires=1776205244&ch=spch72&s=343931af5ed68055de7e2a6ff44fb677
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt6.m3u8?md5=qP5RcN8nkToNSqDfd-0yvg&expires=1776201640&ch=yt6&s=7a7f74fb250e1c9fba04a26a661b9836
+https://dz1.bhalocast.pro:7059/hls/yt6.m3u8?md5=uxIiisR8D6A0w0gbCE_Z-Q&expires=1776205246&ch=yt6&s=5190f41de646c049e94ad6f2bcd267f5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 4)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=BvWo1q0LJi5Na_-FgKwpPA&expires=1776201641&ch=yt22&s=e6a0f7ee73d26d7f890aa7e3c7b51c80
+https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=EcKgXwXsM5TTulnOhNmOWw&expires=1776205248&ch=yt22&s=21087ca160948188f34e749c81cb6d41
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 5)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/sky1it.m3u8?md5=KZbXdSq-uIn84oilGBJtpA&expires=1776201642&ch=sky1it&s=46dfbfc349a97af9285665c47cfd67d8
+https://dz1.bhalocast.pro:7059/hls/sky1it.m3u8?md5=W_C7uOUxpGeNWdu1M4P3lg&expires=1776205249&ch=sky1it&s=f31d3537abe5e5000a98396272b6c241
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 6)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch20.m3u8?md5=3G5ToaWm7NBOzzZ0_pI7cw&expires=1776201643&ch=spch20&s=45da8ca2cd2e72e752ac01ae689bd287
+https://dz1.bhalocast.pro:7059/hls/spch20.m3u8?md5=D3nFq8eluRq8iqDDO1H3AQ&expires=1776205250&ch=spch20&s=68898b6e455fd6dbbb2602b63a51cb7f
