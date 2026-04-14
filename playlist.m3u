@@ -3,53 +3,59 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:22 AM 15-04-2026
+#last update time: 01:00:28 AM 15-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=cu-z71ymBczDg5cQBJQZxQ&expires=1776196223
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=Ly6dKfdw1mdKFQP_rqle0Q&expires=1776196223
+https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=7n7ElLPcfgsPiCZNJXSCJQ&expires=1776198029
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Wv6ZjSIR4GC3Swe1nfBiMg&expires=1776196223
+https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=8OasXHPpISP0p7oUznSfUg&expires=1776198029
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/star1in.m3u8?md5=FKAEDng_SQ-Yrv0q9rYpmg&expires=1776198029
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kQznzY5gxLwhkUnZGo4u9w&expires=1776196223
+https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ljTljHXoxb034S6tE7wyKQ&expires=1776198029
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=MivD3NOuhjCxCilyr5-BrQ&expires=1776196225&ch=spch71&s=96258cbb897df3deb6522817ab558e9f
+https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=4TOKAprbnDZAojX7YZ-0-g&expires=1776198031&ch=spch71&s=be6b23f71220eded1d83992ffe086238
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/yt7.m3u8?md5=T2PmnBx6mEpT71EGlz31tA&expires=1776198033&ch=yt7&s=62c689ba59e7bd7049996107516ef779
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/superprem.m3u8?md5=VKZdI3MzYZ6WP0avLnHWsg&expires=1776196238&ch=superprem&s=1d7f60ecac8d82ec0383da00da9138ac
+https://dz1.bhalocast.pro:7059/hls/superprem.m3u8?md5=H8gT6SEWFW4h3vuGfSTWrQ&expires=1776198034&ch=superprem&s=500b6ac8e86c0a81417b78f2eeeaabb8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 4)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt35.m3u8?md5=77N77wXDwVw56aTbGUypMg&expires=1776196239&ch=yt35&s=b3b3998fc9443cf29377d439f32b9c4d
+https://dz1.bhalocast.pro:7059/hls/yt35.m3u8?md5=KOJ8nm86XtUrc2xZwjSubA&expires=1776198035&ch=yt35&s=fdd5c39dd6eb7ea53f7545336d1c8df6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 5)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt52.m3u8?md5=vduWUO54Q2Tya1zS1Oqj6w&expires=1776196241&ch=yt52&s=042f8e120ca8a785b504577900e23484
+https://dz1.bhalocast.pro:7059/hls/yt52.m3u8?md5=q_1wJksSgBMh-WjGDXh99w&expires=1776198037&ch=yt52&s=6e743fdee5e238dc1c87699ed3376329
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Liverpool.png", group-title="Football", PSG vs Liverpool (Link 6)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=C6q4jbAv9spqn2I0gditow&expires=1776196242&ch=yt22&s=b82584447ad8f71eb3e253bf1a794b44
+https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=aG5R0JD5rbqLjOKH_suh2Q&expires=1776198038&ch=yt22&s=211a42a33a5c1243e9c3cbb7452aaa67
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=oLPQdZV3l3V7wy9OmTsqKg&expires=1776198040&ch=bbtsip1&s=68751f5df34d00bf867b3b6fe58702bf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch72.m3u8?md5=iTIQtDRkfvYwG3yA6olbRA&expires=1776196255&ch=spch72&s=e68f28d6f2dd5990715036f4f89c4ca9
+https://dz1.bhalocast.pro:7059/hls/spch72.m3u8?md5=idLfc2LdNSzR7m5IdaOQQw&expires=1776198042&ch=spch72&s=c3cdcdc9f33e8e313abb421c92ff72be
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt6.m3u8?md5=h2wP3RgZ3jyV8XeMCgNxaw&expires=1776196256&ch=yt6&s=ab65723f0d77d54cc0866fff0c20f05d
+https://dz1.bhalocast.pro:7059/hls/yt6.m3u8?md5=tpRyoLJRZwsNXkzPGzk6-w&expires=1776198045&ch=yt6&s=2d3667e7e17cbc4f00f7476e769423c1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 4)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=f64uLDV0dRs8Q1BuuMi-Fw&expires=1776196258&ch=yt22&s=304900393dd3e1331569e3a92303db56
+https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=MaPjzSlxTgCqAdYhR3St4g&expires=1776198046&ch=yt22&s=1b676a81f185724da726d5e605b660ad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 5)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/sky1it.m3u8?md5=WNINrx-M7xey-c_Url0dRA&expires=1776196259&ch=sky1it&s=6492baa8bed090cce38da774d1dc0dd8
+https://dz1.bhalocast.pro:7059/hls/sky1it.m3u8?md5=oITtR0jIUg472BDTpJrrQQ&expires=1776198050&ch=sky1it&s=d6d4101f1f38c6d47d34528474768988
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/FC%20Barcelona%20vs%20Atlético%20Madrid.png", group-title="Football", FC Barcelona vs Atlético Madrid (Link 6)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch20.m3u8?md5=FepROfKYblsBPapB1MYNvw&expires=1776196262&ch=spch20&s=1e00f95d5cc1adb6dff911c6779770da
+https://dz1.bhalocast.pro:7059/hls/spch20.m3u8?md5=8P11DMzCixMmTdT-D9Blhw&expires=1776198051&ch=spch20&s=65d350d301f485ae7c8e5c8c1eaa6793
