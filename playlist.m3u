@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:23 PM 14-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=2GIiGDXexgPgz0KTGJlW7Q&expires=1776189024
+#last update time: 11:00:27 PM 14-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=5vOIZblVbuLLs30rx31zpw&expires=1776189024
+https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=FVbLDReiD8shuEtjADjBfA&expires=1776190828
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=84DIq1WsUJhA_1ne19cV3w&expires=1776189024
+https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=0aHKML23stNXCA7hdtZHaA&expires=1776190829
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Oc2Y86tx9_VVwY2f5X7WuA&expires=1776189024
+https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=99psv_NarsNVwgXTK7LI2w&expires=1776190829
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Chennai Super Kings vs Kolkata Knight Riders (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=yq7QthgvCCvw8ajoona3RQ&expires=1776190829
 
 
 # --- FOOTYSTREAM SECTION ---
