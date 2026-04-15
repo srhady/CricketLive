@@ -3,10 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:29 PM 15-04-2026
+#last update time: 07:30:26 PM 15-04-2026
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
-http://dummy-link.local
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n8.zohanayaan.com:1686/hls/asportshd.m3u8?md5=bSx2ahUhsb0SCDKi5BXrew&expires=1776264628
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n6.zohanayaan.com:1686/hls/tenspk.m3u8?md5=7CzCRARJeNKSOBehkimnWA&expires=1776264628
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=KJgSQ5ytegsukHo17W5Vtg&expires=1776264628
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=33UVFuKTtnGqYtc20MHWgQ&expires=1776264629
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=6_nCEeDZr7IACnktxf4OLg&expires=1776264629
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n8.zohanayaan.com:1686/hls/star1in.m3u8?md5=LF3rtcHsiHHwoLtYUMKjzQ&expires=1776264629
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=1ik1c7i80xz_nP2pn475gg&expires=1776264629
 
 
 # --- FOOTYSTREAM SECTION ---
