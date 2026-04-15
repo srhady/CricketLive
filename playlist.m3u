@@ -3,77 +3,52 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:29 AM 16-04-2026
+#last update time: 02:30:36 AM 16-04-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=6MJR5lum1ebPfMeSoIw-uw&expires=1776288030
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n6.zohanayaan.com:1686/hls/tenspk.m3u8?md5=mIKOGdOTzC8MLQpaOhNJiw&expires=1776288030
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n8.zohanayaan.com:1686/hls/asportshd.m3u8?md5=kjWvj207YpMcRHbMnUj_jA&expires=1776288031
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n8.zohanayaan.com:1686/hls/star1in.m3u8?md5=k_pulb5R8bY5s7DFn5GJcA&expires=1776288031
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=0a8hQnhrTS_vxwS7fBxcBQ&expires=1776288031
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ek7MoyzAVJO4ZLRu7WtMCw&expires=1776288032
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=nP-Jn2WFAEwfaFBgHLf6aQ&expires=1776288032
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
+http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Real%20Madrid%20vs%20Bayern%20München.png", group-title="Football", Real Madrid vs Bayern München (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=9lgl74Oi0ih7z2Ue3GntAg&expires=1776288035&ch=bbtsvp2&s=fb9a79f6190b2ac30c951b2a34828102
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=OTYMP1xUHbY4OekBNBOIUA&expires=1776289840&ch=bbtsvp2&s=538ff6a1a4e0b1ea67117aab7b972231
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Real%20Madrid%20vs%20Bayern%20München.png", group-title="Football", Real Madrid vs Bayern München (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch72.m3u8?md5=8WV6ddxXpALa9gDdTw5CnQ&expires=1776288037&ch=spch72&s=a74938ca8a98cb304b1264bf559caf97
+https://dz1.bhalocast.pro:7059/hls/spch72.m3u8?md5=-Lzj5DXu3hbfgtH0U0xMlA&expires=1776289842&ch=spch72&s=d4b3a69f0847ffdc58bcb51b419ee23b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Real%20Madrid%20vs%20Bayern%20München.png", group-title="Football", Real Madrid vs Bayern München (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt7.m3u8?md5=jqSxRAO2QBeoh8IxGyJAYg&expires=1776288038&ch=yt7&s=423d27cfc3ef678b78594faacdc1e331
+https://dz1.bhalocast.pro:7059/hls/yt7.m3u8?md5=2gdC2q7IfH-NAOHxKNYbAw&expires=1776289846&ch=yt7&s=abe542d51061ced3f9d505bdaaf4f3b9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Real%20Madrid%20vs%20Bayern%20München.png", group-title="Football", Real Madrid vs Bayern München (Link 4)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt20.m3u8?md5=Ax-vOHbEYNEqHhjfd7d_7w&expires=1776288040&ch=yt20&s=d4ec954a09f9cce8a3cfeca45bb1cd3b
+https://dz1.bhalocast.pro:7059/hls/yt20.m3u8?md5=zjIC7RNx722JAL_7V0usoA&expires=1776289848&ch=yt20&s=5f47884e51ca3be027b8a94e37d76d22
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Real%20Madrid%20vs%20Bayern%20München.png", group-title="Football", Real Madrid vs Bayern München (Link 5)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch20.m3u8?md5=_U2QGEy6LufjJE2aYaLjpg&expires=1776288041&ch=spch20&s=54ec94c44a12c4c3764c9290b1b5db96
+https://dz1.bhalocast.pro:7059/hls/spch20.m3u8?md5=JeEFkfHQf3siEYjiHO9olg&expires=1776289850&ch=spch20&s=bcd0290c58e53c0244a03a92a6a515f6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Real%20Madrid%20vs%20Bayern%20München.png", group-title="Football", Real Madrid vs Bayern München (Link 6)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt31.m3u8?md5=XNrd3Q4a8yFgRqWs6e7brQ&expires=1776288043&ch=yt31&s=6ec4d686a1e35bc02f96ccb87217fdbd
+https://dz1.bhalocast.pro:7059/hls/yt31.m3u8?md5=-N9R2MbU2Deq0_r1sU8i4A&expires=1776289852&ch=yt31&s=54a373d4f86d1d15cc36b2003dba413f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Arsenal%20vs%20Sporting%20CP.png", group-title="Football", Arsenal vs Sporting CP (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=IwhGtWOnYKXCDP9JOQkAzw&expires=1776288045&ch=bbtsip1&s=039d0ad76a3c8b4f789dcfc1134147b3
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=AUheA8LBSXy82mLGKqy9uQ&expires=1776289854&ch=bbtsip1&s=d54e8546971fd2fa7332b3ffff0d253e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Arsenal%20vs%20Sporting%20CP.png", group-title="Football", Arsenal vs Sporting CP (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=FJQH1FZ0K231dhvmK2RkCA&expires=1776288046&ch=spch71&s=1950d226a67f31329e7862c2e9072487
+https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=MXfoe0gP5GRo2AEEUW3Gkg&expires=1776289856&ch=spch71&s=cae7f9bb694bd2eba3d10835c9a18e08
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Arsenal%20vs%20Sporting%20CP.png", group-title="Football", Arsenal vs Sporting CP (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch45.m3u8?md5=GumSlMwW_S8PSNf2cOyOrA&expires=1776288048&ch=spch45&s=649b1311adffcb99c06f4d7846269635
+https://dz1.bhalocast.pro:7059/hls/spch45.m3u8?md5=7cnUDDMtQ0jDW6yzHeqviA&expires=1776289857&ch=spch45&s=0b479d259033d31178c286bc38fd709b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Arsenal%20vs%20Sporting%20CP.png", group-title="Football", Arsenal vs Sporting CP (Link 4)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=JZRhz56L_CfYfMEeyQTNzQ&expires=1776288049&ch=yt22&s=1d0d269ff68feb71912489157e32e36f
+https://dz1.bhalocast.pro:7059/hls/yt22.m3u8?md5=U-cxKKKSVEsWUIakxk27Eg&expires=1776289859&ch=yt22&s=75ec958e9aab8e682d9034917d79f313
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Arsenal%20vs%20Sporting%20CP.png", group-title="Football", Arsenal vs Sporting CP (Link 5)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt6.m3u8?md5=Guak7qvMqZ3RwQVTpQWWsw&expires=1776288051&ch=yt6&s=348d67fdbde7da870725b599a618b4b6
+https://dz1.bhalocast.pro:7059/hls/yt6.m3u8?md5=V-h2JQGrvojak6By-amgGQ&expires=1776289861&ch=yt6&s=1f3d67c9fb6224d37b4f9560f6914427
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Arsenal%20vs%20Sporting%20CP.png", group-title="Football", Arsenal vs Sporting CP (Link 6)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt32.m3u8?md5=_JCKVinRcCLnchCQiS0-6w&expires=1776288052&ch=yt32&s=23591af82dfe230a4da6d5f2aea6f323
+https://dz1.bhalocast.pro:7059/hls/yt32.m3u8?md5=9CgmWizHlHALCAiATxYWxQ&expires=1776289863&ch=yt32&s=ed33b83a39c43867aeceb2da7473aa9f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Arsenal%20vs%20Sporting%20CP.png", group-title="Football", Arsenal vs Sporting CP (Link 7)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/sky1it.m3u8?md5=uWGztMfOU5-DhauVVEE-Zw&expires=1776288054&ch=sky1it&s=c00496b32d9cd7b14cb43525351c3a9b
+https://dz1.bhalocast.pro:7059/hls/sky1it.m3u8?md5=eQSOJSxek7wd-EpZPFGKcQ&expires=1776289865&ch=sky1it&s=617b4d884510d5a129bfc4e6c5e60ea3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Arsenal%20vs%20Sporting%20CP.png", group-title="Football", Arsenal vs Sporting CP (Link 8)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt51.m3u8?md5=Q2ytOfgXzuPyo6ajYvqkng&expires=1776288055&ch=yt51&s=49f32820fe9743e92f75eceefd6bf403
+https://dz1.bhalocast.pro:7059/hls/yt51.m3u8?md5=rU_Y0rXH8tcSMUK42mGTEg&expires=1776289867&ch=yt51&s=25635993075e1d23d8903c159e94030d
