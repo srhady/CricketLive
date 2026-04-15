@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:25 PM 15-04-2026
+#last update time: 12:00:25 AM 16-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=_xmne6p0ya0fdFpDCBg1dQ&expires=1776279025
+https://n7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=dcwArWd-hCJpeT2I25MT5w&expires=1776280826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=uxSALhB-fG6RhP1HD87oUQ&expires=1776279026
+https://n7.zohanayaan.com:1686/hls/asportshd.m3u8?md5=lubcyL2mkXSSuXnTp0GxBA&expires=1776280826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=zHJArW-6itKaciJ-fN_u5Q&expires=1776279026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=r2IKVF2FAQvLkWGXCNj_Xw&expires=1776279026
+https://n6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=pA6-rk7FS47RPZn4AGKVlA&expires=1776280826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=K3Syw6su5K5kHY5WVmh0Dw&expires=1776279026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=CzbJ3ZSdpgVnFeuG2kAJkA&expires=1776279026
+https://n8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=ikzx5jDNYC2g7VbdEOC9cg&expires=1776280827
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n8.zohanayaan.com:1686/hls/star1in.m3u8?md5=nBUn34MnnDDR-nioOPcnRg&expires=1776279026
+https://n7.zohanayaan.com:1686/hls/star1in.m3u8?md5=oc1nB68_8IFLjIHCn8XM-g&expires=1776280827
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=nLrY3hvytXhFAsLOvCKcKQ&expires=1776280827
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Lucknow Super Giants (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=P52HRKx94LKKGzR3b1RiDg&expires=1776280827
 
 
 # --- FOOTYSTREAM SECTION ---
