@@ -3,25 +3,28 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:19:34 PM 16-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.webp" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=e9TJC3HQvCB8igV_Ha5eWA&expires=1776339574
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.webp" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=ueqx6-4yzwr3M3VungLi_Q&expires=1776339574
+#last update time: 04:30:23 PM 16-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.webp" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=6pDxb0IWuHeoK97b8TWy7w&expires=1776339575
+https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=IfyBW71CCgEtAXHswxlX3g&expires=1776340223
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.webp" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=fDtYp0Sj9bZiu2LB6360kQ&expires=1776340224
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.webp" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=JHx1IgLFWfgDJHxS27yL4g&expires=1776340224
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Carlton%20vs%20Collingwood.png", group-title="Football", Carlton vs Collingwood (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=PH0vOTDmgp43NxxtGRrcGQ&expires=1776339577&ch=bbtsip1&s=9e8b46773c6c4eab618d4e41bc8b2026
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=Ol5lF4C_q_um9x-MGHWqIQ&expires=1776340226&ch=bbtsip1&s=f9acdc084c6a7c48116b346503adcabd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/North%20Queensland%20Cowboys%20vs%20Manly-Warringah%20Sea%20Eagles.png", group-title="Football", North Queensland Cowboys vs Manly-Warringah Sea Eagles (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch61.m3u8?md5=CPC0sTRgNBMAiCMQbT2xbg&expires=1776339579&ch=spch61&s=7c62f25df525787868d49d5097ec2eeb
+https://dz1.bhalocast.pro:7059/hls/spch61.m3u8?md5=0gx0SciXPif8n_m7NhIU5g&expires=1776340227&ch=spch61&s=e14744a96fbb57f8417b3fb5225bd6ec
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/RBC%20Heritage%20vs%20PGA%20Tour.png", group-title="Football", RBC Heritage vs PGA Tour (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=vvWBTQ56WTPqSTI92lfAmg&expires=1776340229&ch=dadoskygo&s=45aef72d67f0037f06ac0d9d3fe68cbe
