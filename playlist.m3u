@@ -3,77 +3,74 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:32 AM 17-04-2026
+#last update time: 01:00:26 AM 17-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=HU4P61RZHxRQI3lEzp0hJA&expires=1776369034
+https://n5.zohanayaan.com:1686/hls/tenspk.m3u8?md5=JxwgRt82xCKkGSX4fcOOTA&expires=1776370828
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=rSUhHhd3MygHYmRE3VqMBg&expires=1776369034
+https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=mEbRmkgysRN4jW0aEki5qw&expires=1776370828
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=8yXmVKdloRV4Oe_viGib1Q&expires=1776369034
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=epiKScx7wMzx7cHShwzoDg&expires=1776369034
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=fz3xiPSwhJPa8VsNblT75Q&expires=1776369035
+https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=jxeAZ0SnuhKF_9sxTw9OWg&expires=1776370828
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=y8ekLm80sKAawWAdwGq9BQ&expires=1776369035
+https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=oTUL20m5STHUHZQGArm6ww&expires=1776370828
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Ke4L54BgMBl1tbLfCL9mFg&expires=1776370829
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=fG_FhFrICtH5z-S9zyPX9Q&expires=1776369035
+https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=-qomdhhsKgAfsG4MbOt-RA&expires=1776370829
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=jru5QDRS8SLIFBVbrAcxxg&expires=1776370829
 
 
 # --- FOOTYSTREAM SECTION ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Celta%20de%20Vigo%20vs%20Freiburg.png", group-title="Football", Celta de Vigo vs Freiburg (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=n5XM7NNJSA2MDAVDbDxIWg&expires=1776369038&ch=bbtsip5&s=01147e3fe2ce83a8ab4705fabfb32ce7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Celta%20de%20Vigo%20vs%20Freiburg.png", group-title="Football", Celta de Vigo vs Freiburg (Link 2)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=-Y_kMUxoGW24IysNCwkRYw&expires=1776369040&ch=spch71&s=db7c98b485823a7a6658a03dc8c07092
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Shakhtar%20Donetsk%20vs%20AZ%20Alkmaar.png", group-title="Football", Shakhtar Donetsk vs AZ Alkmaar (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=VLmnFBItBVZAXkcLf9MQqQ&expires=1776369042&ch=bbtsp7&s=3fbb1fda30571e5e13dc225d5b95c99a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Shakhtar%20Donetsk%20vs%20AZ%20Alkmaar.png", group-title="Football", Shakhtar Donetsk vs AZ Alkmaar (Link 2)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch72.m3u8?md5=BYu7x1Zbol6L6Vd1XczXUQ&expires=1776369043&ch=spch72&s=1ba0be2e11a97a8a0e12e7a5cd4b584a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Hull%20FC%20vs%20St%20Helens.png", group-title="Football", Hull FC vs St Helens (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=5ub7iNLgcVEDlLjNhKsubg&expires=1776369045&ch=dadoskyare&s=a1ac7de913409645d4c967c15973d4f2
+https://dz1.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=x5xAxFnqujL1d8rpMqnr9w&expires=1776370831&ch=dadoskyare&s=ef5c59a28ce6b84450681e53fa37e64b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Rayo%20Vallecano%20vs%20AEK%20Athens.png", group-title="Football", Rayo Vallecano vs AEK Athens (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsp9.m3u8?md5=13DMierFZD8NIlgAa1T9yQ&expires=1776369046&ch=bbtsp9&s=1b9edd1fb17cd16e2a9e194e382cdcd3
+https://dz1.bhalocast.pro:7059/hls/bbtsp9.m3u8?md5=BpzDLqRCXYZw9S8zSlbvhQ&expires=1776370834&ch=bbtsp9&s=5713c08d4234d648c1961de71a44c924
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Crystal%20Palace%20vs%20Fiorentina.png", group-title="Football", Crystal Palace vs Fiorentina (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=6sF2nlkswcLt0ey_0PYYNw&expires=1776369048&ch=bbtsip3&s=c2d151f879ccdad3fffbdc47fefb8113
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=XzYLYFFAggGIkWYyMzbcAw&expires=1776370835&ch=bbtsip3&s=cf869d668e914406ab7a2f7148642745
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Mainz%2005%20vs%20Strasbourg.png", group-title="Football", Mainz 05 vs Strasbourg (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsp8.m3u8?md5=aRcifT8EWxyq1fRn7nS02w&expires=1776369050&ch=bbtsp8&s=51b74fa408e774b02dcefccf0506de77
+https://dz1.bhalocast.pro:7059/hls/bbtsp8.m3u8?md5=_1B44fq7S05vjKqpcv7pMg&expires=1776370837&ch=bbtsp8&s=f6cd7755d10e1fbcd252324e0899eeab
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Nottingham%20Forest%20vs%20Porto.png", group-title="Football", Nottingham Forest vs Porto (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=5ulwMA0Zlj85zWxFW7gZ7g&expires=1776369051&ch=bbtsip1&s=ffd7f6d4770fea4c3c86939f2afbcad6
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=vKVzuDWCmC_yKZRGY3OXVA&expires=1776370838&ch=bbtsip1&s=11cdc372dbb9ba320e98fec3e5f5d9eb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Nottingham%20Forest%20vs%20Porto.png", group-title="Football", Nottingham Forest vs Porto (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch73.m3u8?md5=TahXpVOKTR3z7OFwOQZYng&expires=1776369052&ch=spch73&s=e72c7868ee8f3f91d94ad373ae54bba5
+https://dz1.bhalocast.pro:7059/hls/spch73.m3u8?md5=RF-il8bwm5EhFhnn2y1vPw&expires=1776370839&ch=spch73&s=83259a2ca4050baa0fdf9ce9bd70ab49
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Aston%20Villa%20vs%20Bologna.png", group-title="Football", Aston Villa vs Bologna (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=49xg-VIH18Z5GtsSr5-3Cg&expires=1776369054&ch=bbtsvp2&s=b7023b4bac3e860fa598849436747413
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=3TImKCaT-hlKQgVUc4iY1A&expires=1776370841&ch=bbtsvp2&s=3020e5d6289d7b2cf596bd1557fc81c8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Aston%20Villa%20vs%20Bologna.png", group-title="Football", Aston Villa vs Bologna (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch74.m3u8?md5=I1Qj8SVNgP1KAz1qcbMOog&expires=1776369055&ch=spch74&s=13a9c169472f05147e208534196ed005
+https://dz1.bhalocast.pro:7059/hls/spch74.m3u8?md5=C9cXmC5AW-oSxWH1oIRbAA&expires=1776370842&ch=spch74&s=066466b253dbb4878c296ab1cd4f510d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Real%20Betis%20vs%20Sporting%20Braga.png", group-title="Football", Real Betis vs Sporting Braga (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip6.m3u8?md5=ujNkUaTdDBj6h-5houU3gQ&expires=1776369057&ch=bbtsip6&s=bf08a63cc9d79ec3297858947809a6f0
+https://dz1.bhalocast.pro:7059/hls/bbtsip6.m3u8?md5=VJOzIeYEQgKuSUh39ij8Ow&expires=1776370844&ch=bbtsip6&s=e76a946dcac2eab2330dfc3e8a4e6550
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Bromley%20vs%20Cambridge%20United.png", group-title="Football", Bromley vs Cambridge United (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=Am-TsUmm9pE1cFfzBD-BCA&expires=1776369058&ch=dadoskyfob&s=31c4128447e319b200eac5e0d5cd3bed
+https://dz1.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=7xPFwMLMB4uxzhxzmH1w3A&expires=1776370846&ch=dadoskyfob&s=263f0ff82ff097d09d4fe2530e74d531
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LIV%20Golf%20Mexico%20City%20vs%20PGA%20Tour.png", group-title="Football", LIV Golf Mexico City vs PGA Tour (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=TTzNOzjH38mWBJIaqKxoSw&expires=1776370847&ch=bbtsip1&s=f5e76e7c44ee7e1d1d0793802da41203
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LIV%20Golf%20Mexico%20City%20vs%20PGA%20Tour.png", group-title="Football", LIV Golf Mexico City vs PGA Tour (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=lA0sn_x5K9Q1DFqRnhPkEA&expires=1776370848&ch=bbtsip4a&s=c37c40e9bf09b2b1e57d0b5a8b49a998
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LIV%20Golf%20Mexico%20City%20vs%20PGA%20Tour.png", group-title="Football", LIV Golf Mexico City vs PGA Tour (Link 3)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=KdjIY7DS__4Ietp3n5UuoA&expires=1776370849&ch=bbtsip3&s=cfbf8eea05e5a82cbef1e440be3066c7
