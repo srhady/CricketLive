@@ -3,10 +3,13 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:24 PM 16-04-2026
+#last update time: 03:00:30 PM 16-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Carlton%20vs%20Collingwood.png", group-title="Football", Carlton vs Collingwood (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=3cK7tLrxCwtYN8jTSHjWMg&expires=1776334835&ch=bbtsip1&s=60fd98160d54a772daf058f7f65c7a0e
