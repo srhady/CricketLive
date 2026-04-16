@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:25 AM 17-04-2026
+#last update time: 04:00:29 AM 17-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,16 +12,16 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LIV%20Golf%20Mexico%20City%20vs%20PGA%20Tour.png", group-title="Football", LIV Golf Mexico City vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=mKsdy5e0pE1DEKGwKCqdCQ&expires=1776379829&ch=bbtsip1&s=3fcca8c176dd88b630648de6f3d1c85b
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=45RzCrkLNGH5_Sz3vt7CZw&expires=1776381632&ch=bbtsip1&s=acee8a1286a480d580389e7e92a2479e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LIV%20Golf%20Mexico%20City%20vs%20PGA%20Tour.png", group-title="Football", LIV Golf Mexico City vs PGA Tour (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=JiPxCYHxcHfrD11HXhBbcA&expires=1776379830&ch=bbtsip4a&s=50fc50b4336e7277b0da4c89c5f3fd22
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=Rr-ixGunxqlR4CPxG-uRWA&expires=1776381634&ch=bbtsip4a&s=5e80fee8674ef9de31a34f3bda3c1bc9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LIV%20Golf%20Mexico%20City%20vs%20PGA%20Tour.png", group-title="Football", LIV Golf Mexico City vs PGA Tour (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=tmAkUKFbCrHqfxD84ncOxQ&expires=1776379832&ch=bbtsip3&s=99b6ea4e1c5bf6e211df209346e617a9
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=XDg_iN4UUgQYBWuKk2eDWg&expires=1776381635&ch=bbtsip3&s=1fdc23aea2f70826b4d2a5e83ed921e6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=qr8-wBF23M-TzYyZpacCfg&expires=1776379834&ch=dadoskygo&s=9b1dc0b84174d4aa0e98da3da608283f
+https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=sX29cuR-WvF_v0dLxw92nQ&expires=1776381636&ch=dadoskygo&s=39c6edf1dfa8e9901a24efab33fd60c8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=Y2JUHJpQMaUEsUTdsdAKIw&expires=1776379835&ch=dadosky1&s=b393baa1511b124faf673a303c3273dd
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=Mb3IT4pSNBF2wuw6I5WJDQ&expires=1776381638&ch=dadosky1&s=7a770531ee1d509f55611a44f942f213
