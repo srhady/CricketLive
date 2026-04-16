@@ -3,47 +3,47 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:25 PM 16-04-2026
+#last update time: 12:00:26 AM 17-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=goWABqqHTZ--cged1f1jRg&expires=1776365426
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=Ue1zKlN1M7yx5rJh-AvzpQ&expires=1776365426
+https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=oVufhc6ikisQ8rcvM4zZ5A&expires=1776367227
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=8uNrrYzhElaEmbjLcuHJ6A&expires=1776365426
+https://n4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=aNazxDbbaMy7Scsper8s0w&expires=1776367227
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=1iMfL6yf6kJku1f8xVaZAg&expires=1776367228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=5MGks6Ep3G3VkhgaahMO5g&expires=1776365427
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=Od5LUp0Y7jEEySDGHoscsA&expires=1776365427
+https://n5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=SUKX93lkoNoCf4k-VHMHag&expires=1776367228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=ryl8DfB_uxBGyD-7XGs-1A&expires=1776365427
+https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=imFskAWIlEL-bGX9-_IE8Q&expires=1776367228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=w8usH0_oaZqtLUhFFPd33w&expires=1776365427
+https://n4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=VJNAykUdbZPHJPv-UcnP1Q&expires=1776367228
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=9G8WxBmdpJ4mRmPpMkkPVw&expires=1776367228
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Celta%20de%20Vigo%20vs%20Freiburg.png", group-title="Football", Celta de Vigo vs Freiburg (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=B9BijSCLCAJrF-JCHxULyA&expires=1776365430&ch=bbtsip5&s=6850db5c23f923b360252135b6ae73be
+https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=NyhQz2kJH-CmqMnS-iTtKA&expires=1776367231&ch=bbtsip5&s=a400206d38fd9474a2e0cc30d873926e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Celta%20de%20Vigo%20vs%20Freiburg.png", group-title="Football", Celta de Vigo vs Freiburg (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=sAkU7A4uzljgHqZhz597fQ&expires=1776365431&ch=spch71&s=6fe440cc35e7eee565714eac5c01c0a9
+https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=VDE5RSIfkf8g5LchhbBfRg&expires=1776367233&ch=spch71&s=bfd411a2a1363d7ce7cd344962c61e4a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Shakhtar%20Donetsk%20vs%20AZ%20Alkmaar.png", group-title="Football", Shakhtar Donetsk vs AZ Alkmaar (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=sAhAq32py_kyG-xEs8w7uw&expires=1776365433&ch=bbtsp7&s=c918cb1ad858c38c9568aaaa5cf87e5f
+https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=FwYW-Voceaz93kmREfV3Zw&expires=1776367236&ch=bbtsp7&s=bdf9686f450c0fd4622551ba5a2a2574
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Shakhtar%20Donetsk%20vs%20AZ%20Alkmaar.png", group-title="Football", Shakhtar Donetsk vs AZ Alkmaar (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch72.m3u8?md5=v0DVPiMSivbMW2Pbo1JGfQ&expires=1776365434&ch=spch72&s=3802eba278095faffc163f8e1a13540e
+https://dz1.bhalocast.pro:7059/hls/spch72.m3u8?md5=nXzXolhwmZQxmI3R_gvNMw&expires=1776367238&ch=spch72&s=18fd75a2bcc4abc58b72bc63c1e195f3
