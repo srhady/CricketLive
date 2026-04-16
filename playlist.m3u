@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:42:36 PM 16-04-2026
+#last update time: 04:00:27 PM 16-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,7 +12,7 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Carlton%20vs%20Collingwood.png", group-title="Football", Carlton vs Collingwood (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=cITgAKF3GRWDnWJJ76cr2Q&expires=1776337359&ch=bbtsip1&s=6c06badd89287d3207135bc87f24673a
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=KTDkVDPCvNcRxpb3sJeMxQ&expires=1776338432&ch=bbtsip1&s=f5ea3a207b658b86dd4e9701e7debb59
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/North%20Queensland%20Cowboys%20vs%20Manly-Warringah%20Sea%20Eagles.png", group-title="Football", North Queensland Cowboys vs Manly-Warringah Sea Eagles (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch61.m3u8?md5=IvPhmrO7YKt5hgVctU5Dig&expires=1776337361&ch=spch61&s=b1f0020986bea27056e722831fc6a43a
+https://dz1.bhalocast.pro:7059/hls/spch61.m3u8?md5=XAkfWUeTxpVGLOk5FG89XA&expires=1776338434&ch=spch61&s=602c941ba2b05cc19b025572ee405c54
