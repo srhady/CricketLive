@@ -3,47 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:31 PM 16-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=fbh3eqUQ7jWBanSJkeEpWA&expires=1776356432
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=YJDS6wwNnCoXwh4KZyzpoQ&expires=1776356432
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/tenspk.m3u8?md5=A9xm24TLxN-llQdO7m-MVA&expires=1776356432
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=0b9qTXtw9EgqrlVaNxU-sA&expires=1776356433
+#last update time: 09:30:28 PM 16-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=GV1PEsO_fwZDe5gHKSQY-Q&expires=1776356433
+https://n3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=LxCGWc3goHbqh8YEoB5Rpg&expires=1776358229
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=DrUSI959F81ff7lLV-PcLA&expires=1776358230
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Islamabad%20United.png" group-title="Live Cricket", Karachi Kings vs Islamabad United (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/tenspk.m3u8?md5=RsPxCz6Sr0A0VJ0VyEm_mA&expires=1776356433
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Ut7y548ucvr8DIlpxdHPrg&expires=1776356433
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=GBvhALDBl_3TBhVrNNr1wQ&expires=1776356433
+https://n2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=cEFX7M8RtYvkYJ0iQm1UKw&expires=1776358230
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=yCeujzCXUF_nOXt0K6zCSQ&expires=1776356434
+https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=TuX8VE-9g_pt1VaaEPmxNw&expires=1776358231
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=sfIoj8CCgvkdUl9hr_ufdg&expires=1776358231
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=U2OOYTvcE2zHBLeI1Kmh7A&expires=1776356434
+https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=KQhNtzbA3kZ9mJcOlllYSg&expires=1776358231
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Punjab Kings (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=LVuVAVGf4yAVan00TFeQTg&expires=1776358232
 
 
 # --- FOOTYSTREAM SECTION ---
