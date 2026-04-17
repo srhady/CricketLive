@@ -3,28 +3,26 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:23 PM 17-04-2026
+#last update time: 06:00:22 PM 17-04-2026
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
-http://dummy-link.local
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20New%20Zealand.png" group-title="Live Cricket", Bangladesh vs New Zealand (BBTSP3)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=pJ5EXbZFy0tcD62wgw7CGg&expires=1776432023
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=EdTefK9HOvjz1kf6JWM_cQ&expires=1776430226&ch=bbtsvp2&s=29cf8a895f3af16eec505bf17b22a9f3
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=_wptPLBELraj7GM-9_TtbQ&expires=1776432025&ch=bbtsvp2&s=5be20afce82417c1831ba360f47f914c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=AQJqf8YagDr_MVkzmqub3w&expires=1776430228&ch=bbtsip4a&s=e502ec585ad50d1503f2c01ffb7eac1c
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=5w73f34anGC8wOj1rBqdAQ&expires=1776432027&ch=bbtsip4a&s=1d89f2a4ca6845424ea07708296c204c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Geelong%20Cats%20vs%20Western%20Bulldogs.png", group-title="Football", Geelong Cats vs Western Bulldogs (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=QMmFJL8S_eiyA8OZ-UQRmg&expires=1776430229&ch=bbtsip4a&s=c41db18314a6913c57d3bcb12b51391e
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=HEZSC0WMbKXNPAFLnpIgJg&expires=1776432028&ch=bbtsip4a&s=45a58e41de65fde7eb5b855237f46268
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/GWS%20GIANTS%20vs%20Sydney%20Swans.png", group-title="Football", GWS GIANTS vs Sydney Swans (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=uWxHt2r-yRcizyPnwERm2w&expires=1776430231&ch=bbtsip5&s=e2a3301431e67ce6fed8abd5fdb68ad9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Melbourne%20Victory%20vs%20Newcastle%20Jets.png", group-title="Football", Melbourne Victory vs Newcastle Jets (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=LqD38Kx9wdqE3f22T-piZA&expires=1776430233&ch=bbtsip1&s=47c8090e9b88de2722b6c76a06bed6fe
+https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=laDs--BGF_ZGvCZOW_WjBg&expires=1776432030&ch=bbtsip5&s=e06f728c38f8e48cea98ff344910671d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Dolphins%20vs%20Penrith%20Panthers.png", group-title="Football", Dolphins vs Penrith Panthers (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch63.m3u8?md5=fRoONwJt6y3lmNX4HNTv1A&expires=1776430234&ch=spch63&s=76d892db67a64e09a8034204be5b4295
+https://dz1.bhalocast.pro:7059/hls/spch63.m3u8?md5=8pdfn_FyYclhVlK_CU1iTw&expires=1776432031&ch=spch63&s=af2871b16871a026ab395affe71b2cae
