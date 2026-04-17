@@ -3,43 +3,16 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:21 AM 18-04-2026
+#last update time: 03:00:23 AM 18-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/St.%20Pauli%20vs%20Köln.png", group-title="Football", St. Pauli vs Köln (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=OsI5h-ARSFE7IklFvNdifw&expires=1776462626&ch=spch71&s=cdbe807ed3153af9a4e14b01ff7ec559
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/St.%20Pauli%20vs%20Köln.png", group-title="Football", St. Pauli vs Köln (Link 2)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt7.m3u8?md5=io1j8wp1ljyrL5PVoRAXew&expires=1776462627&ch=yt7&s=f42e887afe14dd2f279ee393f8e86260
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Edinburgh%20vs%20Zebre.png", group-title="Football", Edinburgh vs Zebre (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/viaplaysp2.m3u8?md5=RqWmyI6sKiczA6E3E4mL1g&expires=1776462630&ch=viaplaysp2&s=e638755db8adfa58a1a51b8bb909b30d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Inter%20Milan%20vs%20Cagliari.png", group-title="Football", Inter Milan vs Cagliari (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=VtSFiPJLLKQtZNu6viqGHw&expires=1776462632&ch=superspfb&s=c79e2444f8a172fc36bc367b461a1f0a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Inter%20Milan%20vs%20Cagliari.png", group-title="Football", Inter Milan vs Cagliari (Link 2)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt51.m3u8?md5=oTyn-WgrykI-A2jdUt0vPw&expires=1776462633&ch=yt51&s=67e92b9a79211b4b85986498c51cdf5e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Inter%20Milan%20vs%20Cagliari.png", group-title="Football", Inter Milan vs Cagliari (Link 3)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/sky3it.m3u8?md5=5zZ5ULKobouTCRLvdVWpig&expires=1776462635&ch=sky3it&s=2f267062bee2309c2c3d9d2946c103cc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Ulster%20vs%20Leinster.png", group-title="Football", Ulster vs Leinster (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=rOE-8wQriBDACH8nv6__kA&expires=1776462637&ch=viaplaysp1&s=6f3a40c1884824ddc054e831b6655f27
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Lens%20vs%20Toulouse.png", group-title="Football", Lens vs Toulouse (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch31.m3u8?md5=VnODY0w6e8Qr29wfgLWN_g&expires=1776462639&ch=spch31&s=947722054f62b49626faa2902a6fca67
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Dragons%20vs%20Bulls.png", group-title="Football", Dragons vs Bulls (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/viaplayextra.m3u8?md5=FCTHero5yvha14pEnm-ClA&expires=1776462641&ch=viaplayextra&s=cdde9c9aa95af7e456c262d878e20c4a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Blackburn%20Rovers%20vs%20Coventry%20City.png", group-title="Football", Blackburn Rovers vs Coventry City (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=z2CNsGm3LqGa28lrT25Vqg&expires=1776462642&ch=dadoskyfob&s=b83e7a1f08fabd062e7e8167e2b36f83
+https://dz1.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=cRZUOPNDQZQ0ywj3-rPTYA&expires=1776464427&ch=dadoskyfob&s=5eb69bfabc9589ebd11323097735fe5b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Blackburn%20Rovers%20vs%20Coventry%20City.png", group-title="Football", Blackburn Rovers vs Coventry City (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=Jx9hoxXyH9o1S7DjLmEabA&expires=1776462644&ch=dadosky1&s=2c9d8f2f58ed2e7c32647d2b15d3d586
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=SPQF4yufa3mcZf2HoNHLTg&expires=1776464429&ch=dadosky1&s=7a593b3b101e73a7ad42f9f9d15f3f3f
