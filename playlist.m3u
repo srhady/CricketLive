@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:25 PM 17-04-2026
+#last update time: 03:30:25 PM 17-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,19 +12,25 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Melbourne%20Storm%20vs%20Canberra%20Raiders.png", group-title="Football", Melbourne Storm vs Canberra Raiders (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=_E46yeJ15CvuVGm5pY8aJQ&expires=1776421228&ch=dadosky3&s=e6c9689f015c929457d83da15c97e649
+https://dz1.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=elIfArCFVap6zydXXoL7Vg&expires=1776423030&ch=dadosky3&s=6aa71a7c90bfd97ed332075fb2926793
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Melbourne%20Storm%20vs%20Canberra%20Raiders.png", group-title="Football", Melbourne Storm vs Canberra Raiders (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=vNGYJmTElkt5eaw1HVLnjg&expires=1776421229&ch=dadosky1&s=42ea8ba6a7d84808f064308dc115809a
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=1v_-sXM347NbhLdaDMXo1g&expires=1776423032&ch=dadosky1&s=23ae73c972e70dd5e40c45d130c559cb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=YA54riszxN-1qwatd5Yn2g&expires=1776421230&ch=bbtsvp2&s=e38151099a9bdd0f9cf4f9f28db53b91
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=ZE_O8uhmlWQN26qBunpASg&expires=1776423034&ch=bbtsvp2&s=4be3c7e738823d1cd9fb214f3d3abf33
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=dAMX09WYSdT1sY7x-aCxEA&expires=1776421231&ch=bbtsip4a&s=4b630b87993bf6835514dae93b749d55
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=CeJ4fOCobTft6ImGAdONJw&expires=1776423035&ch=bbtsip4a&s=57c5c123b54a6b673bb3b17019a95644
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Geelong%20Cats%20vs%20Western%20Bulldogs.png", group-title="Football", Geelong Cats vs Western Bulldogs (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=tEC6AULSUanRTuwVUaOCbA&expires=1776421232&ch=bbtsip4a&s=94b6f28e3b150ec55878db9d4cb5fb60
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=cAAbK7RUCRm0gnjzp_Kpyw&expires=1776423037&ch=bbtsip4a&s=08e0d031322f7a29ec0001f0ebe6749d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/GWS%20GIANTS%20vs%20Sydney%20Swans.png", group-title="Football", GWS GIANTS vs Sydney Swans (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=5bB_SeRaCmsu_K2CzyWxQw&expires=1776421234&ch=bbtsip5&s=c8e40cffd69d6e0dda78cefc19f8e55a
+https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=jM-1TUB6GJy1sTzqgPedVA&expires=1776423039&ch=bbtsip5&s=0cbdb07f03e0bdd323d8388a9286c10d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Melbourne%20Victory%20vs%20Newcastle%20Jets.png", group-title="Football", Melbourne Victory vs Newcastle Jets (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=32KkbcETrthGAQSnyNhPcg&expires=1776423041&ch=bbtsip1&s=47109e28c2eb96c002bee5658597b6a1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Dolphins%20vs%20Penrith%20Panthers.png", group-title="Football", Dolphins vs Penrith Panthers (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/spch63.m3u8?md5=S12cikDCWRt0E99SwfTo7A&expires=1776423043&ch=spch63&s=5bfadd89976cec71a56332f5836cd086
