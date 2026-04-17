@@ -3,68 +3,68 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:21 AM 18-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=maq_TKQdnruFpFAKMORcCg&expires=1776459022
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=olaR-Am1_w2B5Fp8NgbESg&expires=1776459023
+#last update time: 02:00:22 AM 18-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=xX4supuU1682EREy8k7fCA&expires=1776459023
+https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=e9jLeZVEBwZoep1bkHjSgw&expires=1776460823
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (STAR1IN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/star1in.m3u8?md5=N-wRTbPjw8_XgR8Ex9scmQ&expires=1776459023
+https://n2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=sS_jR-pgC_0URr9pXRkdMQ&expires=1776460823
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=adXSkrlTtFHkOueso1ioTQ&expires=1776459023
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=d5jGKFZEq0V_qQEKkCjq1Q&expires=1776459024
+https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=4FnUn1DdrbnQdaJSWaLC3Q&expires=1776460823
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=jKKiuaNsuOCvVU3EnPYavg&expires=1776459024
+https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=q6VTxyTZqa8ufXAfZukkpQ&expires=1776460823
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=yjVfODLDaL_RN-oJTZ_ijA&expires=1776460824
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=uZ9SgH6j6kmIbMlCXCywdQ&expires=1776460824
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=vNcEfWh-9ogzZgWCTiyYfQ&expires=1776460824
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/St.%20Pauli%20vs%20Köln.png", group-title="Football", St. Pauli vs Köln (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=0hhL35jI1Wl22594bzBu9w&expires=1776459027&ch=spch71&s=d5cc0898038893cb354215f20d39c676
+https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=LfPBkqSVkXO3UiICRba8zg&expires=1776460827&ch=spch71&s=5795af5e6e072bd6ceb35311ac137598
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/St.%20Pauli%20vs%20Köln.png", group-title="Football", St. Pauli vs Köln (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt7.m3u8?md5=f424-ksH87xM-qK5_OK4Nw&expires=1776459028&ch=yt7&s=35040922aa0af3293547e92fde1ed934
+https://dz1.bhalocast.pro:7059/hls/yt7.m3u8?md5=32MqQbvKYU-8NBcQrqqNlg&expires=1776460828&ch=yt7&s=cc33b96bd854d1d07957eb7a06a09b98
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Edinburgh%20vs%20Zebre.png", group-title="Football", Edinburgh vs Zebre (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/viaplaysp2.m3u8?md5=W3vdnB7HN_Ql-HtjrqYLFA&expires=1776459030&ch=viaplaysp2&s=f117f19e171087dced960c3f2a2ac5b6
+https://dz1.bhalocast.pro:7059/hls/viaplaysp2.m3u8?md5=qG73SU9TSs0GE7gxJgHygw&expires=1776460830&ch=viaplaysp2&s=3e24f759cd874333ee326758a45dbe94
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Inter%20Milan%20vs%20Cagliari.png", group-title="Football", Inter Milan vs Cagliari (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=erzKthbbqjgAnzd5ZKInOA&expires=1776459032&ch=superspfb&s=cec0ca99e594251578492b99989bf056
+https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=Q_nOHnDikZpxa6LoD4pvNw&expires=1776460832&ch=superspfb&s=5eaf9815a06f12ac56cbed3cf8cd2654
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Inter%20Milan%20vs%20Cagliari.png", group-title="Football", Inter Milan vs Cagliari (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt51.m3u8?md5=Q89ekorJz_Cf0Wypk1IFiQ&expires=1776459033&ch=yt51&s=1173333fd4a0e273e58a2a218265a536
+https://dz1.bhalocast.pro:7059/hls/yt51.m3u8?md5=pR8KPiIRI5X5xsFB3jS_ZA&expires=1776460833&ch=yt51&s=57b8f5b849ebc1b8801b27a1cb579dad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Inter%20Milan%20vs%20Cagliari.png", group-title="Football", Inter Milan vs Cagliari (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/sky3it.m3u8?md5=jv6DPVEgxGeDPISVm3ydTA&expires=1776459034&ch=sky3it&s=f03132ed1fbd188d9c314820c9ff8ff1
+https://dz1.bhalocast.pro:7059/hls/sky3it.m3u8?md5=N9v9qF6bwrqURETbcjqQnA&expires=1776460834&ch=sky3it&s=0b95ced79051503c7b819517e1bdf0b7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Ulster%20vs%20Leinster.png", group-title="Football", Ulster vs Leinster (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=arJtgszo-aKq0cXZvSUQsQ&expires=1776459036&ch=viaplaysp1&s=e578ab3b0af10fb54ccc1c7403667252
+https://dz1.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=skeqh87LcUOWXvXdrMH6Ow&expires=1776460836&ch=viaplaysp1&s=eac02a3fe3796e2c38221b246f1e4373
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Lens%20vs%20Toulouse.png", group-title="Football", Lens vs Toulouse (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch31.m3u8?md5=FQ2tVXejvYHSWn8UK0mR3g&expires=1776459038&ch=spch31&s=9488d8cac8bdeab5459080558c8d2057
+https://dz1.bhalocast.pro:7059/hls/spch31.m3u8?md5=lV9haTjoDjL_ztsOstgYUQ&expires=1776460837&ch=spch31&s=cce05d0b1e97e33013749b313bfba44f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Dragons%20vs%20Bulls.png", group-title="Football", Dragons vs Bulls (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/viaplayextra.m3u8?md5=BoLi6LcKDcyurMRz6VFOdw&expires=1776459040&ch=viaplayextra&s=2a2def3cec364c7c4e78b297b73f2de9
+https://dz1.bhalocast.pro:7059/hls/viaplayextra.m3u8?md5=wDyBYcf6PCv2-lmDUA8AZQ&expires=1776460839&ch=viaplayextra&s=b2e910ca3eb9b106e14b6db0873d030a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Blackburn%20Rovers%20vs%20Coventry%20City.png", group-title="Football", Blackburn Rovers vs Coventry City (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=1s_IhjDpyt3Rz5svt2To1A&expires=1776459041&ch=dadoskyfob&s=0c719a11d4621dcdbe28233296069471
+https://dz1.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=4E1fvCIXD5Yk6MlS5iS1Vw&expires=1776460840&ch=dadoskyfob&s=214b34e6e00717a3c9e021afe597f722
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Blackburn%20Rovers%20vs%20Coventry%20City.png", group-title="Football", Blackburn Rovers vs Coventry City (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=3N1xKzSNV5cgJ0yqEWFMiA&expires=1776459043&ch=dadosky1&s=68cca28f76f765f31b108c1b9598b50c
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=1vzEZTMZY_WN6n-2NMfiQQ&expires=1776460841&ch=dadosky1&s=716d96b404808f578e2c4ff2311c45b9
