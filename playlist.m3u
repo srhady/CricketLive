@@ -3,10 +3,16 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:26 PM 17-04-2026
+#last update time: 01:30:21 PM 17-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Melbourne%20Storm%20vs%20Canberra%20Raiders.png", group-title="Football", Melbourne Storm vs Canberra Raiders (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/dadosky3.m3u8?md5=LisygYy0B2kFUxPmRTsbTg&expires=1776415824&ch=dadosky3&s=e408c44b941fb321fb29f37cc3047551
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Melbourne%20Storm%20vs%20Canberra%20Raiders.png", group-title="Football", Melbourne Storm vs Canberra Raiders (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=cqO_6VMMGTzntWc0XXo8cg&expires=1776415825&ch=dadosky1&s=ffe2bcc99933e51c0367265b3c150331
