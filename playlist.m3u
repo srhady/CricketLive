@@ -3,17 +3,11 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:30:23 PM 17-04-2026
+#last update time: 07:00:26 PM 17-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20New%20Zealand.png" group-title="Live Cricket", Bangladesh vs New Zealand (BBTSP3)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=pz-f9G1C_e3g12j2L0j6Bg&expires=1776433824
+https://n5.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=2WFMRBZfg6zHq9zGck8FPQ&expires=1776435626
 
 
 # --- FOOTYSTREAM SECTION ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Geelong%20Cats%20vs%20Western%20Bulldogs.png", group-title="Football", Geelong Cats vs Western Bulldogs (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=okMfk48kZ4S_PV_3AD5W5w&expires=1776433827&ch=bbtsip4a&s=9910b02d343da31701c38cc8d0e9d556
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/GWS%20GIANTS%20vs%20Sydney%20Swans.png", group-title="Football", GWS GIANTS vs Sydney Swans (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=Ywr9QJqYZTMR8ltilOJ7yQ&expires=1776433828&ch=bbtsip5&s=c0b92d3ec87e8e4573dba49ed2e26ac1
