@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:22 AM 18-04-2026
+#last update time: 04:00:24 AM 18-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,7 +12,7 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/IndyCar%20Long%20Beach%20GP%20vs%20MotorSports.png", group-title="Football", IndyCar Long Beach GP vs MotorSports (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=dclydMp08AjMSzPvqMsmCA&expires=1776466225&ch=dadoskyf17&s=57076ced75b5e6445214fa1f35d3a35f
+https://dz1.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=342Y7S0LH_xrvcIyg8xpsA&expires=1776468028&ch=dadoskyf17&s=2a2029419f7344b0366cfda0b42ac975
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/IndyCar%20Long%20Beach%20GP%20vs%20MotorSports.png", group-title="Football", IndyCar Long Beach GP vs MotorSports (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=Rl5ouR99HeKzxyKSppPY5g&expires=1776466227&ch=dadoskymoxo&s=77d1bed3f9fbad6893a26d1ab97d74c2
+https://dz1.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=rFLpOFXSuysFI3fnz95hlA&expires=1776468029&ch=dadoskymoxo&s=61b9e69f8ede1f1defe8c437febd76a4
