@@ -3,35 +3,41 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:25 PM 17-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=rD--fAfVEmiJ_PV7U7ZngA&expires=1776446426
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=Jkr2liEgW8u5ZuMC05p8uw&expires=1776446426
+#last update time: 10:30:25 PM 17-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=qcQ7GIrbXGuIgsUBHMblng&expires=1776446426
+https://n3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=HRSZhRz-yR7_8u4H44IBhg&expires=1776448226
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (STAR1IN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=QzuKNHV6hSzrwGodCeVdrA&expires=1776446427
+https://n2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=K-o6IbEy21v3Jf5mR6MJzw&expires=1776448226
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=S0gWdI_0bPVxcSTT3gbquw&expires=1776446427
+https://n4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=EVCpfliT1nlLDaZh4EIlPg&expires=1776448226
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=curaflMTlntrb-OwxILY8g&expires=1776446427
+https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=h4s0HVE8i2xdBLUNG4bWiA&expires=1776448226
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=HRc8Onk_-hjaW1tJo9T6qQ&expires=1776446427
+https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=u2t2x61jrAsOkjtpSnyJJw&expires=1776448226
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=q4JnwLY2YXyPcI8ePns4Tw&expires=1776448227
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Gujarat Titans vs Kolkata Knight Riders (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=r2QejC-215v1n1SpaD3jEA&expires=1776448227
 
 
 # --- FOOTYSTREAM SECTION ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Como%20vs%20Sassuolo.png", group-title="Football", Como vs Sassuolo (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=n_GZw9-aBniJoJAiyf_5IA&expires=1776448230&ch=superspfb&s=309e319600af12889bdbae13e7f984e6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Como%20vs%20Sassuolo.png", group-title="Football", Como vs Sassuolo (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/yt2.m3u8?md5=N1tE5h9RKndgPgu-p8V8rw&expires=1776448231&ch=yt2&s=c1694a38e6f872c1421ff58e95c85f3d
