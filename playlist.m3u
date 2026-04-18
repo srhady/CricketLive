@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:20 AM 19-04-2026
+#last update time: 05:30:18 AM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,10 +12,10 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Gilbert%20Burns%20vs%20Mike%20Malott.png", group-title="Football", Gilbert Burns vs Mike Malott (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=TarWlIqZykcuBOWjUUKdCg&expires=1776558023&ch=bbtsip1&s=5cbe4f93cb5ff866e293ae909e830849
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=SNbGmj1kBTDAafdZJWtoqA&expires=1776559820&ch=bbtsip1&s=d3b552b804ea79ed6fcc793a7014c1e0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=ZMAff6ihEL0QQmM5KLJezg&expires=1776558025&ch=dadoskygo&s=eea3eba3e1336c9a5acc5aeb8bfb98ec
+https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=A0H4gwnKv4sFXPEQ-V2E2A&expires=1776559822&ch=dadoskygo&s=05f7bdf9649584043b230ee55ccde55c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=1BX48a_vwvmx_yOGlCd12g&expires=1776558026&ch=dadosky1&s=e91c441fade23bcb45307b3a38637710
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=sAFxrIHoUNptHLWb9go4Kw&expires=1776559823&ch=dadosky1&s=93333fcd195473d485773d974155cf1f
