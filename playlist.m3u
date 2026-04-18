@@ -3,47 +3,47 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:22 PM 18-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Delhi Capitals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=CSQ3Ejdw1ghhdoEBqnXHpg&expires=1776513023
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Delhi Capitals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=jyq0Pko7XdrSkXXenUFDdg&expires=1776513023
+#last update time: 05:00:25 PM 18-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Delhi Capitals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=G57tmSQ2eLcpRMnKZjDKZw&expires=1776513023
+https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=KzSLS2vQx2iKeAH71qvkNg&expires=1776514826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Delhi Capitals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/star1in.m3u8?md5=cIE8GIOaM7iI_Gv_qCcl1A&expires=1776513023
+https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=w1Tc9CvY1DPMxG9EuKMeFA&expires=1776514826
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Delhi Capitals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=fw7ctHRTy3Aqx28FXugVUA&expires=1776514827
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Delhi Capitals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=04RUPKTtmOyT8xV19sZtcg&expires=1776514827
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=xkSGcXZtjz9HZ9Xu-UNzAw&expires=1776513026&ch=bbtsip4a&s=6d4959055aefbc70ecf24ba652ccf7a3
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=L8tWunSWfcvjrn5q74SrSA&expires=1776514830&ch=bbtsip4a&s=b01d5436b15e2b25e99d4dc206e2262a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=SY4x3ICOXoywShdGHMyoCg&expires=1776513028&ch=bbtsip4a&s=9ac244281b221ee2443b61dcd091229f
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=OkXGWXQQtdpFqla8RpSirQ&expires=1776514831&ch=bbtsip4a&s=9c98d06efe559556e3a1d913a624ef5a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20Snooker%20Championship%20vs%20Snooker.png", group-title="Football", World Snooker Championship vs Snooker (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=aQPb8PkKPFPnrTupyYKUEg&expires=1776513030&ch=bbtsip3&s=e8b409cebb3e795cfc979fb3f332a1c8
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=3m2fGjRuxR9cZWYW6DsWvg&expires=1776514833&ch=bbtsip3&s=f197a60f43c4c16c659fd9bc7eba590b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20Snooker%20Championship%20vs%20Snooker.png", group-title="Football", World Snooker Championship vs Snooker (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=9mZqaAQomkJwU4Tf4cAggg&expires=1776513031&ch=bbtsp7&s=7d61df69937f3379914847e37a469b53
+https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=x-Ty-lH8QX6T5QMBHVlAcw&expires=1776514835&ch=bbtsp7&s=72c7a84689236a3cd74feaafdb23bf2b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Adelaide%20Crows%20vs%20St%20Kilda.png", group-title="Football", Adelaide Crows vs St Kilda (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=fihmG0r2B6UOO4BbF-q5CA&expires=1776513033&ch=bbtsvp2&s=3da6822f4a9532713a747f2b727764fc
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=ywWXTgwBvJ9ZwR97m54FWg&expires=1776514836&ch=bbtsvp2&s=c23e1689be329d13b89fae4fd02cb8f5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Perth%20Glory%20vs%20Sydney%20FC.png", group-title="Football", Perth Glory vs Sydney FC (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsp8.m3u8?md5=eg7hjNPjeVgi0g8Hg9mNDw&expires=1776513035&ch=bbtsp8&s=9fbad13610d71fbde6509b4c5dbcaae7
+https://dz1.bhalocast.pro:7059/hls/bbtsp8.m3u8?md5=Tm7CL9jyoZYp7N7dC9JXVA&expires=1776514838&ch=bbtsp8&s=09311c28b370f88912ca6d2980c4bd23
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Wests%20Tigers%20vs%20Brisbane%20Broncos.png", group-title="Football", Wests Tigers vs Brisbane Broncos (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=clg30YcD-7_mQWB-Qzj2vQ&expires=1776513037&ch=spch62&s=addaec19bfe664aa6aec57d4b3bcfaa8
+https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=yMKlHM4y4YWCPZ1tcBPZVA&expires=1776514840&ch=spch62&s=11ce0850048e5d6d63af57794e9d60c6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/RBC%20Heritage%20vs%20PGA%20Tour.png", group-title="Football", RBC Heritage vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=sh5lLjTWiqBraLOrnMkAag&expires=1776513039&ch=dadoskygo&s=b897824b8599fef5a9eb91e65c400135
+https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=jcS9Vkhth1sGhrc9-gPF8A&expires=1776514842&ch=dadoskygo&s=8e9ab9c905da0dc8c511f6c9b67eb47c
