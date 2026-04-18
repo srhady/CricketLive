@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:18 AM 18-04-2026
+#last update time: 09:00:21 AM 18-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,4 +12,4 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Essendon%20vs%20Gold%20Coast%20SUNS.png", group-title="Football", Essendon vs Gold Coast SUNS (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=msGiIZdc5r_Nqaj8tx5u6g&expires=1776484221&ch=bbtsip1&s=61bdb2f9b3650ac33e57da9581bf2b48
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=v40YrOnMe7F_94tgzzcTXQ&expires=1776486025&ch=bbtsip1&s=37e61c11f34bdd3ebe47d66bc35ca3fc
