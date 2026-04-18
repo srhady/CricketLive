@@ -3,80 +3,77 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:27 AM 19-04-2026
+#last update time: 01:30:24 AM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Rawalpindiz.png" group-title="Live Cricket", Lahore Qalandars vs Rawalpindiz (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=9VPwm-qqSVnmBs4YbeweZQ&expires=1776543629
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Rawalpindiz.png" group-title="Live Cricket", Lahore Qalandars vs Rawalpindiz (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=w5a-qm7bdLl2m-6HtGLAyg&expires=1776543629
+https://n2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=W1z3CAdQbfkKXisCwNbviw&expires=1776545425
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Rawalpindiz.png" group-title="Live Cricket", Lahore Qalandars vs Rawalpindiz (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=8EtjdXCassKgwUoRXYfAMQ&expires=1776543629
+https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=u-kxNJcFd66IGyGXIx0BDA&expires=1776545426
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Rawalpindiz.png" group-title="Live Cricket", Lahore Qalandars vs Rawalpindiz (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=NDef1DRncnd8a5Y9xRLQQQ&expires=1776545426
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Chennai Super Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=O6J4eih_M0lcFarzJsDCgg&expires=1776543630
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Chennai Super Kings (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=oSpb4x6NUhgpekGBGBmUKQ&expires=1776543630
+https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=YQsAtjXKKrQ5B7eQ1wIA8Q&expires=1776545426
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Chennai Super Kings (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=fCzCFeD1KGscPY_0yyJwLg&expires=1776543630
+https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=DpHff_8Lx_uP9FFpO76KWQ&expires=1776545427
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Chennai Super Kings (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=LRCWlAbkyNzKds0GBZBiKw&expires=1776545427
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Chennai Super Kings (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=aou9LIZYjncOJoThgtgqmQ&expires=1776543630
+https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=gcLiR_HfkAyZt8DCNU9s0w&expires=1776545427
 
 
 # --- FOOTYSTREAM SECTION ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Angers%20SCO%20vs%20Le%20Havre.png", group-title="Football", Angers SCO vs Le Havre (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch31.m3u8?md5=-soXvTs3fFaqJ4d5Vix4Bw&expires=1776543633&ch=spch31&s=6fa9daf945d8d1cb7296f48544112379
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/IndyCar%20Long%20Beach%20GP%20vs%20MotorSports.png", group-title="Football", IndyCar Long Beach GP vs MotorSports (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=HWTqKBmzcTWxN8MMC2m_uw&expires=1776543634&ch=dadoskyf17&s=9d8217e4794157a3410fff93de7b7c41
+https://dz1.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=k7eyQzASNxyPGKoXQaTB3w&expires=1776545431&ch=dadoskyf17&s=4b82d3b6253ff2345fbde1424105e814
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/IndyCar%20Long%20Beach%20GP%20vs%20MotorSports.png", group-title="Football", IndyCar Long Beach GP vs MotorSports (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=OJ6rDVFWI5ZY8r0s8V66FA&expires=1776543636&ch=dadoskymoxo&s=33f70d8a2e1d18a0b1c99b1d1e4a6c4b
+https://dz1.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=1cFxCWrn0aQNBpHsV_-n6A&expires=1776545434&ch=dadoskymoxo&s=5aad2d4e9d6a67a109682ae3a4c29782
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LIV%20Golf%20Mexico%20City%20vs%20PGA%20Tour.png", group-title="Football", LIV Golf Mexico City vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=DG8zPd9ZBWNEx62Ym4R5oA&expires=1776543640&ch=bbtsip4a&s=d3ec3b674703d4af090337d41b9df664
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=grmFj537Cy3a9AIAbX-u-w&expires=1776545436&ch=bbtsip4a&s=2fb9657d8d9b95b08383b7a00fe9c5f4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LIV%20Golf%20Mexico%20City%20vs%20PGA%20Tour.png", group-title="Football", LIV Golf Mexico City vs PGA Tour (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=0Xex9fkX9548hEFOzQyKRQ&expires=1776543641&ch=bbtsvp2&s=2197b05b9532a84a24b3434a49e0baab
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=6z81K99rRAriiL_K50fekg&expires=1776545438&ch=bbtsvp2&s=74577ee08cc3bb881b1a3a03bdade16b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/AS%20Roma%20vs%20Atalanta.png", group-title="Football", AS Roma vs Atalanta (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=Fuxs5d57GzYfJv4hUjKuBw&expires=1776543642&ch=superspfb&s=42b7f57ef6379e7d0021c046723766b8
+https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=DW6L-yafaKeV7g9CLflPgg&expires=1776545440&ch=superspfb&s=2e0d683cf601c5221fc3c55b6608fd03
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/AS%20Roma%20vs%20Atalanta.png", group-title="Football", AS Roma vs Atalanta (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt2.m3u8?md5=2HxjpnkJPtgOT_EwGjvdIA&expires=1776543644&ch=yt2&s=e9eb3e415b3502a68f1a02e7af400dd0
+https://dz1.bhalocast.pro:7059/hls/yt2.m3u8?md5=IHFMQN084GetIAN0S-Jb2Q&expires=1776545442&ch=yt2&s=518040bec3b69e328850504392cd0df2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/AS%20Roma%20vs%20Atalanta.png", group-title="Football", AS Roma vs Atalanta (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt51.m3u8?md5=qEpZ2NDS5T18vS7vJh6P7Q&expires=1776543645&ch=yt51&s=d720c19fa77584aa8af40a15f8fcab1a
+https://dz1.bhalocast.pro:7059/hls/yt51.m3u8?md5=Qyb2MnAOp3WUNAuNW4TtLg&expires=1776545443&ch=yt51&s=a8a9aaca45c544a4913c1ed28082d715
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/AS%20Roma%20vs%20Atalanta.png", group-title="Football", AS Roma vs Atalanta (Link 4)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/sky1it.m3u8?md5=1H_LdpgKJy3nKAYBSjlL7Q&expires=1776543646&ch=sky1it&s=f41f6931f59941400481e4eee5e0f532
+https://dz1.bhalocast.pro:7059/hls/sky1it.m3u8?md5=_yaE03ufdaFtDGvB2QHYqQ&expires=1776545445&ch=sky1it&s=a5a6c604d58421d316f1ae7518233daf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Benetton%20vs%20Munster.png", group-title="Football", Benetton vs Munster (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=cDxXvGXjrl9HCOXrClgsjw&expires=1776543648&ch=viaplaysp1&s=4a1d985d7877b5eee1efbd57258dd3b8
+https://dz1.bhalocast.pro:7059/hls/viaplaysp1.m3u8?md5=BRSR1Qqs8GGLd_SVJVZWOw&expires=1776545447&ch=viaplaysp1&s=01e2cd5ebc98bdd9ee2f61c5947c8758
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Ospreys%20vs%20Sale%20Sharks.png", group-title="Football", Ospreys vs Sale Sharks (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/viaplaysp2.m3u8?md5=a1U1PYEBOTtuHfr6gaCyig&expires=1776543650&ch=viaplaysp2&s=5929982fbc93012554340aab760fe8e9
+https://dz1.bhalocast.pro:7059/hls/viaplaysp2.m3u8?md5=xicfMPaF7hSnullObMBGPw&expires=1776545450&ch=viaplaysp2&s=2c5c352836beb032bd0111e24aa9b6cb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Atlético%20Madrid%20vs%20Real%20Sociedad.png", group-title="Football", Atlético Madrid vs Real Sociedad (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/itv444.m3u8?md5=S51pc-6hXcpqkptv_gigoA&expires=1776543651&ch=itv444&s=b23f448823a37463e98b1e337c28d3be
+https://dz1.bhalocast.pro:7059/hls/itv444.m3u8?md5=HPVAIc_kn4z29J-VuFQBBg&expires=1776545452&ch=itv444&s=133fa580bdbe9db84a4f229c9fb12b5b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Atlético%20Madrid%20vs%20Real%20Sociedad.png", group-title="Football", Atlético Madrid vs Real Sociedad (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt26.m3u8?md5=nIIOf-Dgi2oQ5fEtlccAoA&expires=1776543653&ch=yt26&s=5c747165e4a41dba3d70239fae32ada5
+https://dz1.bhalocast.pro:7059/hls/yt26.m3u8?md5=mFX7OZ4mwUBJsOv4pLtppA&expires=1776545455&ch=yt26&s=eedf946eecc0562fa466f2527e2420b5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Atlético%20Madrid%20vs%20Real%20Sociedad.png", group-title="Football", Atlético Madrid vs Real Sociedad (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/yt34.m3u8?md5=jA2A1tNkV5zUnY2g4cKklw&expires=1776543654&ch=yt34&s=b2171febfe50289867903e8afb7fd988
+https://dz1.bhalocast.pro:7059/hls/yt34.m3u8?md5=rT9A5U1FtkJfk0gU2Zz7Rw&expires=1776545457&ch=yt34&s=25569dfa35e23531d6c0ff193cd0f65e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Nice%20vs%20Lille.png", group-title="Football", Nice vs Lille (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch31.m3u8?md5=Sbflv9fh5u7dEUlOxqKahA&expires=1776543655&ch=spch31&s=10b55b5145f567747eb20c9ce4f1253d
+https://dz1.bhalocast.pro:7059/hls/spch31.m3u8?md5=OkYfLRKIx8jNMEI93PFcEg&expires=1776545459&ch=spch31&s=75a65eec07029dfe3dbed34c1ea2c80a
