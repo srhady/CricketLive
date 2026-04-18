@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:18 AM 19-04-2026
+#last update time: 05:00:20 AM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,10 +12,10 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Gilbert%20Burns%20vs%20Mike%20Malott.png", group-title="Football", Gilbert Burns vs Mike Malott (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=ySijCFH2-A6rOCttmoF4aQ&expires=1776556223&ch=bbtsip1&s=841d23be0c0ffd872bb0b924932bad30
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=TarWlIqZykcuBOWjUUKdCg&expires=1776558023&ch=bbtsip1&s=5cbe4f93cb5ff866e293ae909e830849
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=PPl05l_4Hazqiq08AeTUPA&expires=1776556225&ch=dadoskygo&s=1831fbd0ff6d2e8f2039c6a2ceb2c657
+https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=ZMAff6ihEL0QQmM5KLJezg&expires=1776558025&ch=dadoskygo&s=eea3eba3e1336c9a5acc5aeb8bfb98ec
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=PjZ4RJUOrKlCxpA_dKjIJg&expires=1776556227&ch=dadosky1&s=057b420fcd5cf32544cc1e2f8fbd73f9
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=1BX48a_vwvmx_yOGlCd12g&expires=1776558026&ch=dadosky1&s=e91c441fade23bcb45307b3a38637710
