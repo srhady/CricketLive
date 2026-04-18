@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:22 PM 18-04-2026
+#last update time: 02:30:19 PM 18-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,13 +12,19 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Hawthorn%20Hawks%20vs%20Port%20Adelaide.png", group-title="Football", Hawthorn Hawks vs Port Adelaide (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=MFVEb4-1I5deTQe2Mt1bww&expires=1776504025&ch=bbtsip1&s=1042d4cfbcc17e1ce9c166114c46c0ed
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=qCXCKqs2o_0k_kIA1CWykg&expires=1776505822&ch=bbtsip1&s=4cd0eb7a5ad7c74714e36d772591111c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Brisbane%20Roar%20vs%20Melbourne%20City.png", group-title="Football", Brisbane Roar vs Melbourne City (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=4b6Ozw5ttaTHxNE-d-KgIg&expires=1776504027&ch=bbtsvp2&s=c588f657257d0f664b5221f7e4264955
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=_GxaMoHWQ7tLYvi3HhMHaQ&expires=1776505823&ch=bbtsvp2&s=232347afb7bfaf461749131e8e927a37
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/South%20Sydney%20Rabbitohs%20vs%20St.%20George%20Illawarra%20Dragons.png", group-title="Football", South Sydney Rabbitohs vs St. George Illawarra Dragons (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=z2olHN-dj7qjHktnT0swyw&expires=1776504029&ch=spch62&s=10f7a4d02c01d66cad6d8ae239f051e8
+https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=dz3ZpFphvQhTPcwEzzHn0A&expires=1776505824&ch=spch62&s=026ed193bb0a2fa651dd5d26cf7e81ba
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/South%20Sydney%20Rabbitohs%20vs%20St.%20George%20Illawarra%20Dragons.png", group-title="Football", South Sydney Rabbitohs vs St. George Illawarra Dragons (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=hUpmvfJc1DxZksT48mj-vg&expires=1776504030&ch=dadoskyare&s=78cfdcd7bd59cb81eaa4faabdc13e3f9
+https://dz1.bhalocast.pro:7059/hls/dadoskyare.m3u8?md5=v8KxhJFsHwjCiQePQ4Da3g&expires=1776505826&ch=dadoskyare&s=bb40bb6ea610ce3fdcbca0d2bb97207d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20Snooker%20Championship%20vs%20Snooker.png", group-title="Football", World Snooker Championship vs Snooker (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=Yrkp3I2PwkT_ORpPSikQmA&expires=1776505827&ch=bbtsip3&s=7493149fa6cc148dee0f7d94a1abe3a2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20Snooker%20Championship%20vs%20Snooker.png", group-title="Football", World Snooker Championship vs Snooker (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=PPLyGb1BLx7TjRJeHiuhqw&expires=1776505828&ch=bbtsp7&s=d29761b2479ff61fab38a598282f73bf
