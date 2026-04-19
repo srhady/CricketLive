@@ -3,72 +3,72 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:21 PM 19-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Karachi Kings vs Multan Sultans (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=EXoKOpq_tv4tBSh2_WYVrQ&expires=1776612022
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Karachi Kings vs Multan Sultans (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=Q9l3EkTSbRx78QfcSfphWA&expires=1776612022
+#last update time: 08:30:20 PM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Karachi Kings vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=icw7EfhoYNRChHJbnZ6jrQ&expires=1776612023
+https://n2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=USKCayxfPynoMiUBJWSIoA&expires=1776613822
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (ASPORTSHD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Karachi Kings vs Multan Sultans (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=2Rwu2Fg3_y51FULMU4Ka2w&expires=1776612023
+https://n3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=NUJBWPdV7cvfi7TLbLcJqg&expires=1776613822
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (PTVPK)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Karachi Kings vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=S4VtCIOqEK7864WZrOaSeA&expires=1776612023
+https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=_51LPng1N5jEydDqfKO3aA&expires=1776613822
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=icw7EfhoYNRChHJbnZ6jrQ&expires=1776612023
+https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=x-H2pf9tIF3QbzYnTGgyAw&expires=1776613823
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (WILLOWUSA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=xQJWPX66G_HHUukN2D7TtQ&expires=1776612023
+https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=5rB6FGiFi3YzAOTqu924KA&expires=1776613823
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=VqE8RBJj7Y1WxLcK5ltQRg&expires=1776612024
+https://n3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=5d9z761LOIdgJSuOPEt6Eg&expires=1776613824
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=KLMCBKSVDbK_begXv2aTxg&expires=1776612024
+https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=gSHuMumeOrjOmnSgEcfgKw&expires=1776613824
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Xvx9m87LP_Y4l6i1vIf3bA&expires=1776613825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=O__CSK3HFHkjjIiYEq52aA&expires=1776612024
+https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=ByDAEef5E367c-FJtZ9W1Q&expires=1776613825
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (WILLOWUSA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=700vrqrk3yS1xO1gwTjjBg&expires=1776612024
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=VqE8RBJj7Y1WxLcK5ltQRg&expires=1776612024
+https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=MpwagXTEHVhbfcdbf7sHvg&expires=1776613825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=KLMCBKSVDbK_begXv2aTxg&expires=1776612024
+https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=2D5MF2ERCQDdnj5BlCnFLQ&expires=1776613826
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Yn03G78qfmOAEFI1oLrXvg&expires=1776613826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=O__CSK3HFHkjjIiYEq52aA&expires=1776612024
+https://n5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=kVpOc-aRIS_95ET04v9w3w&expires=1776613826
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=tP5ETqrLxz61uAdDkTS73g&expires=1776613826
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/MXGP%20Italy%20vs%20MXGP.png", group-title="Football", MXGP Italy vs MXGP (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=MR4N5kmyRjZ0vHbIZv74Gw&expires=1776612027&ch=bbtsp7&s=84adc381ec3ee42a7c639082790f6a52
+https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=vyHzmyPjVsHM2ukSZxt24Q&expires=1776613829&ch=bbtsp7&s=a9cbe3498b730591d41707479b545e1d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Freiburg%20vs%20Hoffenheim.png", group-title="Football", Freiburg vs Hoffenheim (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=TazOgkcJXMwBg1VnoHEVOQ&expires=1776612030&ch=spch71&s=fdbfe6fc34312fbf05542e587c9d3a8e
+https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=0NrdOTCJGMP-MfNUMmF3lg&expires=1776613834&ch=spch71&s=260e51c903d82940f3977581a5fc0bb5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Sale%20Sharks%20vs%20Saracens.png", group-title="Football", Sale Sharks vs Saracens (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=hF7KZHm2nN5kGb0f-Vm_mw&expires=1776612031&ch=bbtsip1&s=a98e011829bcd12499a1600e46ea30dd
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=H_FEoNBDe1el0TD8z4QgDA&expires=1776613837&ch=bbtsip1&s=6a9ed8f7e781469c83308959251c15ef
