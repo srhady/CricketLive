@@ -3,50 +3,50 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:23 PM 19-04-2026
+#last update time: 05:30:20 PM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Karachi Kings vs Multan Sultans (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ocxQnxHA7jesPpFyPdl1cg&expires=1776601224
+https://n3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=7QBrerbVPHFRyrF7N2rUOA&expires=1776603021
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Karachi Kings vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=wFdlwASdd4QEuLQs0oP4yQ&expires=1776601224
+https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=gZ-Q7fESZQhrcYvq8cyYaw&expires=1776603021
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Karachi Kings vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=uFS7dYd0OpfMsxn5b6kWiw&expires=1776601224
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=CMa5ynMkf_ngN__CvtTyZQ&expires=1776601225
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=a2zeWBZCVJQ-OZHMmhw9Lw&expires=1776601225
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=rQ-oExUO_Nbjj6v0qkeGRg&expires=1776601225
+https://n3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=8WnojTkNu8vtF-bembUZqQ&expires=1776603021
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=g6H0bVUH7SZH_wBA_bCE5Q&expires=1776601225
+https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=CDrN3QAjBmucKLx9D8S2ig&expires=1776603021
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=RGWsq4pwuX9FwMapdZhOiA&expires=1776603022
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=gjinAhTvbmvYqZkLKTZuJQ&expires=1776603022
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Kolkata Knight Riders vs Rajasthan Royals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=kmsq5eA8aTmZtg9nEwx9pQ&expires=1776603022
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=nQQ5MCrEFbxXibtcKmXAHg&expires=1776601228&ch=bbtsip4a&s=d5fe275fa2d0db3edee081b6fd751b5c
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=k5OXXjIifLuB8NvRk9VqBg&expires=1776603024&ch=bbtsip4a&s=6f8d3d828b2433b5c53399007f0417c5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=-kWpf7GS6TXg3N9dsLlX_g&expires=1776601230&ch=bbtsip4a&s=be32b5afce581027e6fa5764f4355bc3
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=d3dh8YOpf_gvOsv3Jukf7g&expires=1776603026&ch=bbtsip4a&s=c5cc61d8e4d2a108aeb36b919fb5ff38
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Torino%20vs%20Cremonese.png", group-title="Football", Torino vs Cremonese (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=zL4aIkEb2V4_sD3s1PiIpA&expires=1776601232&ch=superspfb&s=75d7819235e9074c0e3fa26a60d98df2
+https://dz1.bhalocast.pro:7059/hls/superspfb.m3u8?md5=eYVALhWC5JlbLqDJCBlEwA&expires=1776603028&ch=superspfb&s=ffffc0cf76017017b1ed81f2cf9e9716
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Middlesbrough%20vs%20Ipswich%20Town.png", group-title="Football", Middlesbrough vs Ipswich Town (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=rUxRdw3feXkIZFkSzLeSPA&expires=1776601234&ch=dadoskyfob&s=8d766c710a0be17121a4f4d5caf582b3
+https://dz1.bhalocast.pro:7059/hls/dadoskyfob.m3u8?md5=teWVo4dMtDJN_pitoPrRKA&expires=1776603029&ch=dadoskyfob&s=a9277873b404c22f2dcb29fded003611
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/MXGP%20Italy%20vs%20MXGP.png", group-title="Football", MXGP Italy vs MXGP (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=hVx87byNhKKq74epFaQYBQ&expires=1776601236&ch=bbtsp7&s=952e379ed57b32564884f91d0e5caef7
+https://dz1.bhalocast.pro:7059/hls/bbtsp7.m3u8?md5=8i5Ydq_9YDmDUtdjA7Sggw&expires=1776603031&ch=bbtsp7&s=6ae4ef792ec6a6271bf39c8baeab2253
