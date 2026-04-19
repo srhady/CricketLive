@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:23 AM 19-04-2026
+#last update time: 11:30:21 AM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,16 +12,16 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Richmond%20vs%20North%20Melbourne.png", group-title="Football", Richmond vs North Melbourne (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=IUF9R1lCF8yuOSKsF2xbGg&expires=1776579625&ch=bbtsvp2&s=b7582c70aed6f585b15cc6148c604467
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Auckland%20vs%20Central%20Coast%20Mariners.png", group-title="Football", Auckland vs Central Coast Mariners (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=tlZkCizNIokuaTJI8B1OBQ&expires=1776579627&ch=bbtsip3&s=73b38f147fa18c865fefd0b3c0a37744
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=WUFtMU8HQh7NMgUrimEdww&expires=1776581424&ch=bbtsvp2&s=3f9a5ad508b66244717da6ab753b5227
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Newcastle%20Knights%20vs%20Sydney%20Roosters.png", group-title="Football", Newcastle Knights vs Sydney Roosters (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=km6gs653mJRA7rDa610-gQ&expires=1776579628&ch=spch62&s=a5d9246a112a525020e8b75e3351e569
+https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=AJidWVlFSTeCUStlasn6hQ&expires=1776581425&ch=spch62&s=371abaf76c4eec6ce8eacdfbcf3d3e1b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Brisbane%20Lions%20vs%20Melbourne.png", group-title="Football", Brisbane Lions vs Melbourne (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=m1d3NWhNQtu3kRHVpZkNYQ&expires=1776579630&ch=bbtsip3&s=28fd8ab3d1e96b4d2e64e7bd7c628016
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=FqxUsFNhZsCaree9CcU07Q&expires=1776581427&ch=bbtsip3&s=1e5fcd8ad4104f40a7f90c7e6fd21621
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Adelaide%20United%20vs%20Macarthur.png", group-title="Football", Adelaide United vs Macarthur (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=DmzHm_ot05qqIqOEtWhw1g&expires=1776579631&ch=bbtsvp2&s=1a0ff231bdb192591da9f729628b6616
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=nrU_caUK3Rjdbi8gnxASuQ&expires=1776581429&ch=bbtsvp2&s=a19fa21041e88704b412f944c6fec2af
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Parramatta%20Eels%20vs%20Canterbury%20Bulldogs.png", group-title="Football", Parramatta Eels vs Canterbury Bulldogs (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=ZtoOnyeMVPM3o5-t7e1hmg&expires=1776581431&ch=spch62&s=c22c47999ef29088d2ab0b47236f2e8d
