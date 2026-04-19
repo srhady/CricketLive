@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:18 AM 19-04-2026
+#last update time: 06:00:25 AM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,10 +12,10 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Gilbert%20Burns%20vs%20Mike%20Malott.png", group-title="Football", Gilbert Burns vs Mike Malott (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=SNbGmj1kBTDAafdZJWtoqA&expires=1776559820&ch=bbtsip1&s=d3b552b804ea79ed6fcc793a7014c1e0
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=Ux1QWd2ZPRRRGTf200p5EQ&expires=1776561630&ch=bbtsip1&s=b61d6c2a280a6a4a6ee017e6934086af
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=A0H4gwnKv4sFXPEQ-V2E2A&expires=1776559822&ch=dadoskygo&s=05f7bdf9649584043b230ee55ccde55c
+https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=ZWrPwbb5mSacJ1ahn1beew&expires=1776561632&ch=dadoskygo&s=347b1d334cbbf704f6651b225e39511e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=sAFxrIHoUNptHLWb9go4Kw&expires=1776559823&ch=dadosky1&s=93333fcd195473d485773d974155cf1f
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=ViGRn3-Y8WInj3mON8YhcQ&expires=1776561634&ch=dadosky1&s=61da4c63249fa983e96923d77db5e629
