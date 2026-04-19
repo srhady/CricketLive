@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:20 AM 19-04-2026
+#last update time: 10:00:23 AM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,10 +12,10 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Richmond%20vs%20North%20Melbourne.png", group-title="Football", Richmond vs North Melbourne (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=XgbNy4QUPHV63U7s9nqiBw&expires=1776574223&ch=bbtsvp2&s=b8c96775fca2eaee506054f6a5b6158e
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=WCp6xDe-29MZiIZSqREJRg&expires=1776576027&ch=bbtsvp2&s=fcbdb368fd92b4503eddbb20b0d84e25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Auckland%20vs%20Central%20Coast%20Mariners.png", group-title="Football", Auckland vs Central Coast Mariners (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=Cb6T7pSN63NWXIIi5sYlPg&expires=1776574225&ch=bbtsip3&s=69638048c2aaf17db3343d11443057b6
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=gMc-fUflzoyuNDvheih9_A&expires=1776576029&ch=bbtsip3&s=f4609c816dc2d903d8fff2086d7fdb0a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Newcastle%20Knights%20vs%20Sydney%20Roosters.png", group-title="Football", Newcastle Knights vs Sydney Roosters (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=TPM2XX-426pzVWEFX0Mktw&expires=1776574227&ch=spch62&s=e06951084acf9bf3852f07b8f1f1833c
+https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=cezGsLyRk8utEGOAbv2vVQ&expires=1776576031&ch=spch62&s=a017534749bc36e8e1d1f61b25518431
