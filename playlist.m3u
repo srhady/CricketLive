@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:23 AM 20-04-2026
+#last update time: 05:00:25 AM 20-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,7 +12,7 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=OB0cp2dN_hB-cXSxWjiY5w&expires=1776642627&ch=dadoskygo&s=4bfa270fa0e78aecf68cfb654567c311
+https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=1biJgtTcD3308reiAmc_OA&expires=1776644428&ch=dadoskygo&s=1322783613f92252b54a57fcfa667013
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=xT09Ozw_OafA-9dN9vb4xQ&expires=1776642629&ch=dadosky1&s=7bc92b62df5df306e46bae06fb75b666
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=UFvGN9SR6gVY6GkiolHdZw&expires=1776644429&ch=dadosky1&s=514ab70ab3baad86b10f38b7cfae347b
