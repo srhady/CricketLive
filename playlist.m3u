@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:25 AM 19-04-2026
+#last update time: 06:30:19 AM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,10 +12,13 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Gilbert%20Burns%20vs%20Mike%20Malott.png", group-title="Football", Gilbert Burns vs Mike Malott (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=Ux1QWd2ZPRRRGTf200p5EQ&expires=1776561630&ch=bbtsip1&s=b61d6c2a280a6a4a6ee017e6934086af
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=cW7pwjFY0D9RYFqRtgDRcw&expires=1776563422&ch=bbtsip1&s=077eb84b233687b10e911fe3fa35abc1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Gilbert%20Burns%20vs%20Mike%20Malott.png", group-title="Football", Gilbert Burns vs Mike Malott (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=9TFSJ9-XXNY3sQuQghQF8g&expires=1776563423&ch=spch71&s=d38ffeda7945f3bd8a5ead861b16c7fd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=ZWrPwbb5mSacJ1ahn1beew&expires=1776561632&ch=dadoskygo&s=347b1d334cbbf704f6651b225e39511e
+https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=LEcOWqDzX5_VtSFTPWGRDg&expires=1776563424&ch=dadoskygo&s=066173fd9b1bc4fd43b3602e9b661126
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=ViGRn3-Y8WInj3mON8YhcQ&expires=1776561634&ch=dadosky1&s=61da4c63249fa983e96923d77db5e629
+https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=xFcPvFS-YfleJbVz1YR_uA&expires=1776563425&ch=dadosky1&s=0cf30fc7d95ba072a0646a619a15159b
