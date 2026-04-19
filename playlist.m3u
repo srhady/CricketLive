@@ -3,56 +3,53 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:18 AM 20-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=IYxOjXQCtRvBMLYX3Kg3Mw&expires=1776628218
+#last update time: 01:00:23 AM 20-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=iEBPbH-1kQVaoIzjYiTwnw&expires=1776628219
+https://n2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=x7825RUqTFH-g-vxGG1dow&expires=1776630024
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=e_ccho_y5jqooNVTEUpvVQ&expires=1776628219
+https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=By2--JqbW3hEed3szrOCpQ&expires=1776630024
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Peshawar Zalmi vs Quetta Gladiators (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=wn3Y19XjU6YTNT34w246FQ&expires=1776628219
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=fe3ZL3q0Du6g1QIf9KmNSA&expires=1776628219
+https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=RBGUWEhRH4nCkKNrCXKyUQ&expires=1776630024
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=5ylJCOcHecW1VU6xuHMqFg&expires=1776628219
+https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=qyfr4LGGQNfB1t7iTQAwgA&expires=1776630024
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=yZ37S3mG3OwkekFHk7PjwQ&expires=1776630024
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=o8WHJPSb91Ns_yEJiiipzA&expires=1776628219
+https://n5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=JsBdEd_MsUOzsoFvR-mnhw&expires=1776630025
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Punjab Kings vs Lucknow Super Giants (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=PuYgcrxFD595jHDcMELPJA&expires=1776630025
 
 
 # --- FOOTYSTREAM SECTION ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Cardiff%20City%20vs%20Swansea%20City.png", group-title="Football", Cardiff City vs Swansea City (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch78.m3u8?md5=iK1ZMxB1wxnAyPAPBiCRPw&expires=1776628221&ch=spch78&s=45971821ef613663376c4d6b5f6a7172
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/IndyCar%20Long%20Beach%20GP%20vs%20MotorSports.png", group-title="Football", IndyCar Long Beach GP vs MotorSports (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=15LibFNB-U6tteMVbg62qA&expires=1776628223&ch=dadoskyf17&s=3b4866570feed20962602112e65709ca
+https://dz1.bhalocast.pro:7059/hls/dadoskyf17.m3u8?md5=REZQ8_a_Nt8JXVEtcv6kpA&expires=1776630028&ch=dadoskyf17&s=fcb910647594b1330ed4b1b106ad7a47
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/IndyCar%20Long%20Beach%20GP%20vs%20MotorSports.png", group-title="Football", IndyCar Long Beach GP vs MotorSports (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=YbIxAURxEy507qsdGjqedw&expires=1776628224&ch=dadoskymoxo&s=274aea7df540cbdb0243ce67b4903705
+https://dz1.bhalocast.pro:7059/hls/dadoskymoxo.m3u8?md5=WpRBTnzm0tGgb5YzYqPR2g&expires=1776630029&ch=dadoskymoxo&s=cd64aab15789dbfb2a7aca6f2eeb8858
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LIV%20Golf%20Mexico%20City%20vs%20PGA%20Tour.png", group-title="Football", LIV Golf Mexico City vs PGA Tour (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=uQu8fQlPwm10H9iuzHfMQw&expires=1776628225&ch=bbtsvp2&s=598f7d1218da5f3c3c4cad96de4cc8cc
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=nY_GV9msSeoaljmOowJdPA&expires=1776630030&ch=bbtsvp2&s=743dc6b3125a6a2e0b2291f8e1c9230e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Borussia%20M'gladbach%20vs%20Mainz%2005.png", group-title="Football", Borussia M'gladbach vs Mainz 05 (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch73.m3u8?md5=QG-51Jp1AecyOVdpoJxAQw&expires=1776628227&ch=spch73&s=0f9e93231ad3ed40428272a2d7eb57bb
+https://dz1.bhalocast.pro:7059/hls/spch73.m3u8?md5=DSGXcUsmKpH66ee8VuUH3g&expires=1776630032&ch=spch73&s=0694caf4a4f6c3ee25397ddcaf009361
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Juventus%20vs%20Bologna.png", group-title="Football", Juventus vs Bologna (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=kNTVfTHj9EIxKSx9VjxopA&expires=1776628228&ch=bbtsip1&s=45228dfe4641a7c1d1feb765c413000f
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=9gxRtUpz954k19RRA_ehdw&expires=1776630033&ch=bbtsip1&s=5484b90dfb1547bffca41d78bf1ce19f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/PSG%20vs%20Olympique%20Lyonnais.png", group-title="Football", PSG vs Olympique Lyonnais (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch31.m3u8?md5=YICF07zdyIZs2wg38JAWfA&expires=1776628230&ch=spch31&s=d911c710a92a42b580f1951d04ab0224
+https://dz1.bhalocast.pro:7059/hls/spch31.m3u8?md5=TbKESyaZMqTkqDZ8O5O2XA&expires=1776630035&ch=spch31&s=b63b579d62064c24c8b48b6b08c30ffa
