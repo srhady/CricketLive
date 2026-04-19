@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:21 PM 19-04-2026
+#last update time: 01:00:24 PM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,13 +12,13 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Brisbane%20Lions%20vs%20Melbourne.png", group-title="Football", Brisbane Lions vs Melbourne (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=iDgKCpFdVZ6gKLfqno3P1w&expires=1776585024&ch=bbtsip3&s=8d19f9b092bfacc0a9453ac3fb13a4da
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=957yKJTmVDnawhWAn19MIg&expires=1776586828&ch=bbtsip3&s=6c04cbc60f84957b9367e0225a74e4a7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Adelaide%20United%20vs%20Macarthur.png", group-title="Football", Adelaide United vs Macarthur (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=XTI5lowN-W7NyAEhi1Iq2A&expires=1776585026&ch=bbtsvp2&s=78f002fb136dc96b384f8f22b597e3cb
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=l-5CFIK5xabhOsOhRf7qxg&expires=1776586830&ch=bbtsvp2&s=89e59a369d84e68fabfce8a3f3834f66
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Parramatta%20Eels%20vs%20Canterbury%20Bulldogs.png", group-title="Football", Parramatta Eels vs Canterbury Bulldogs (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=EkOFKKvvB2eAOaslxmZAxQ&expires=1776585027&ch=spch62&s=997e430b2e31b9c8dab100953eedfba6
+https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=9YHx3zBrFNTBLg4fMxpgVA&expires=1776586832&ch=spch62&s=1058a715d53badb7d4263af09fbf1f25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/West%20Coast%20Eagles%20vs%20Fremantle.png", group-title="Football", West Coast Eagles vs Fremantle (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=RZjmkfZolIRHZ-Zbg_XxdA&expires=1776585029&ch=bbtsip1&s=2da804c07e9e173b2dddd6a292a8cbe0
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=abnNGH89GdH9asZyjvik5A&expires=1776586834&ch=bbtsip1&s=24ae1dacd5919db39b3d816ced3d6ba4
