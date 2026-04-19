@@ -3,19 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:23 PM 19-04-2026
+#last update time: 02:30:19 PM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Brisbane%20Lions%20vs%20Melbourne.png", group-title="Football", Brisbane Lions vs Melbourne (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=DnwrX1p178SOsm_jQTM5zw&expires=1776590429&ch=bbtsip3&s=acbbbeb4738f251e63368cc4968c8e65
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Parramatta%20Eels%20vs%20Canterbury%20Bulldogs.png", group-title="Football", Parramatta Eels vs Canterbury Bulldogs (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch62.m3u8?md5=vhUhjmYeLMPF6axnPdqczg&expires=1776590431&ch=spch62&s=10a794f6daa66fb4d06925886c4e0bc4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/West%20Coast%20Eagles%20vs%20Fremantle.png", group-title="Football", West Coast Eagles vs Fremantle (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=EUoteEfjpVqxLaHOhebzeA&expires=1776590432&ch=bbtsip1&s=df3b8032c9712256bb6c2ec7ba9a9daa
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=7Q-nlM01vMJv3UsYveyX9g&expires=1776592223&ch=bbtsip1&s=b147770a65180454d3dde979b1b14ce4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=iuptJ6iyK77CiTmTohlXrA&expires=1776592225&ch=bbtsip4a&s=3042882b91b0bb5218658afe8e6f1e70
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20SBK%20Dutch%20Round%20vs%20MotorSports.png", group-title="Football", World SBK Dutch Round vs MotorSports (Link 2)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip4a.m3u8?md5=k0Yvt9U2Zgl_NOgldFFuWA&expires=1776592226&ch=bbtsip4a&s=ad06fa498210d182e7355a4fe62e70c8
