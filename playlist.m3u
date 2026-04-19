@@ -3,22 +3,10 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:24 AM 19-04-2026
+#last update time: 08:00:22 AM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Gilbert%20Burns%20vs%20Mike%20Malott.png", group-title="Football", Gilbert Burns vs Mike Malott (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=Z7opJju1YW7T9uGrbq5kCg&expires=1776567028&ch=bbtsip1&s=af7cce7ef8a52cc0079439d1ffa3dcf9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Gilbert%20Burns%20vs%20Mike%20Malott.png", group-title="Football", Gilbert Burns vs Mike Malott (Link 2)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/spch71.m3u8?md5=FtCWDEve8GFMAFZtGuCfsQ&expires=1776567029&ch=spch71&s=dd85ffa7da36108abbd3f16c13c3c7c1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 1)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadoskygo.m3u8?md5=CbOuSweRY4rzeDOs3l2hyA&expires=1776567031&ch=dadoskygo&s=38d753902db6ecc6a5a26aa8d7b17066
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/LPGA%20LA%20Championship%20vs%20PGA%20Tour.png", group-title="Football", LPGA LA Championship vs PGA Tour (Link 2)
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=Nw-F5rAEM10zuQZCphhpJg&expires=1776567033&ch=dadosky1&s=b753d2d0f4f544e11ebf1d2d3f93bd57
