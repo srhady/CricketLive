@@ -3,10 +3,16 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:22 AM 19-04-2026
+#last update time: 08:30:20 AM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Richmond%20vs%20North%20Melbourne.png", group-title="Football", Richmond vs North Melbourne (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsvp2.m3u8?md5=wlnNA4Gs8LznPRrhL-hKTw&expires=1776570625&ch=bbtsvp2&s=e466aaa9d2b469382cb3029e1b1bccc4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/Auckland%20vs%20Central%20Coast%20Mariners.png", group-title="Football", Auckland vs Central Coast Mariners (Link 1)
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=8szW-MWM9ldnlApHcOkSvQ&expires=1776570627&ch=bbtsip3&s=184d6aa4e581b74fb27bd784a56160d8
