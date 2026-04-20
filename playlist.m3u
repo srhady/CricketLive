@@ -3,38 +3,25 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:25 AM 21-04-2026
+#last update time: 02:30:22 AM 21-04-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=UrcQ5WV7txZKXCZYDRQ7rw&expires=1776720026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=2E-opUYsbp0WXwLSJZUhlA&expires=1776720026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=XZLuOAuFLoLpgAUE5nTmBw&expires=1776720027
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=xQ2ysZqP6G5aIgE3aftOqA&expires=1776720027
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
+http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/West%20Ham%20United%20vs%20Crystal%20Palace.png", group-title="Football", West Ham United vs Crystal Palace (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz5.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=cq2omCDUmec5Bfew4n5xRw&expires=1776720029&ch=dadoskypormi&s=98c8bb92ba007e18f54a49defff0ba5b
+https://dz5.bhalocast.pro:7059/hls/dadoskypormi.m3u8?md5=hqk5KhXWdw5TQcQPlvtJUw&expires=1776721826&ch=dadoskypormi&s=60dfe39bc46e83421b5560c7ea905575
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/West%20Ham%20United%20vs%20Crystal%20Palace.png", group-title="Football", West Ham United vs Crystal Palace (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz5.bhalocast.pro:7059/hls/epl01.m3u8?md5=cCm5HQrT-qa5PHmTcH3Stw&expires=1776720031&ch=epl01&s=cb4bc9f96296c01aa2b68b3862f87cb7
+https://dz5.bhalocast.pro:7059/hls/epl01.m3u8?md5=D2PHByc4iEY0ClKnbezVyw&expires=1776721828&ch=epl01&s=ff454188c7856c233b12df8196c32cc3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/West%20Ham%20United%20vs%20Crystal%20Palace.png", group-title="Football", West Ham United vs Crystal Palace (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=u0ozlE73b0xojhk0zN8YjQ&expires=1776720032&ch=dadosky1&s=5b970fc237929d71b0933062ecb993dd
+https://dz5.bhalocast.pro:7059/hls/dadosky1.m3u8?md5=0lyHxtMMSJbqiOAJJz4_LA&expires=1776721829&ch=dadosky1&s=12ee2c30f7ef3bee017cb43a23b8a14f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/West%20Ham%20United%20vs%20Crystal%20Palace.png", group-title="Football", West Ham United vs Crystal Palace (Link 4)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz5.bhalocast.pro:7059/hls/sky3it.m3u8?md5=8pDiU3vwunnUzxNu8g1imQ&expires=1776720033&ch=sky3it&s=9defa6cb226b9be53e53b125598cba7a
+https://dz5.bhalocast.pro:7059/hls/sky3it.m3u8?md5=QZyEulb7EHz8EeUOMnfUeA&expires=1776721831&ch=sky3it&s=f20340b2fe2d0decd05f96ea9703aa17
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/West%20Ham%20United%20vs%20Crystal%20Palace.png", group-title="Football", West Ham United vs Crystal Palace (Link 5)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz5.bhalocast.pro:7059/hls/dazn1.m3u8?md5=KF2Gp7FqqLPIgQrDoVYJiA&expires=1776720035&ch=dazn1&s=947a26f6817c392fddccb47ca694dfe0
+https://dz5.bhalocast.pro:7059/hls/dazn1.m3u8?md5=_W2QPgoKo6NRvs7sNB7gvA&expires=1776721832&ch=dazn1&s=997b7c2ae4b0e0afdf3bda590fd91a57
