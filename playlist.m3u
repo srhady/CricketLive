@@ -3,21 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:26 PM 20-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=GvTs7KqnKlf9sxPM-_zKQQ&expires=1776700227
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=iAkeG983UVs8GyRza84b4Q&expires=1776700227
+#last update time: 09:00:34 PM 20-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=U5XFYmRQqR7fg9GPxfnxDg&expires=1776700227
+https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=qFio_Mj8BxyyicbauaShGg&expires=1776702035
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=4UAxHrTFc3oV3M0LYRp1vA&expires=1776700227
+https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=L_DpVYqkEZQ2vneV8KCgHA&expires=1776702035
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=kYFG3QGuufHql0X0lttxHA&expires=1776702036
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Gujarat Titans vs Mumbai Indians (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Boyhaki8l_NsD1k8tBOS9g&expires=1776702036
+
+
+# --- FOOTYSTREAM SECTION ---
