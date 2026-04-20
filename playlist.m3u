@@ -3,7 +3,7 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:22 PM 20-04-2026
+#last update time: 06:00:29 PM 20-04-2026
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
 http://dummy-link.local
@@ -12,10 +12,10 @@ http://dummy-link.local
 # --- FOOTYSTREAM SECTION ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20Snooker%20Championship%20vs%20Snooker.png", group-title="Football", World Snooker Championship vs Snooker (Link 1)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=ImaWM_Hf5-JnRpaJXDOTQQ&expires=1776689426&ch=bbtsip3&s=43d8615974a3accd4986d673047384da
+https://dz1.bhalocast.pro:7059/hls/bbtsip3.m3u8?md5=8vcmmy11Gc8M_vhTHW7WLw&expires=1776691237&ch=bbtsip3&s=00e6fbc2cd03cca2c3138e84dd7bbe76
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20Snooker%20Championship%20vs%20Snooker.png", group-title="Football", World Snooker Championship vs Snooker (Link 2)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=Bne-B9K56ngGN8mT3WuOdQ&expires=1776689427&ch=bbtsip5&s=429fb73495c54b907359448b7c92c375
+https://dz1.bhalocast.pro:7059/hls/bbtsip5.m3u8?md5=0DP0OF9NO3FQYmlHyZSMkA&expires=1776691238&ch=bbtsip5&s=5846bcb980dc2fb5cb08019c6de8dc69
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/footy_posters/World%20Snooker%20Championship%20vs%20Snooker.png", group-title="Football", World Snooker Championship vs Snooker (Link 3)
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
-https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=k8nhwnEGSA6xC6ocTN0kvQ&expires=1776689428&ch=bbtsip1&s=eb40b4308bfd091622aa60baf4e78ff8
+https://dz1.bhalocast.pro:7059/hls/bbtsip1.m3u8?md5=LvzTCbznDhow54YjhhfMyA&expires=1776691239&ch=bbtsip1&s=eac2cc20f651095a2b568bdba6b91f57
