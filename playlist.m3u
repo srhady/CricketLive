@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:22 PM 21-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=K73E7FSNtzZ7jMXeJEz6sw&expires=1776793824
+#last update time: 11:00:27 PM 21-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=9DOyEkyFzyN2GXcSUb7r0Q&expires=1776793824
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=NYHG4Iw4q5mT3QCYOm8EwA&expires=1776795628
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=vSRO8GOfbWAU91TG4ORf0Q&expires=1776795628
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=ambr9tL1XHqJ9wimydMINQ&expires=1776793824
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=UXrHBMZKTGU5fRVmp8B3WQ&expires=1776793824
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=sce8205f6xEyFe4fN-3RBw&expires=1776793825
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=GLu73VH6y7AMDFxBEJJjXQ&expires=1776795628
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/star1in.m3u8?md5=Tdh8Ij-9BGCQliqobkxkcA&expires=1776793825
+https://n1.zohanayaan.com/hls/star1in.m3u8?md5=N9qSH7FEYL_Tq_sTgnn3pw&expires=1776795628
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=rxMY2UqGfJCSOuaLUMzExA&expires=1776793825
+https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=S-GFKgu8Q5bW9f2aYgzrdA&expires=1776795628
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=NFbrK_vWdFt96QSjuo5w4g&expires=1776795629
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=80jwSN4rsqbyTdswaW4cUg&expires=1776795629
 
 
 # --- FOOTYSTREAM SECTION ---
