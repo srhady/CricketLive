@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:26 AM 22-04-2026
+#last update time: 12:30:21 AM 22-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=Z7TLIQHtOsQBnbHFDri3rA&expires=1776799226
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=5CWjdsx33L4HSiZAzF7W1g&expires=1776801022
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=VEKPf1AjN6PLitGiYX5c7Q&expires=1776799227
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=ErNdlsR0HguJxtuOXJUDDw&expires=1776801022
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=j8swn_oCL_8spCGhtsqVaQ&expires=1776799227
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/star1in.m3u8?md5=HkpvjI4gdQj8CMH2kHP-bg&expires=1776799227
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=qzOuKVy-KxpwJ8HxKLgIaQ&expires=1776801022
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=CrVlCniIAnp8pPZaZDrGRg&expires=1776799227
+https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=t-Yisiphrmv79E6C1omCUQ&expires=1776801022
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (WILLOWUSA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=_DxcD9vZiunRbXYj5EoCLA&expires=1776799227
+https://n1.zohanayaan.com/hls/star1in.m3u8?md5=OEvk3SnJVoQIdbwly0uRWw&expires=1776801022
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=lvwiJaznKpLx1FCx7oL6xA&expires=1776799227
+https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=Cq6mIGhXygX5XbrZfSj_rQ&expires=1776801022
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=pEJhXfRCrvv6HkvREp6sqQ&expires=1776801022
 
 
 # --- FOOTYSTREAM SECTION ---
