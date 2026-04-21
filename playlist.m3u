@@ -3,47 +3,47 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:24 PM 21-04-2026
+#last update time: 09:00:27 PM 21-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=Y85R1iyDK7gdvHkw382TpA&expires=1776786625
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=Eq9wjfnzFZyIFFPgGn2xDQ&expires=1776786625
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=on2kaQCgqCf1xi-VihGkpw&expires=1776788428
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=E4MIY1MKLEsFbhpeXliCmw&expires=1776786625
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=IXrQB4XZcULP2bDM4TOeoA&expires=1776788428
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Quetta%20Gladiators.png" group-title="Live Cricket", Lahore Qalandars vs Quetta Gladiators (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=IA5AJgAl7wPLky_FZijXgA&expires=1776788429
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=Y85R1iyDK7gdvHkw382TpA&expires=1776786625
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=Eq9wjfnzFZyIFFPgGn2xDQ&expires=1776786625
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=5_7Fn3Nv8LEfBd-HxiyrBQ&expires=1776788429
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=_IU4dMEbUVOoYrKlse2gvg&expires=1776786626
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=9fC1v9ePl1N48x-CUmyn3w&expires=1776788429
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Rawalpindiz vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=x3m7M9ItwjR8w3-RLwHDbw&expires=1776786626
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=IA5AJgAl7wPLky_FZijXgA&expires=1776788429
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=W68qBM793fygDLmpq0ioQg&expires=1776786626
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/star1in.m3u8?md5=ADa6PuEcAsFwgguJSJUefg&expires=1776786626
+https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=AsaDm3MRUe5ZwNmHKy1wQw&expires=1776788429
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=ErB4EFov8fSy_H6tJhHT6g&expires=1776786626
+https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=N0uUOFJ_MJ-6GX6xnvXtiQ&expires=1776788429
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/star1in.m3u8?md5=jEMmbkTwxXlwFSYNQvMjFA&expires=1776788430
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Sunrisers Hyderabad vs Delhi Capitals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=4vpGdROgOfFgNe1Qfvt2Ew&expires=1776788430
 
 
 # --- FOOTYSTREAM SECTION ---
