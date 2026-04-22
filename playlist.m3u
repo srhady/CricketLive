@@ -3,10 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:19 PM 22-04-2026
+#last update time: 03:00:26 PM 22-04-2026
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
-http://dummy-link.local
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Karachi Kings vs Peshawar Zalmi (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=mIK-_b4X0LkHVptmCLNBow&expires=1776853227
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Karachi Kings vs Peshawar Zalmi (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=NcbdHVZjPhdNAhr1F9tmtw&expires=1776853227
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Karachi Kings vs Peshawar Zalmi (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=Tm4B8jG1LXVtqIUre_GGKA&expires=1776853227
 
 
 # --- FOOTYSTREAM SECTION ---
