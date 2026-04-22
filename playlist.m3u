@@ -3,19 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:19 PM 22-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Karachi Kings vs Peshawar Zalmi (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=Wyt05Gyzr7FpoxQ3qNmJMQ&expires=1776855020
+#last update time: 04:00:27 PM 22-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Karachi Kings vs Peshawar Zalmi (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=E4lFLHSedzPTwh51FodCDA&expires=1776855020
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=k7PJXYALVxn5cknrOgpi-A&expires=1776856828
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Karachi Kings vs Peshawar Zalmi (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=1zCYlpsaCdzSzGPtAiT8rw&expires=1776856828
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Karachi%20Kings%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Karachi Kings vs Peshawar Zalmi (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=wmpFgcjyowxjzCD2nUeDfQ&expires=1776855020
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=I0AoW0HYLosXte4sGhqvYw&expires=1776856828
 
 
 # --- FOOTYSTREAM SECTION ---
