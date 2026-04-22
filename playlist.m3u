@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:29 PM 22-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Hyderabad Kingsmen vs Multan Sultans (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=P3YLk37HQwK98IX1KcaRAQ&expires=1776882031
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Hyderabad Kingsmen vs Multan Sultans (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=nD9y5skTB6wMS91mS0F6kA&expires=1776882031
+#last update time: 11:30:27 PM 22-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Hyderabad Kingsmen vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=cwKFmDyE9_qjUJrPBvbsEg&expires=1776882031
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=UKiqkWPIPoLyWc4u55AFig&expires=1776883829
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Lucknow Super Giants vs Rajasthan Royals (STAR1IN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Hyderabad Kingsmen vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/star1in.m3u8?md5=sXMkpJ1GLCD1vTQbFbJB8A&expires=1776882032
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=2IWVbrwsdsHhemNWusNNRQ&expires=1776883829
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Lucknow Super Giants vs Rajasthan Royals (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Hyderabad Kingsmen vs Multan Sultans (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=GntiE9M0udQzmqJrmy001Q&expires=1776882032
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=Ajk3khNdOPBZMneLjqh3yg&expires=1776883829
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Lucknow Super Giants vs Rajasthan Royals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=pTuOyqpkXlXGpWWq8mrcrw&expires=1776882032
+https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=Vh77BQh8XbrSeolnoh8rCQ&expires=1776883829
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Lucknow Super Giants vs Rajasthan Royals (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=e6SKEfikjgt-W_7nReAQYA&expires=1776882032
+https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=oovmtccc_ckjMW_PYAjksA&expires=1776883830
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Lucknow Super Giants vs Rajasthan Royals (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/star1in.m3u8?md5=-7XhXCMcR14VK-huomiKCg&expires=1776883830
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Lucknow Super Giants vs Rajasthan Royals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=FYDYKHbw-7nPKLkstNMcbA&expires=1776883830
 
 
 # --- FOOTYSTREAM SECTION ---
