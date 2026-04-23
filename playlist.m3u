@@ -3,11 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:19 PM 23-04-2026
+#last update time: 03:00:29 PM 23-04-2026
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=Bylaia_hRKCW-xrT_a2QIg&expires=1776939630
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=FPzK9ku6hkn_-IkyxzGxRg&expires=1776939630
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=42sVmdF6TX-WGA1FygPRxg&expires=1776939630
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20New%20Zealand.png" group-title="Live Cricket", Bangladesh vs New Zealand (BBTESPN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/bbtespn.m3u8?md5=q-aniOUrlmFR4i5GQThDRg&expires=1776937820
+https://n1.zohanayaan.com/hls/bbtespn.m3u8?md5=uqHzFQdBEAnelxk18r5q8g&expires=1776939631
 
 
 # --- FOOTYSTREAM SECTION ---
