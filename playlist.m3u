@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:29 AM 24-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Lahore Qalandars vs Karachi Kings (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=D8uUaAGP_ISzwrIcMeAMWg&expires=1776972030
+#last update time: 12:30:22 AM 24-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Lahore Qalandars vs Karachi Kings (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=wTKYVeE6U9vWOVgOv73s-g&expires=1776972030
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=ZEuvpG-KiZdM_QdaEDlJKw&expires=1776973823
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Lahore Qalandars vs Karachi Kings (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=Bd4qs1hs79AmQDpt6IjcDQ&expires=1776972030
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=c1-yWJ9Ofxg4qyTPhZmc3w&expires=1776973823
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Lahore Qalandars vs Karachi Kings (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=IkHapc8YwjodBooDUtl6TA&expires=1776972031
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=k3Z6FdzknkAGz1yt0i4YyQ&expires=1776973823
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/star1in.m3u8?md5=pME4iBMCnCd5b0cGuxI-wQ&expires=1776972031
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=3kdAG6ALjxAP8twSvF7VVA&expires=1776972031
+https://n1.zohanayaan.com/hls/star1in.m3u8?md5=TVGqKls4Md9SeY4PsqvRng&expires=1776973823
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=CObp0fqGKst58qYHUskpZQ&expires=1776972031
+https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=pqrt9kW9ndamnR8G3m_Egg&expires=1776973823
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=g40jbj3k6bS71hO8NYiSvg&expires=1776973823
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=CZdArRtx2tDcGKJkVqbWQA&expires=1776973824
 
 
 # --- FOOTYSTREAM SECTION ---
