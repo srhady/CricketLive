@@ -3,51 +3,51 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:25 PM 23-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=3zDU9Q1epZ8k3fZy4vJXug&expires=1776955826
+#last update time: 08:00:27 PM 23-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=bk_aDOj0k0IMU6d-RX3VTw&expires=1776955826
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=fpbaCj-qOrS1YkMHbRC_rw&expires=1776957627
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=Z2_KJuf1Oy2Oqdl5NC8SSQ&expires=1776957627
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=LzjdMjfl4Xy0luh12IBu7Q&expires=1776955827
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Lahore Qalandars vs Karachi Kings (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=Fp5llvnpeQunzRCTddKD6g&expires=1776955827
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=XLSKsBIM3EjzwDG38TzxJw&expires=1776957628
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Lahore Qalandars vs Karachi Kings (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=rqHrZHyOW-odxRdIh80a_w&expires=1776955827
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=tXE76rl-edQP09LYlMSJCg&expires=1776957628
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Lahore Qalandars vs Karachi Kings (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=SHyELpdGye1vY0uE5FVTtQ&expires=1776957628
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Lahore Qalandars vs Karachi Kings (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=LzjdMjfl4Xy0luh12IBu7Q&expires=1776955827
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/star1in.m3u8?md5=CwrcrRG6izhwS1p7mPsebA&expires=1776955828
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=MC8wzzPwH5iiVdh8-TST1w&expires=1776955828
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=VNuA5wDDJKgvYHGgSj8VHw&expires=1776955828
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=XLSKsBIM3EjzwDG38TzxJw&expires=1776957628
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=sjZLyFCsmHhodRSjaeQSjA&expires=1776955828
+https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=nBJKR9dYD6HxCyDfSXI7kQ&expires=1776957628
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=n6Eah71sNV143FhhYPl8-A&expires=1776957628
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=RRd33rWkCJ3VwmnpH7NPQw&expires=1776957629
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Mumbai Indians vs Chennai Super Kings (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/star1in.m3u8?md5=G-dPdSFC_3e7yQjeCJUXBQ&expires=1776957629
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20New%20Zealand.png" group-title="Live Cricket", Bangladesh vs New Zealand (BBTESPN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/bbtespn.m3u8?md5=FK9LaeUJee1USfNWe8eXwA&expires=1776955829
+https://n1.zohanayaan.com/hls/bbtespn.m3u8?md5=-yrswiBYiHWkpSfxeAvxTQ&expires=1776957629
 
 
 # --- FOOTYSTREAM SECTION ---
