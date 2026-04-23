@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:23 PM 23-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=czYBWWCvFJCtYyIsJ-UUYQ&expires=1776945023
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=OsY7Ho69Rqlwp8rk2nRq7w&expires=1776945024
+#last update time: 05:00:25 PM 23-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=8BIKWJypBqClxHcdH0Eqvg&expires=1776945024
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=lW-5x6gG2gr1gT1c02FGCg&expires=1776946827
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=kdW62S0H5qw3zj8nu7STIA&expires=1776946827
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rawalpindiz%20vs%20Islamabad%20United.png" group-title="Live Cricket", Rawalpindiz vs Islamabad United (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=y8epjkKKFdW0Gy-UVAHl6A&expires=1776946827
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20New%20Zealand.png" group-title="Live Cricket", Bangladesh vs New Zealand (BBTESPN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/bbtespn.m3u8?md5=E3vJv6ID9QL9T5nOK25qUg&expires=1776945024
+https://n1.zohanayaan.com/hls/bbtespn.m3u8?md5=W2m464aCeROVK5_CWJxWOg&expires=1776946828
 
 
 # --- FOOTYSTREAM SECTION ---
