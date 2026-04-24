@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:26 AM 25-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Islamabad%20United.png" group-title="Live Cricket", Hyderabad Kingsmen vs Islamabad United (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=Y5b1qf7skZZk4eKe-ib4Fw&expires=1777062027
+#last update time: 01:30:23 AM 25-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Islamabad%20United.png" group-title="Live Cricket", Hyderabad Kingsmen vs Islamabad United (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=e7PkTp_x2w-wAel-XbHLrg&expires=1777062027
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=zX8UgCiLOMMI9Tb5QFcyJA&expires=1777063829
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Islamabad%20United.png" group-title="Live Cricket", Hyderabad Kingsmen vs Islamabad United (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=E-AbsyxSBmu633hSvhMy8g&expires=1777063829
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Islamabad%20United.png" group-title="Live Cricket", Hyderabad Kingsmen vs Islamabad United (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=Bpu2NbX8ZII0Q8ixKdETcw&expires=1777062027
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=s0vdX8p0-ISJOjPCBZvcrA&expires=1777062028
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=E6NSu6ZfmhzpYWF-WWMZBg&expires=1777062028
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=yq_xoY67QidFq2cUn5WRkA&expires=1777063829
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=IEt1jInaWS1cacCYQVvTZg&expires=1777062028
+https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=ZZvGiRYkoUFck_E9dgaQhw&expires=1777063830
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/star1in.m3u8?md5=4jK8Bi8k1crlQOu1jFW1ng&expires=1777062028
+https://n1.zohanayaan.com/hls/star1in.m3u8?md5=4OmOfwQMtWq8eN3taGjPaw&expires=1777063830
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=HqzeyhMWL8wSUW7pHT4Wvw&expires=1777063830
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=XtIXW2vvLgB4bNibHcGvFg&expires=1777063830
 
 
 # --- FOOTYSTREAM SECTION ---
