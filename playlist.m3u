@@ -3,10 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:18 PM 25-04-2026
+#last update time: 03:00:24 PM 25-04-2026
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
-http://dummy-link.local
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=5y4xsCRlUFqqYGa55AYNGw&expires=1777112425
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=16gvZANMmOIAErgjGKrTAA&expires=1777112425
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=nq_ZKtLPWZ9QR63H7htEgg&expires=1777112426
 
 
 # --- FOOTYSTREAM SECTION ---
