@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:23 PM 25-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/asportshd.m3u8?md5=n6IQRr_w3jmQNPt_cxPKVg&expires=1777123224
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=bjStROMsXOWNlAuDNGPFoQ&expires=1777123224
+#last update time: 06:30:24 PM 25-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/tenspk.m3u8?md5=S45ZzNzdOQjNlD3SKVEjuA&expires=1777123225
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=03mO-PjEIMVodWnbFOixbw&expires=1777125025
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (STAR1IN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn15.zohanayaan.com:1686/hls/star1in.m3u8?md5=4TaUXs-yn14VhdjTm7hvQg&expires=1777123225
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=slWVqBgBGFuxEj8wnNzLiw&expires=1777125025
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (WILLOWUSA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Bj6_YqbQDoKHPJHUqlvZrg&expires=1777123225
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=5dtvk-_Iinly37tv6HAQxQ&expires=1777125025
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn11.zohanayaan.com:1686/hls/starhindi.m3u8?md5=w1fVr_KN1g5a1IV3NQQOCA&expires=1777123226
+https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=iN9OKxBvJWec9Il7SPyf1A&expires=1777125025
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/star1in.m3u8?md5=D3527m9XsbAMx04aMTaWPw&expires=1777125026
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=37Yd-b6SlyZqvWu2adIeDQ&expires=1777125026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn11.zohanayaan.com:1686/hls/skyscric.m3u8?md5=UE1trmRzaZ-d1UUMLkm6Qg&expires=1777123226
+https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=Q22H1B8I_ayDxPt8tfoFmA&expires=1777125026
 
 
 # --- FOOTYSTREAM SECTION ---
