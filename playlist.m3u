@@ -3,63 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:21 PM 25-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn11.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=mzwgo3CKPv62Su1NX3TqKg&expires=1777132222
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/tenspk.m3u8?md5=RAtvqV0qiXW7kae6_bdGRg&expires=1777132222
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn13.zohanayaan.com:1686/hls/asportshd.m3u8?md5=_X57WB2_dTgapqcEEPX_PQ&expires=1777132222
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Lahore Qalandars vs Peshawar Zalmi (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn12.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=mzwgo3CKPv62Su1NX3TqKg&expires=1777132222
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Lahore Qalandars vs Peshawar Zalmi (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/tenspk.m3u8?md5=RAtvqV0qiXW7kae6_bdGRg&expires=1777132222
+#last update time: 09:30:23 PM 25-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Lahore Qalandars vs Peshawar Zalmi (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn15.zohanayaan.com:1686/hls/asportshd.m3u8?md5=OF-Ou4uxdwtp-3c5Iypyzg&expires=1777132223
+https://cdn13.zohanayaan.com:1686/hls/asportshd.m3u8?md5=gs5ESVyRXPFtsOfVfbKQdw&expires=1777135824
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Lahore Qalandars vs Peshawar Zalmi (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=94UQFuqg2labiGVQUPfAZw&expires=1777132223
+https://cdn15.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=pREpB7xEn0-wqXIKtjtOTw&expires=1777135824
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (WILLOWUSA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lahore%20Qalandars%20vs%20Peshawar%20Zalmi.png" group-title="Live Cricket", Lahore Qalandars vs Peshawar Zalmi (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn14.zohanayaan.com:1686/hls/willowusa.m3u8?md5=r7fA5LCVzPD9WnhUqVrR-g&expires=1777132223
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=zdoU5kdaUTQdxWnUm6v3eQ&expires=1777132223
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=6rZWy105G1i7vr6qNZjGVA&expires=1777132223
+https://cdn11.zohanayaan.com:1686/hls/tenspk.m3u8?md5=H8RKj4IuDyoUBH6gK5MaFw&expires=1777135824
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=94UQFuqg2labiGVQUPfAZw&expires=1777132223
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=_ZHD-NAaOqw0yrnrUULIug&expires=1777135825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn15.zohanayaan.com:1686/hls/willowusa.m3u8?md5=LB2mbbeizRUxLQJPR19e4w&expires=1777132224
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=GJCt6S459g8Blrr2yHMSvA&expires=1777135825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=BNo1myDdmTwPyHndqoYUWw&expires=1777132224
+https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=ZrdWSaRq6DYM4rvrXSFMFw&expires=1777135825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn11.zohanayaan.com:1686/hls/starhindi.m3u8?md5=wju_5Eat05AXtienOnpSnQ&expires=1777132224
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=4aARSXdKaP9rodQQ-47ruQ&expires=1777135825
 
 
 # --- FOOTYSTREAM SECTION ---
