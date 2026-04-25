@@ -3,19 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:24 PM 25-04-2026
+#last update time: 03:30:21 PM 25-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=5y4xsCRlUFqqYGa55AYNGw&expires=1777112425
+https://n1.zohanayaan.com/hls/ptvpk.m3u8?md5=YsSfASNaSFyaC3pzC8nhDA&expires=1777114222
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=16gvZANMmOIAErgjGKrTAA&expires=1777112425
+https://n1.zohanayaan.com/hls/tenspk.m3u8?md5=NH0TWAUfxoay29XjkaVsJQ&expires=1777114222
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Quetta%20Gladiators%20vs%20Karachi%20Kings.png" group-title="Live Cricket", Quetta Gladiators vs Karachi Kings (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=nq_ZKtLPWZ9QR63H7htEgg&expires=1777112426
+https://n1.zohanayaan.com/hls/asportshd.m3u8?md5=NrX-H4Yb7Ll-AsJoyvLA8w&expires=1777114222
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/skyscric.m3u8?md5=XKJtix1mF1fpiutQQOvxFQ&expires=1777114223
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/willowusa.m3u8?md5=hSmfA3I6og5V-2_U70AOsw&expires=1777114223
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/starhindi.m3u8?md5=kl2nPLBCmJL6jyCv5GEb1A&expires=1777114223
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Punjab Kings (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com/hls/star1in.m3u8?md5=KwcSUimjnt2-lVtYjYKXjg&expires=1777114223
 
 
 # --- FOOTYSTREAM SECTION ---
