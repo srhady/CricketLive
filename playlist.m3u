@@ -3,51 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:23 PM 26-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Islamabad United vs Multan Sultans (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com:1686/hls/tenspk.m3u8?md5=4KVZyqciM8OCedEmdb1CPQ&expires=1777220424
+#last update time: 09:30:21 PM 26-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Islamabad United vs Multan Sultans (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=BbV-82IBXLzM8iVWmh1Tzg&expires=1777220424
+https://n4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=b-_96wAkSQqFa6_8Ez_wLg&expires=1777222222
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Islamabad United vs Multan Sultans (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=zZSi4dWWtiFVLC-lwLLOtg&expires=1777220424
+https://n8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=yfqIwp5jWJi3dRHVNPa62Q&expires=1777222222
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Multan%20Sultans.png" group-title="Live Cricket", Islamabad United vs Multan Sultans (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=KQGfMsI7mkz4_AEk0BXIzQ&expires=1777220425
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=3Ft706QSYixTvxag9W8qQA&expires=1777220425
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=5xVeaxOW6G4bn5eBcCBQgQ&expires=1777220425
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=C59ygpl29hXEG9dVyCkVEA&expires=1777220425
+https://n2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=zCkd88Fn_RxsfZCPMO27Fg&expires=1777222223
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Lucknow Super Giants vs Kolkata Knight Riders (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=qmIqr-d5hJ7OyrDBdd7VZg&expires=1777220426
+https://n8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=yhq0zKM3dBoI58a2_qaAYQ&expires=1777222223
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Lucknow Super Giants vs Kolkata Knight Riders (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Y1vJtDppgsiXnPEKZFE_Sw&expires=1777220426
+https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=qTLXLItirjUgkfRytZ9Zbw&expires=1777222223
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Lucknow Super Giants vs Kolkata Knight Riders (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/star1in.m3u8?md5=D9GZgTivvqzcBTv6luPV3A&expires=1777220426
+https://n8.zohanayaan.com:1686/hls/star1in.m3u8?md5=FfRvLEZoo7pTI3R8Lus67w&expires=1777222223
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Lucknow Super Giants vs Kolkata Knight Riders (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=XcEUgONntrw6e59IYyxulQ&expires=1777220427
+https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=iPsktRIYAJOUNRGiSqvP9A&expires=1777222224
 
 
 # --- FOOTYSTREAM SECTION ---
