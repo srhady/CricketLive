@@ -3,10 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:18 PM 26-04-2026
+#last update time: 03:00:23 PM 26-04-2026
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
-http://dummy-link.local
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=6BGnXX8ZbapcMiazLcOiGA&expires=1777198824
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=yExz-c6g0Egh6_s9YmN5zw&expires=1777198824
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=t0PXC0kVjGy40Dy0ahoMgQ&expires=1777198824
 
 
 # --- FOOTYSTREAM SECTION ---
