@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:20 PM 26-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=TA7xG1TejGRTyopy6IfdOQ&expires=1777207821
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=vzs9ld5ZH1Ny4LmHrvyrZg&expires=1777207821
+#last update time: 06:00:21 PM 26-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n6.zohanayaan.com:1686/hls/tenspk.m3u8?md5=f7uQ1_r-eIXDB4UGHoFN7g&expires=1777207821
+https://n8.zohanayaan.com:1686/hls/tenspk.m3u8?md5=AojOHn0o6GTh-Yp7-90HnQ&expires=1777209622
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (WILLOWUSA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=eGmuJdwU3JRlirmeZfM2Pw&expires=1777207821
+https://n2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=tkbcoYs4HsMPX7o-dYFyoA&expires=1777209622
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Hyderabad%20Kingsmen%20vs%20Rawalpindiz.png" group-title="Live Cricket", Hyderabad Kingsmen vs Rawalpindiz (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=rZ_a9qXBiht5FYNcrhFIfg&expires=1777207822
+https://n1.zohanayaan.com:1686/hls/asportshd.m3u8?md5=gEysV1W360Qmfl8uGn_4ww&expires=1777209622
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n4.zohanayaan.com:1686/hls/star1in.m3u8?md5=z-YA7K2LyFhpFgkSaQEOEg&expires=1777207822
+https://n5.zohanayaan.com:1686/hls/star1in.m3u8?md5=M5MZPKhg75hmBgBqI7sBNg&expires=1777209623
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=d68-PJ8F3lalMTVP9_3r-A&expires=1777209623
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=R9tUwI0pI7SIYRDzyreXcA&expires=1777209623
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Chennai Super Kings (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=TIQSIIO_ZVzEtAjQ-y7-lw&expires=1777207822
+https://n7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-IDIGqNoj-Gl_zS1tgd-mw&expires=1777209623
 
 
 # --- FOOTYSTREAM SECTION ---
