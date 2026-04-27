@@ -3,27 +3,27 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:26 PM 27-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Delhi Capitals vs Royal Challengers Bengaluru (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=QQY6YYF4-ztDth54SFDJjQ&expires=1777308627
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Delhi Capitals vs Royal Challengers Bengaluru (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=yyBZWrKxFEXdI8pXmAPvZw&expires=1777308627
+#last update time: 10:00:30 PM 27-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Delhi Capitals vs Royal Challengers Bengaluru (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com:1686/hls/star1in.m3u8?md5=bRavP4Mq67oQzOLm0K0iqw&expires=1777308627
+https://n7.zohanayaan.com:1686/hls/star1in.m3u8?md5=_Nqhtf_jZ1v2FVnx0Lq-xg&expires=1777310431
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Delhi Capitals vs Royal Challengers Bengaluru (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=BVWj1CpkWaAa-dp7Nc7pbw&expires=1777310432
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Delhi Capitals vs Royal Challengers Bengaluru (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=G7Cqg4msyVAjaOP440Hw0Q&expires=1777308628
+https://n3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Uk3N4WwlPr1mbvH78ZoabA&expires=1777310432
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Delhi Capitals vs Royal Challengers Bengaluru (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://n2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=8OEc_q_R0-Eop8ttij0Z7g&expires=1777310432
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20New%20Zealand.png" group-title="Live Cricket", Bangladesh vs New Zealand (BBTESPN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n1.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=CDaI1Kpt3KHgxTI97HD3Zw&expires=1777308628
+https://n5.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=zzXiLiUjl2TpaJAR18bBdA&expires=1777310432
 
 
 # --- FOOTYSTREAM SECTION ---
