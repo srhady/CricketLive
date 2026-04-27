@@ -3,11 +3,11 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:25 PM 27-04-2026
+#last update time: 05:30:23 PM 27-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20New%20Zealand.png" group-title="Live Cricket", Bangladesh vs New Zealand (BBTESPN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://n2.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=xfAVZBc9RGNWPBjyaIDyBA&expires=1777292426
+https://n5.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=AmfwcByKa3oKTZfQ5YRAyw&expires=1777294223
 
 
 # --- FOOTYSTREAM SECTION ---
