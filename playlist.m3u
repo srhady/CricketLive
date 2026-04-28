@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:27 PM 28-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Islamabad%20United.png" group-title="Live Cricket", Peshawar Zalmi vs Islamabad United (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/asportshd.m3u8?md5=gfjJlQurSYj0WXwhlBUneA&expires=1777395028
+#last update time: 10:00:32 PM 28-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Islamabad%20United.png" group-title="Live Cricket", Peshawar Zalmi vs Islamabad United (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=rixzoW1gdpqEdMjPs24TyA&expires=1777395028
+https://cdn4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=HPP-ssHbfnJk_0LWlEp4lg&expires=1777396834
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Islamabad%20United.png" group-title="Live Cricket", Peshawar Zalmi vs Islamabad United (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=g-c5QCzXdyxGZzDNqx8Q_A&expires=1777395028
+https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=GSfe2gKPt-vkYQXSU2CCMQ&expires=1777396834
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Islamabad%20United.png" group-title="Live Cricket", Peshawar Zalmi vs Islamabad United (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=whLKrqeeMfV8jL4DhS41JQ&expires=1777395029
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=xDP5WrU1dqZgTJfmB-GtSA&expires=1777395029
+https://cdn7.zohanayaan.com:1686/hls/asportshd.m3u8?md5=Yz2AUwi4L4ugFkapVaepBQ&expires=1777396834
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=8JIioW1NjW2yLvNPMBoULw&expires=1777395029
+https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=NnVCnmKxE7zVlxEIL_FAJQ&expires=1777396835
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=lRvt9LZxSidG8EBwVnWzGw&expires=1777396835
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=jTTSLpY0rEL7lcAIlEgV_Q&expires=1777395029
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Gei1xDvUvEP3eugGW-eT8g&expires=1777396835
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=HrK60ITMIzVqVBeNulir-Q&expires=1777396835
 
 
 # --- FOOTYSTREAM SECTION ---
