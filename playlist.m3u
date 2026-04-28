@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:29 PM 28-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Islamabad%20United.png" group-title="Live Cricket", Peshawar Zalmi vs Islamabad United (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=WyDlMimgHapUpbmkJMTGVA&expires=1777400430
+#last update time: 11:30:22 PM 28-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Islamabad%20United.png" group-title="Live Cricket", Peshawar Zalmi vs Islamabad United (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/tenspk.m3u8?md5=gYWC5LpjqlD8Z6nvrwMbKg&expires=1777400430
+https://cdn4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=caNwzYkzA23hg0iygBwEnw&expires=1777402222
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Islamabad%20United.png" group-title="Live Cricket", Peshawar Zalmi vs Islamabad United (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=oyTc9x1XnbWSCMwDe7V9vA&expires=1777402223
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Islamabad%20United.png" group-title="Live Cricket", Peshawar Zalmi vs Islamabad United (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=b50-EpRSbZylyoZRt7lruQ&expires=1777400430
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=2XjsIM8OrFJHQcKMXL1Qhg&expires=1777400431
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=d7I5vzQJlQwBLc1z-Q9fgA&expires=1777400431
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=LyTaGctJyzub1n1AqMGdXQ&expires=1777400431
+https://cdn8.zohanayaan.com:1686/hls/asportshd.m3u8?md5=irhF6laKfvcUTgKBrid9Rg&expires=1777402223
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=KTlzByH1ePlOq7oNOZoVPQ&expires=1777400431
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=oAa5YqbxbOfzEW45NOpQ1Q&expires=1777402223
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=bI62qj9xbdKxYxD412bHmg&expires=1777402223
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=mB0qxN04xWBlNxU9BtJ-qg&expires=1777402223
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Punjab Kings vs Rajasthan Royals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=iYMnOF3t6hIcVGgaOhp71A&expires=1777402223
 
 
 # --- FOOTYSTREAM SECTION ---
