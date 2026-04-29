@@ -3,35 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:32 AM 30-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Multan%20Sultans%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Multan Sultans vs Hyderabad Kingsmen (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/tenspk.m3u8?md5=gdbCsv-Ft88LaVUe9JqOoQ&expires=1777495834
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Multan%20Sultans%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Multan Sultans vs Hyderabad Kingsmen (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=R0VqSavTpbeBrH1z4fhWEg&expires=1777495834
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Multan%20Sultans%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Multan Sultans vs Hyderabad Kingsmen (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/asportshd.m3u8?md5=uS2QDM_bkG1PxklgFSq-ng&expires=1777495834
+#last update time: 02:00:32 AM 30-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=qXr2FqKmWDbAz3R-gDH3nQ&expires=1777495835
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=wkMnhnUFt4sj75wfALvL4w&expires=1777495835
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=6jN8TD29LU-mMUG4HLXrPg&expires=1777495835
+https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=N_-Sp49haJUzB1uEVeB1yw&expires=1777497633
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=NeXUjaD1jP91sV6Ognba-w&expires=1777495835
+https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=DfYIG9jyV2OqHWtEpxMNfg&expires=1777497633
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=N5bh-j23pTLfO-5UnLxTvA&expires=1777497633
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=KKFewkIL71QhymO8TlcbHw&expires=1777497633
 
 
 # --- FOOTYSTREAM SECTION ---
