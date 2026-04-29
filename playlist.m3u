@@ -3,39 +3,39 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:30 PM 29-04-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Multan%20Sultans%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Multan Sultans vs Hyderabad Kingsmen (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=NnClRcMlX114n8zFrTd7Cw&expires=1777476031
+#last update time: 08:30:24 PM 29-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Multan%20Sultans%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Multan Sultans vs Hyderabad Kingsmen (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=QfJlpmiB23fn5ZXHWCKyWw&expires=1777476031
+https://cdn7.zohanayaan.com:1686/hls/asportshd.m3u8?md5=IqCJPlJ5YlDpgwiXXI9aUQ&expires=1777477825
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Multan%20Sultans%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Multan Sultans vs Hyderabad Kingsmen (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/tenspk.m3u8?md5=-qsSDpHfK1-Q18v6TjvxoA&expires=1777477825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Multan%20Sultans%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Multan Sultans vs Hyderabad Kingsmen (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=80c5ly2kmXlC2DwA_pxSeg&expires=1777476031
+https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=vZMe52nv6EmulJ8AK_uo2g&expires=1777477825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=GdL3g1cpSRhK_gBMYFRNMQ&expires=1777476031
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=IFmWQ42Z2uZ0qHO9HJLNnw&expires=1777476032
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=bnGxAJyRBNVM107PuGLUKA&expires=1777477826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=9PZ_CzZKFFK6VpIi7O4Odg&expires=1777476032
+https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=kagYsm4AnCoXYCJ00zqNsw&expires=1777477826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=QwAAMPg3J2o4bsFpDAZwMg&expires=1777476032
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=F4kLeKNU4KC-jgix_fDoRA&expires=1777477826
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Mumbai Indians vs Sunrisers Hyderabad (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=FTRmrSmhEfQys992RwZtWg&expires=1777477826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20New%20Zealand.png" group-title="Live Cricket", Bangladesh vs New Zealand (BBTESPN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=rWkP28Rva_3Cw-GpMytJFw&expires=1777476033
+https://cdn1.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=gj0AOVftlKTGFtfTtqoyMg&expires=1777477826
 
 
 # --- FOOTYSTREAM SECTION ---
