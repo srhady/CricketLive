@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:35 PM 30-04-2026
+#last update time: 11:00:23 PM 30-04-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Gujarat Titans vs Royal Challengers Bengaluru (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=jK9SZSfMDJJQRO13R_lapw&expires=1777571435
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Xxo07VRToAbwDzEZMgjn5A&expires=1777573224
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Gujarat Titans vs Royal Challengers Bengaluru (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=o7Kwh42iiQNRFzHPK-rDOw&expires=1777571436
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=hI8ayYDeEAA-_-FVpP-15Q&expires=1777573224
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Gujarat Titans vs Royal Challengers Bengaluru (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=5fu0PJ6CmFTtPwA_fSsVIw&expires=1777571436
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=-FkqLEbkyCZ0-6MLpN6h6g&expires=1777573224
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Gujarat Titans vs Royal Challengers Bengaluru (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/star1in.m3u8?md5=zOjt6Rcd1rqXQkrtIHle0g&expires=1777571436
+https://cdn10.zohanayaan.com:1686/hls/star1in.m3u8?md5=pOBpt7R_T5H-yQU5ve7zgg&expires=1777573225
 
 
 # --- FOOTYSTREAM SECTION ---
