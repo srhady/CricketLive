@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:33 PM 01-05-2026
+#last update time: 12:00:27 AM 02-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=ukclowFDxVm552fGzimhyw&expires=1777661434
+https://cdn4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=wji_RAMrUJt8dtqHMUV9cg&expires=1777663228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ZkjxNGRNRfMc39eHZHuGeg&expires=1777661434
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=yNlw7-6LH8hldJXCNRmt9A&expires=1777663228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=6L3vZs2XdMlNimG7RWet3A&expires=1777661435
+https://cdn7.zohanayaan.com:1686/hls/asportshd.m3u8?md5=fh5Pc_XHxKkSEfg4AZkjgA&expires=1777663228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=33sdqjfs2VQTApKq9PcBRg&expires=1777661435
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=dIBSOt9CvQkhVLian_vtLw&expires=1777661435
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=eQpoCJ7Bv1F5fA58zQKRHg&expires=1777661435
+https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=jVHAYp5gUL6Lip-SZC2qpQ&expires=1777663228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=UnOv58SzNDS98aMyKZf-sQ&expires=1777661436
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=8bXmeQEYn-dliUM93UBFOA&expires=1777663229
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=DJFnuCRPo5nbofrl8mf2TQ&expires=1777663229
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=yJjypbirTBL31YILoTrSPg&expires=1777663229
 
 
 # --- FOOTYSTREAM SECTION ---
