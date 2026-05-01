@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:27 AM 02-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=wji_RAMrUJt8dtqHMUV9cg&expires=1777663228
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=yNlw7-6LH8hldJXCNRmt9A&expires=1777663228
+#last update time: 12:30:24 AM 02-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/asportshd.m3u8?md5=fh5Pc_XHxKkSEfg4AZkjgA&expires=1777663228
+https://cdn1.zohanayaan.com:1686/hls/asportshd.m3u8?md5=6mYl719r6dMxvgIgGn1-fw&expires=1777665025
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=jVHAYp5gUL6Lip-SZC2qpQ&expires=1777663228
+https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=6k0VkITYtqB-XMrvLhD93A&expires=1777665025
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (TENSPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/tenspk.m3u8?md5=HwzxmcGj20dWNNbK1mi36g&expires=1777665025
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=8bXmeQEYn-dliUM93UBFOA&expires=1777663229
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=KJUJsQqcOpO-JmUE3UCZFw&expires=1777665026
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=pM4_M6j_gMgibjxSJ_v2MQ&expires=1777665026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=DJFnuCRPo5nbofrl8mf2TQ&expires=1777663229
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=ahA6CYt-FkNgdzuJcx9lAg&expires=1777665026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=yJjypbirTBL31YILoTrSPg&expires=1777663229
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=B6Q6u4Z4HBwYStRD4Ygvpg&expires=1777665026
 
 
 # --- FOOTYSTREAM SECTION ---
