@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:23 PM 01-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=B1aeVkmBGLeAxAIXOv2xmQ&expires=1777656024
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=5KfixPJz05Ms2NaAuZftLg&expires=1777656024
+#last update time: 10:30:30 PM 01-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/tenspk.m3u8?md5=220-DfPEzBMuIER7XkKzkg&expires=1777656024
+https://cdn7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=r9saxhC0fDEfICItv48Xrw&expires=1777657831
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=uKuYevrRbEKvfh-yURFC4w&expires=1777656025
+https://cdn6.zohanayaan.com:1686/hls/asportshd.m3u8?md5=yBOOdIjJVyDg0U55pNjjXA&expires=1777657831
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ZQXLohKOj7NjkQGcgm5iuQ&expires=1777657831
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=oaTzTlPlTob5-F9VoJYRUg&expires=1777656025
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=IfoJYLOGjNDlaD7CzaGYHA&expires=1777657831
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=zrI5GNkdSDXiXQuZiUZ9Kw&expires=1777656025
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=DLNYxyYNCjnURjFB2HIi-A&expires=1777657831
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=g--4gjaaNo2GhL4kVfJ0CQ&expires=1777656025
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=oTp-n4tKpA-n9yuet8cFRw&expires=1777657832
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=44A7-tcG74aCi28dxBxp8w&expires=1777657832
 
 
 # --- FOOTYSTREAM SECTION ---
