@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:32 PM 01-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/asportshd.m3u8?md5=VXu0D36o2LUjho01G9C9qw&expires=1777652432
+#last update time: 09:30:30 PM 01-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=Jd1FsJwoXDAbnkbsCPOBOQ&expires=1777652433
+https://cdn8.zohanayaan.com:1686/hls/tenspk.m3u8?md5=BH_M4pGO_uH1Zok93-UhMQ&expires=1777654231
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (ASPORTSHD)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/asportshd.m3u8?md5=EMhygyb-NGbSLbm7OrPqdQ&expires=1777654231
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Islamabad%20United%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Islamabad United vs Hyderabad Kingsmen (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=PhJjDZLkf9sj9pzcNACcNA&expires=1777652433
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=5WFMZc8mSuXqreef3XaDPg&expires=1777652433
+https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=OabSq2Kyhd_XOMHv2kStkA&expires=1777654231
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=QgwxE2Q_xhmKB8gTrlgsyg&expires=1777652433
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=mTlD9x7l8h2iqrMmHWsoqQ&expires=1777652433
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=1WigwSN1iKUnDpL3gcwtdg&expires=1777654231
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=BTPprSDzd3XfSqKx-lUR4g&expires=1777652433
+https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=EMoHG2bb82e8a-wUkrqIEg&expires=1777654231
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=5uiDMcqInVc0Xg1pM1KCsg&expires=1777654232
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Rajasthan Royals vs Delhi Capitals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=LsopPjKLk3PDTONrnCx-Cw&expires=1777654232
 
 
 # --- FOOTYSTREAM SECTION ---
