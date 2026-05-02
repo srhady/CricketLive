@@ -3,11 +3,27 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:27 PM 02-05-2026
+#last update time: 07:30:19 PM 02-05-2026
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Chennai Super Kings vs Mumbai Indians (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Okjgu00aAN74tu40gBK5uQ&expires=1777733420
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Chennai Super Kings vs Mumbai Indians (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=biQEy36ALILLu-sGTR3Pew&expires=1777733420
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Chennai Super Kings vs Mumbai Indians (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=7FITSfr2_2528mMZ3OwSrQ&expires=1777733421
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Chennai Super Kings vs Mumbai Indians (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=2OVee17PXX7tZ5n89qmX1Q&expires=1777733421
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20New%20Zealand.png" group-title="Live Cricket", Bangladesh vs New Zealand (BBTESPN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=X4ch08OlxnQkFm-N80ELOA&expires=1777731629
+https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=NaPywRJa2Zz-d4FtoWlhLQ&expires=1777733421
 
 
 # --- FOOTYSTREAM SECTION ---
