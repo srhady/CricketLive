@@ -3,23 +3,10 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:23 AM 03-05-2026
+#last update time: 03:00:24 AM 03-05-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Chennai Super Kings vs Mumbai Indians (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kTLFwUCx_lA52RNt2ZiqTw&expires=1777758625
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Chennai Super Kings vs Mumbai Indians (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=KZh-WbL89ISSIJYqRqgUgw&expires=1777758625
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Chennai Super Kings vs Mumbai Indians (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=UBPBzJ7Ywr0R1YA2q2fn8g&expires=1777758625
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Chennai Super Kings vs Mumbai Indians (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=LUvXLAyzgLepUNueg7S6mg&expires=1777758626
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
+http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
