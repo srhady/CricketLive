@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:26 PM 03-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=3Wp9199WAe--STRSvjWV9Q&expires=1777807227
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=PpARixgOlFQGAt8bKYT7FA&expires=1777807228
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=xxEna_b99HjZVZj8GQbRVA&expires=1777807228
+#last update time: 04:30:21 PM 03-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=su4wPTMcQZ33Evh1TobTeA&expires=1777807228
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=6iN9lUpjn0q2jOc5brim-Q&expires=1777809022
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=eBhF1pAtz4NCJRdZOqKNEw&expires=1777809022
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=T8-1ZI1mG0mjnTCywfiTWA&expires=1777809023
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=2E-g-UHaB2mwwqQMluzauA&expires=1777809023
 
 
 # --- FOOTYSTREAM SECTION ---
