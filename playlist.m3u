@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:22 PM 03-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=8YzowrgbAGzrTvTgo-v-uw&expires=1777832423
+#last update time: 11:30:23 PM 03-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/asportshd.m3u8?md5=GajrZ8Z42dSCQI48MhWCtQ&expires=1777832423
+https://cdn10.zohanayaan.com:1686/hls/asportshd.m3u8?md5=gaK43mA8llTNlAzLkRQTiA&expires=1777834224
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/tenspk.m3u8?md5=0VWVQ2DNuV4JS8U2-sXhMw&expires=1777832423
+https://cdn7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=tZ2xDHIjVmQXy2Wyvt7L7g&expires=1777834224
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=mj_Am9rHj0R1QbcxZXRRpQ&expires=1777832424
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=BZ4wfUgl_XL9oXB0abw_WQ&expires=1777832424
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=i4ezhRhZrj0bTyfjFkMF5w&expires=1777832424
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=w2juxR3syhOXZwzilz43TA&expires=1777834224
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=hXFuQLIE9l9CAuJMJr7P4Q&expires=1777832424
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=xPnakLR59ISO425mPVSBGg&expires=1777834225
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=sp3WzIZKnAn8vLPN_KI5vw&expires=1777834225
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=6NkZcPcLP2TLZx2i0TL3eQ&expires=1777834225
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=aG297B9bdS9UMfeNveWkqQ&expires=1777834225
 
 
 # --- FOOTYSTREAM SECTION ---
