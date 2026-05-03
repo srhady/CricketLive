@@ -3,19 +3,10 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:00:28 AM 04-05-2026
+#last update time: 02:30:23 AM 04-05-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (ASPORTSHD)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=WtKH5k8uM8UyJFrgSYBr4A&expires=1777843229
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=_SWP8bU4SaxPwxz_sUN-7g&expires=1777843229
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=L7ZBP58kHnAGOpMEBelbHw&expires=1777843229
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
+http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
