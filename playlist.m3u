@@ -3,51 +3,51 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:37 PM 03-05-2026
+#last update time: 09:00:26 PM 03-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=sF7QCL1Ftm41SLSGMfT5Bw&expires=1777823437
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=MToy3qva9PIO6D-i8_UMbg&expires=1777823438
+https://cdn7.zohanayaan.com:1686/hls/asportshd.m3u8?md5=BXcXiGEXaablwBsBdQQk9A&expires=1777825227
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/tenspk.m3u8?md5=jcBuSYJjuh5tAYvsZ6TNDw&expires=1777823438
+https://cdn2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=VQCNN1MoeZtZc3Pdq4AWmg&expires=1777825227
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (WILLOWUSA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=6I0KncYH5kZ4toSyovqSXw&expires=1777823438
+https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=lVHnCp9kj0vLbfCTBX5SCg&expires=1777825227
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=1Y7LDYV-1rk2DSJAtXVKrg&expires=1777823438
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=pCw6EmbyOKCBV1eWJ2g8nw&expires=1777825228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=u4g-w0wYZ3j03hj4sV885A&expires=1777823438
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=FS6TtNq_Yi_07y_FtpPhLg&expires=1777825228
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=-Pm30fGrJLYp5ViMUBWpTw&expires=1777825228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Sunrisers Hyderabad vs Kolkata Knight Riders (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=qCxXzvd-kfQfQae3025kBQ&expires=1777823439
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=YiYuShRbOEe9hsvNSjY4TA&expires=1777823439
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Um76E8iH_SBg8eg03iDOqQ&expires=1777825228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=AJp9Cv_xp-QFSMGYRsYOeQ&expires=1777823439
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=dyp_cWalPmUTeL4_3NItEg&expires=1777825229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=bWibpPQ2U-w9yRzrhFyPzw&expires=1777823439
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=c2-cXVL4UGWp_7CdcoDSaA&expires=1777825229
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=KkEyWzjmmpEqjn8ds9VeXA&expires=1777825229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=qCxXzvd-kfQfQae3025kBQ&expires=1777823439
+https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=oKjTpmJyH_cLMEvw4pJ_Xw&expires=1777825230
 
 
 # --- FOOTYSTREAM SECTION ---
