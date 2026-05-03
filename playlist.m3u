@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:24 PM 03-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (TENSPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/tenspk.m3u8?md5=NgiMcXPds2UCGFxiBFkJlQ&expires=1777830625
+#last update time: 11:00:22 PM 03-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=6A9UD-Vt5dtD7NnOWMsR7A&expires=1777830625
+https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=8YzowrgbAGzrTvTgo-v-uw&expires=1777832423
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (ASPORTSHD)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=gg35qnpKIE8NHSownWdtYg&expires=1777830626
+https://cdn7.zohanayaan.com:1686/hls/asportshd.m3u8?md5=GajrZ8Z42dSCQI48MhWCtQ&expires=1777832423
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (WILLOWUSA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Peshawar%20Zalmi%20vs%20Hyderabad%20Kingsmen.png" group-title="Live Cricket", Peshawar Zalmi vs Hyderabad Kingsmen (TENSPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=uzmXswPKDnJzZSYQBHXXrA&expires=1777830626
+https://cdn6.zohanayaan.com:1686/hls/tenspk.m3u8?md5=0VWVQ2DNuV4JS8U2-sXhMw&expires=1777832423
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Kyt_qUvN1_AvMmqKG0xDWQ&expires=1777830626
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=7Rz_K1IY3EBDgh2htMEHQQ&expires=1777830626
+https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=mj_Am9rHj0R1QbcxZXRRpQ&expires=1777832424
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=C8Ngv4t3rj2EXBbsnwBk4A&expires=1777830627
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=BZ4wfUgl_XL9oXB0abw_WQ&expires=1777832424
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=i4ezhRhZrj0bTyfjFkMF5w&expires=1777832424
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Gujarat Titans vs Punjab Kings (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=hXFuQLIE9l9CAuJMJr7P4Q&expires=1777832424
 
 
 # --- FOOTYSTREAM SECTION ---
