@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:32 PM 04-05-2026
+#last update time: 12:00:35 AM 05-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=zMzHpJVjWRHQWjjpAEUZIg&expires=1777920636
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kgd6JVj7ApD7ht2dfAXpLA&expires=1777920636
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=53vcOM11wPtdf0m9Jul2Qw&expires=1777922436
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=mSbzZr9AVR90GQNUz3uG5Q&expires=1777920636
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=HgTUy7k_WAO1aKrtvUwu_Q&expires=1777922436
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=BotXv-na3rOkDFanHSMAcQ&expires=1777922437
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=twv7UQRxnIzdUbTdPNGwYQ&expires=1777920636
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=UcecQT5e8zF4RvlWO8701w&expires=1777922437
 
 
 # --- FOOTYSTREAM SECTION ---
