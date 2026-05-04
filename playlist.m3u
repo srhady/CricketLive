@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:00:29 PM 04-05-2026
+#last update time: 08:30:25 PM 04-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=x_KQT5x5rsmntR6MX2_txw&expires=1777908031
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=6O7GnRKDY3Zo_F36pf7n4g&expires=1777909825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=cx0KN4bAQ5DZBUG6xIOBWA&expires=1777908031
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=1jLP4BtLKlNcJe5JoisbuA&expires=1777908031
+https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=okPKv9aXiymC68w5JD8Pvg&expires=1777909825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Vf-aZ0my-JDm9tvLvQNPhQ&expires=1777908031
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=zIoWVugHVu9pkvLLYTeJhA&expires=1777909826
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Mumbai Indians vs Lucknow Super Giants (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=8y3nJwd2c39DIZhzAbqVCA&expires=1777909826
 
 
 # --- FOOTYSTREAM SECTION ---
