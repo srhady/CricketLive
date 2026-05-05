@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:46 PM 05-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Chennai Super Kings (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=HX1TnsYDCNwHDLDtz2B3QQ&expires=1778001647
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Chennai Super Kings (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=YPUpTnWQviOB8xB2cPmqrg&expires=1778001647
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Chennai Super Kings (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=LfqPXyJuHigtr2d7-3MLVA&expires=1778001647
+#last update time: 10:30:29 PM 05-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Chennai Super Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=O4dfzU-NhV4tBX12Ahn7NA&expires=1778001647
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=szn6b5AXGgLWkBfsOu6DoQ&expires=1778003429
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Chennai Super Kings (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=UX7sR0ySpbhI5RTTJPoYCw&expires=1778003429
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Chennai Super Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=gQm1MvoKJ2j_4JnkmZi2Zw&expires=1778003430
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Delhi Capitals vs Chennai Super Kings (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=U6blWhFawMJ4irg_qQjSvw&expires=1778003430
 
 
 # --- FOOTYSTREAM SECTION ---
