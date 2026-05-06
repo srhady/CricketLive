@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:30:23 PM 06-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=-kIT4mIxJK0_vGQsm_5L5Q&expires=1778082624
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=hxw91k10FBaqsqugeg-0MA&expires=1778082624
+#last update time: 09:00:41 PM 06-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=8OwOBuvzc3o-Zu45_KQJXQ&expires=1778082624
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=MjHda-Ii5VgoB61fxIVPWw&expires=1778084441
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=0bOOuFwpTEq-t1stXDp0cg&expires=1778082624
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=FTEkqfY7B6BwkiB7ohogtw&expires=1778084442
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=n8YunForl7ueCopOlhJMVA&expires=1778084442
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=E_XjnD0qXJkcYzv2Y4uJog&expires=1778084442
 
 
 # --- FOOTYSTREAM SECTION ---
