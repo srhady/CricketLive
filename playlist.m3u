@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:34 AM 07-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Sc7LYAeqrDeAO3W3eZ7OPg&expires=1778095235
+#last update time: 12:30:26 AM 07-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=iZ62h9ROHk-m9vCWdnCDiw&expires=1778095235
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=ehpcwKZDUF-yeQ6NZWgy_Q&expires=1778097027
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=cxCNGIioMid5Iao3iKz9hw&expires=1778095235
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=d-txGkpCunK-Dqo2u5O66g&expires=1778097027
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=qyq1jDo3fbZSyTzkruAM6A&expires=1778097027
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Sunrisers Hyderabad vs Punjab Kings (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=449BX_LFNJG0MXE7HUQ7dA&expires=1778095235
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=rqT6SfQ5MxVdeQJQfKE3ow&expires=1778097027
 
 
 # --- FOOTYSTREAM SECTION ---
