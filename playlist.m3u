@@ -3,23 +3,10 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:29 AM 08-05-2026
+#last update time: 02:00:35 AM 08-05-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Lucknow Super Giants vs Royal Challengers Bengaluru (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=DbL1uIOSiIwgzN4JBuR0ig&expires=1778187030
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Lucknow Super Giants vs Royal Challengers Bengaluru (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Y9QzDsBwZ8Jq032ccNfyuw&expires=1778187030
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Lucknow Super Giants vs Royal Challengers Bengaluru (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=WhShcS53wSEwCHhRQl5fNg&expires=1778187030
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Lucknow Super Giants vs Royal Challengers Bengaluru (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=fXsKZb4tDmtWsipgnp-G7g&expires=1778187030
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
+http://dummy-link.local
 
 
 # --- FOOTYSTREAM SECTION ---
