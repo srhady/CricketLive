@@ -3,31 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:31 PM 08-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Delhi Capitals vs Kolkata Knight Riders (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=tC-CMRuKQ8_fFdTDDJSlUQ&expires=1778257232
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Delhi Capitals vs Kolkata Knight Riders (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=h0b_TgNTBYDCQ-Zvtnk4Xw&expires=1778257232
+#last update time: 09:30:30 PM 08-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Delhi Capitals vs Kolkata Knight Riders (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=sCUZGaq-M0AieYiSw-cWtw&expires=1778257233
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=bZaGRD6QrZf4x3LgDLFb8A&expires=1778259031
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Delhi Capitals vs Kolkata Knight Riders (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=2Cv8HpBzHFaXg-bY12vF-w&expires=1778259031
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Delhi Capitals vs Kolkata Knight Riders (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=Uk4tx2h4nDxW782Cti9eCA&expires=1778257233
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=fOc1BfZ5UyRmgXdkN_F1Jw&expires=1778259031
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Delhi%20Capitals%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Delhi Capitals vs Kolkata Knight Riders (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=iVJ-UDo6upxYk8JDdSc6gw&expires=1778259031
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=pmziH5pr7YrbZUr_pNUcFw&expires=1778257233
+https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=FcdXCRJ8EWs1XrLZzD9cMw&expires=1778259032
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=bGCS5SMnj19SRvXpnSAMBg&expires=1778257233
+https://cdn9.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=RdqlT-TpA3VyyXZu8V9QUw&expires=1778259032
 
 
 # --- FOOTYSTREAM SECTION ---
