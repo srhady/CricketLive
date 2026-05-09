@@ -3,31 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:30:24 PM 09-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Rajasthan Royals vs Gujarat Titans (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=LhsE-_ZVFxj8787Sctlmyg&expires=1778345425
+#last update time: 10:00:27 PM 09-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Rajasthan Royals vs Gujarat Titans (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=sYGG6PEZSrL1Sa_gRoQMxA&expires=1778345426
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=YGNnrSbvtYTDyiME_9Y-bA&expires=1778347228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Rajasthan Royals vs Gujarat Titans (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=JzBcsCyRELEFgJ23uNJ95A&expires=1778345426
+https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=XT5IJ0O_0FrS5Sk0h8rvCQ&expires=1778347228
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Rajasthan Royals vs Gujarat Titans (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=UXdhdQq02bj011PuAISkhA&expires=1778347228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Rajasthan Royals vs Gujarat Titans (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=3emmIldRjauI9iSYFR3bfA&expires=1778345426
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=LAjwuP-fOOV2PkfPlFQ_2g&expires=1778347228
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PREMIERUK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/premieruk.m3u8?md5=lMGqEVQUsf5ENx9Rh3JaMA&expires=1778345426
+https://cdn6.zohanayaan.com:1686/hls/premieruk.m3u8?md5=j4rtK04Vmb41AZomeKnaIQ&expires=1778347229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=a_tqG2NxXYnZKsjkui_llA&expires=1778345427
+https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=XNNCp1DWJtDxddB2YBDvAw&expires=1778347229
 
 
 # --- FOOTYSTREAM SECTION ---
