@@ -3,27 +3,27 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:27 PM 10-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Chennai Super Kings vs Lucknow Super Giants (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=gMi4JTa0_XicJvdj-tqU1w&expires=1778419228
+#last update time: 06:30:20 PM 10-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Chennai Super Kings vs Lucknow Super Giants (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=59ITx9XlxxUOmVQYuoplbA&expires=1778419228
+https://cdn10.zohanayaan.com:1686/hls/star1in.m3u8?md5=Tk7_Qmn5zPtC4rMWZGRluQ&expires=1778421021
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Chennai Super Kings vs Lucknow Super Giants (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=h2qEnGZAzJK2M4t_YcPnTw&expires=1778419229
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=6FVuUPfnaGk6mdZA96RlbA&expires=1778421022
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Chennai Super Kings vs Lucknow Super Giants (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=mLIaKA7T45q9MCYjRaRjQA&expires=1778421022
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=Yc_iFfSOiYyR3yOHLJbeMA&expires=1778419229
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=_lQErtWSfJ2UxJZvE0cv4Q&expires=1778421022
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=Nwabar7DG_if32R9d-be7A&expires=1778419229
+https://cdn10.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=F2M_WW_B5esXcIlnTLxXJg&expires=1778421022
 
 
 # --- FOOTYSTREAM SECTION ---
