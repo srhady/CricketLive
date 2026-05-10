@@ -3,31 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:30 AM 11-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Mumbai Indians (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Yx5yEFSE8ppRMAglhXXp2g&expires=1778444431
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Mumbai Indians (SKYSMIXX)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=HHnYjh87fh4uCFKF4Dv-5A&expires=1778444431
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Mumbai Indians (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=n5Z7BR-RkmTLFgWaaEZM4w&expires=1778444431
+#last update time: 01:30:22 AM 11-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Mumbai Indians (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=w9B0g3aziIXbTG-QJ-Z6HA&expires=1778444431
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=vPAxcnFxZX73R7buRBsROQ&expires=1778446223
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Mumbai Indians (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=7KtWf_XihZkgQfECILS8uw&expires=1778444432
+https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=mPKgNNslOAT8J3uAntY1Tg&expires=1778446223
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Mumbai Indians (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=8bEe9RhOE34yZeRhIMFCsg&expires=1778446224
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Mumbai Indians (SKYSMIXX)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=vCbilsHdQU6r8CBatCAwDQ&expires=1778446224
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=2VPcfVzypXgP-FHzCPZyyQ&expires=1778444432
+https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=4cJ_9fE5pw0hQO72O9YEfg&expires=1778446224
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=KAHf_fDG8zQA-mfH9iLRFw&expires=1778446224
 
 
 # --- FOOTYSTREAM SECTION ---
