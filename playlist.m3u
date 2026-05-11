@@ -3,31 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:28 AM 12-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=uqOiSZf9gqPQnzPtHVv-pA&expires=1778529029
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=q4IkY-pqJ-XuUbvs98TSYw&expires=1778529029
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=oDs2w-LJ7R4PhYK1jcNofQ&expires=1778529029
+#last update time: 01:00:42 AM 12-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=SHHg-Pko5bq3zDtrVjIEyQ&expires=1778529030
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=4tn3j3q-RcK76WTRXR0AwA&expires=1778530843
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=l-JJmdwdBedM7QD5Iuo-qQ&expires=1778530843
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/star1in.m3u8?md5=8d-DCfMygc5SLSCwjikjiQ&expires=1778530843
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=QxbfxG9fR0OixDkKqBEuFw&expires=1778530844
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=PXQVDt_vyyOsYH-yjFBssQ&expires=1778529030
+https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=28QDanDtiu--F6usQb1BMg&expires=1778530844
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PREMIERUK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/premieruk.m3u8?md5=37ubd4pnedqhk6uYfuwWZA&expires=1778529030
+https://cdn2.zohanayaan.com:1686/hls/premieruk.m3u8?md5=TE-QO3FfhsC5BAyacvPaDQ&expires=1778530844
 
 
 # --- FOOTYSTREAM SECTION ---
