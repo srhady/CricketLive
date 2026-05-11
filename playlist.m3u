@@ -3,15 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:30 PM 11-05-2026
+#last update time: 07:30:26 PM 11-05-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=LKEZW9gu6O0HDWoiDqCwTg&expires=1778509231
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=38GJiy6Hfj1Oe7xBxdNmdA&expires=1778511026
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=PvSyh_i7emLLoeDY2Ns_GA&expires=1778511027
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Kq3Su-MUiS6ud3_eREhp9Q&expires=1778511027
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Punjab Kings vs Delhi Capitals (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=rpzYIYsxUGynQu6800lVUg&expires=1778511027
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PREMIERUK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/premieruk.m3u8?md5=-qOxS2K8bwLxwQgPclxhLg&expires=1778509231
+https://cdn4.zohanayaan.com:1686/hls/premieruk.m3u8?md5=BjEGuSltVroGLKCzj3n-cQ&expires=1778511027
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=vfcmfQAE7YAaLENS0AuYFw&expires=1778511027
 
 
 # --- FOOTYSTREAM SECTION ---
