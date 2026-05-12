@@ -3,31 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:30 PM 12-05-2026
+#last update time: 11:00:27 PM 12-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Gujarat Titans vs Sunrisers Hyderabad (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=uFD89bIkurItY4KAeVLVXw&expires=1778608230
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=XSk-rLABkzWIZwk3pEmJPA&expires=1778610028
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Gujarat Titans vs Sunrisers Hyderabad (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=WPQofaU9RBUhJk-drTR5nQ&expires=1778608231
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Gujarat Titans vs Sunrisers Hyderabad (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=dLdLGiXiPGD9YUa_179woQ&expires=1778608231
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Hios2DLIIMpZdVHc7O66zw&expires=1778610028
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Gujarat Titans vs Sunrisers Hyderabad (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=Q0PcNPwkRB-1U1fqVQ1j9Q&expires=1778608231
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=_Ucrq3UMwbBT-Xnf5aQF_g&expires=1778610028
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Gujarat Titans vs Sunrisers Hyderabad (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=QY4EntfcP52m22pmi_mWIg&expires=1778610028
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PREMIERUK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/premieruk.m3u8?md5=TtqZYezQelGj9BVJgCIX_Q&expires=1778608231
+https://cdn9.zohanayaan.com:1686/hls/premieruk.m3u8?md5=LQON62GLpNbYRDtapFQ_wA&expires=1778610029
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=OYQ71JP5ZcBvWvdxYiRkDQ&expires=1778608231
+https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=xhIIGfGBke94B9STupS6Hw&expires=1778610029
 
 
 # --- FOOTYSTREAM SECTION ---
