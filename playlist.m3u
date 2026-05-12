@@ -3,15 +3,15 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:23 AM 13-05-2026
+#last update time: 04:00:27 AM 13-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PREMIERUK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/premieruk.m3u8?md5=oWcWD3pTOaIPf8okMeeg7Q&expires=1778626223
+https://cdn10.zohanayaan.com:1686/hls/premieruk.m3u8?md5=3BP1RbfyRh_9Wm7Pg_tk2g&expires=1778628028
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=mkBONUjTdcfsqyQFNuhmRQ&expires=1778626224
+https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=InlxkOnLHC2tmSbFoh6Hww&expires=1778628028
 
 
 # --- FOOTYSTREAM SECTION ---
