@@ -3,15 +3,15 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:26 PM 13-05-2026
+#last update time: 06:30:29 PM 13-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSME)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=3xTqAANl_wosEK7rO0fewA&expires=1778678427
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=yVBPvVUWzNNYRCyVM5MpSA&expires=1778680230
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=jnTGyOTyDENWbMMshMVVpQ&expires=1778678427
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=1uwxXeI5FW5SFC-fBhI9Mg&expires=1778680230
 
 
 # --- FOOTYSTREAM SECTION ---
