@@ -3,27 +3,27 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:00:39 AM 14-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Kolkata Knight Riders (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=D5vNLI0RJSDrXF4gKgjkyA&expires=1778700040
+#last update time: 12:30:25 AM 14-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Kolkata Knight Riders (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=6OL1rSjBgv5vdF3eR5dnCA&expires=1778700040
+https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=_0_y3VGsU4f4OqgRPNytkA&expires=1778701825
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Kolkata Knight Riders (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Q0thrvKcc04KszZ5ZOSyRw&expires=1778701826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Kolkata Knight Riders (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=5rwoE_eRFC1HxdYHM0AQoQ&expires=1778700040
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=8odFsJHpt-VKYpKRU8CTrw&expires=1778700041
+https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=YURe0Kv0PMDeUBYUIXQeYw&expires=1778701826
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSME)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=peZfzLyqqn-c9TTxwpjKog&expires=1778700041
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=Mc4kTdk3bA8Yk_gdfW6Kdg&expires=1778701826
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=RzqPFSiYjfAJ0hwL370QIA&expires=1778701826
 
 
 # --- FOOTYSTREAM SECTION ---
