@@ -3,27 +3,27 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:31 PM 13-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Kolkata Knight Riders (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=sBtQqxhFUCXYsQxVvY--cg&expires=1778696432
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Kolkata Knight Riders (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=aMO4mfMGDtS8BEr9UZRREw&expires=1778696433
+#last update time: 11:30:37 PM 13-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Kolkata Knight Riders (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=RqIa2M9dEkpHBynLpnObkQ&expires=1778696433
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=8tP9j3wf9xE_SfBaKWtlcg&expires=1778698237
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Kolkata Knight Riders (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=H33NY0cOm-GcaPXfM-bjQA&expires=1778698237
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Kolkata%20Knight%20Riders.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Kolkata Knight Riders (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=YSWlFrvLkJcrNEolbL1g_A&expires=1778698238
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSME)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=OYPkHSB6k256mpPE7hmYxg&expires=1778696433
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=7zYOeISj1F_xwUM7hv27vQ&expires=1778698238
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=X4-kndyYUt8yvkz3H5QFAg&expires=1778696433
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=37QYsg7eJpPaFqYmVno-oA&expires=1778698238
 
 
 # --- FOOTYSTREAM SECTION ---
