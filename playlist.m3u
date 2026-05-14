@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:00:29 PM 14-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=w-PQo-tMgnUGCcr3ccCGgA&expires=1778779232
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=Jw__6tkM4wsrIqq5Gb5jPg&expires=1778779232
+#last update time: 10:30:25 PM 14-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=EKLIs7mFVwykhfPd7PZ4pg&expires=1778779232
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=d12aBrCg_4kO1VJh2YpOTQ&expires=1778781026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=7sIXWe5Apeu7fR5kxtJ21Q&expires=1778779232
+https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=Y4pghsxxrOFpId4dQX4cnQ&expires=1778781026
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=KHI2gjpvkPR1-em4uKmovw&expires=1778781027
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=hH5FwMxvpJw2VkQ1wyCAdw&expires=1778781027
 
 
 # --- FOOTYSTREAM SECTION ---
