@@ -3,10 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:27 PM 14-05-2026
+#last update time: 07:30:33 PM 14-05-2026
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="No Matches", No Live Match Available Right Now
-http://dummy-link.local
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=_S6l-Qum4xFeLO0Jt6n-ow&expires=1778770234
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=N_wB570BfRiHNG77B7S1mw&expires=1778770234
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=X8y2Kz3Fdu5A8VPYNCOmnQ&expires=1778770235
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Mumbai%20Indians.png" group-title="Live Cricket", Punjab Kings vs Mumbai Indians (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=mlumlW3yTaMJlZrV9tfo1w&expires=1778770235
 
 
 # --- FOOTYSTREAM SECTION ---
