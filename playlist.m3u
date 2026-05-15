@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:25 PM 15-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Chennai Super Kings (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=dYZle1ZB0zPLwl8S4vDDCA&expires=1778867426
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Chennai Super Kings (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=nxlJFbDFALJTJZGWvOLDzA&expires=1778867426
+#last update time: 11:00:25 PM 15-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Chennai Super Kings (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=wLAKLWlNOQZXPQghAfAexg&expires=1778867426
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=Kkccx0ZQNManjpNSaBh_Yg&expires=1778869226
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Chennai Super Kings (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=PcsMGCqCDysXTf760Mijdg&expires=1778869226
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Chennai Super Kings (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=NtQWI3fyLu1UoVQ7HlSE9A&expires=1778867426
+https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=RZkeONHKD0OtIJfJxXWQtA&expires=1778869226
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Chennai%20Super%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Chennai Super Kings (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=cl1wZnM0psV9nLFvfIaIjQ&expires=1778869226
 
 
 # --- FOOTYSTREAM SECTION ---
