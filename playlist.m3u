@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:00:24 PM 16-05-2026
+#last update time: 05:30:20 PM 16-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=TG9QAmKt_NEvLORo8wanGg&expires=1778934025
+https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=NkTIfHhQVUntnUAOjQKZQA&expires=1778935822
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=fw2o0iGNrieO7tlMGASUfw&expires=1778934026
+https://cdn5.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=2yvsy9IMwQO6_6N5OtT2eQ&expires=1778935822
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-muDo8iz4ozjJKff83NL_Q&expires=1778934026
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=VXkqGIKQTeFnlPckLjZkvg&expires=1778935822
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSME)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=73LM9xLYvAt8V4vspDuRxg&expires=1778934026
+https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=PAxjZ8TNOi5-ST0Zyca2sA&expires=1778935823
 
 
 # --- FOOTYSTREAM SECTION ---
