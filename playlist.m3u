@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:24 AM 17-05-2026
+#last update time: 04:30:21 AM 17-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=j8UYrOGbXFPFrHmdR6fvdA&expires=1778973624
+https://cdn2.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=Fk4lRGuwMd-V81GrvgS6Jw&expires=1778975422
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=CJsnIbEZRMI0hPBeO0C6dQ&expires=1778973625
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=YeGawP0YkdGlHgydj2G_Jw&expires=1778973625
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=rwelihQ76ySs36Y7wBy0Dw&expires=1778975422
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSME)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=KItZTAbPCBKD2Pv1-_RQ1Q&expires=1778973625
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=5Tblj0jZn8xAQOoVkMn4mQ&expires=1778975422
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=I8S2zCfG9R3kTUpjfrOcmA&expires=1778975422
 
 
 # --- FOOTYSTREAM SECTION ---
