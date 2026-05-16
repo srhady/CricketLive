@@ -3,39 +3,39 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:18 PM 16-05-2026
+#last update time: 08:00:23 PM 16-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=TXmrN7lH1YVek1jFbaoorA&expires=1778943019
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=kcCRAPLgsDXW8qbI4Uuk5A&expires=1778943019
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=eU2mX6qjEo8hLEw_kwaEBA&expires=1778944824
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (SKYSMIXX)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=KGxaCLwtDDbzFPahz9EuSQ&expires=1778943020
+https://cdn10.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=8xym1VuOc8RRrmcpSBpzWQ&expires=1778944824
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=GM7eYtQ0KH9seLY4ipsGYg&expires=1778943020
+https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=_1WnoJR6Gmz1MfEmGLrr-w&expires=1778944824
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ndZay5If6d-DKQU_YW8jrw&expires=1778943020
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=dijqonDUvdHtWjr1jea5ag&expires=1778944824
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=m1fMqDtgdaZChRmeFhVMBQ&expires=1778943020
+https://cdn7.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=xv2gES5xo8ClcE1SlFgzZQ&expires=1778944824
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ptnMAhI-bhWJzsOgQ4878w&expires=1778944824
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=ntNkjTIWjctCJaYVuYz2Cw&expires=1778943020
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=32EXO-oF3o77bp2paWnlag&expires=1778944825
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSME)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=RaVqsQhRbQx63jX7lgSB1Q&expires=1778943020
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=4gU_9YWzyh5Em7_2vw_wCg&expires=1778944825
 
 
 # --- FOOTYSTREAM SECTION ---
