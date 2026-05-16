@@ -3,39 +3,39 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:20 AM 17-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (SKYSMIXX)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=gvFJ02wpVSTaWszgU5-g6w&expires=1778961021
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=D10wjBkAMacK9pW4XgMmVQ&expires=1778961022
+#last update time: 01:00:22 AM 17-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=lV8omQhPBEx1naE9nPcDlA&expires=1778961022
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ZSw_godcy-uMaVtPUlkPRg&expires=1778962823
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=11Z_P_1pvcqsniRowf21KA&expires=1778961022
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=gyyRQit1SUT_yzP6NKYirQ&expires=1778962823
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (SKYSMIXX)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=HPsqZ6ds7_I69ttaEBRRsA&expires=1778961023
+https://cdn10.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=skZKGU6xLAFnLnYxiTX5Nw&expires=1778962823
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Kolkata Knight Riders vs Gujarat Titans (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=jlh6mXtXqTd_wWWXiU2vyg&expires=1778962823
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=7MvRhiJV26rnu9KpfkRH4w&expires=1778961023
+https://cdn9.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=w-hPQO_zrPo_Ty5Mj_MIyA&expires=1778962824
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=hq69kfVSomCRL0QkdxV6Mw&expires=1778961023
+https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=8hMZg2WQUwi6ZGqb1GFkBA&expires=1778962824
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=5QoqRDBgQMDTJkdEKY81SA&expires=1778961023
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=MEIPXfenbevfolUjk3LbRQ&expires=1778962824
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20W%20vs%20New%20Zealand%20W.png" group-title="Live Cricket", England W vs New Zealand W (SKYSME)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=skQkoxMcXfmY1Z2LNNG9Mg&expires=1778962824
 
 
 # --- FOOTYSTREAM SECTION ---
