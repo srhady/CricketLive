@@ -3,31 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:23 PM 17-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Punjab Kings vs Royal Challengers Bengaluru (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=6DMj9-fHu123qJM_YeKMsg&expires=1779015024
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Punjab Kings vs Royal Challengers Bengaluru (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=4xZDyvg9GU30lG4oKkCRWA&expires=1779015024
+#last update time: 04:00:26 PM 17-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Punjab Kings vs Royal Challengers Bengaluru (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=k1xNwPXvtPxSO_5MXIzxEQ&expires=1779015025
+https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=MFGGtZq4uVNM2dg-UxVF7g&expires=1779016827
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Punjab Kings vs Royal Challengers Bengaluru (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=mM8PmI6bNyFocpUnkMgXJA&expires=1779016827
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Punjab Kings vs Royal Challengers Bengaluru (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=ASQOpnisLhMgVLE9W05teA&expires=1779016828
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Punjab%20Kings%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Punjab Kings vs Royal Challengers Bengaluru (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=blzqXRJ0qexH_MkBDsNXcA&expires=1779015025
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=n7qn2kicGykynl5nRlrz1w&expires=1779015025
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=fzZeJ7rBLOvqbmUELiTQSQ&expires=1779016828
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=RWDuoV877pz7Bxv23rbOfg&expires=1779015025
+https://cdn9.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=JsJyzGxM8IsO_Y8hLUcMfw&expires=1779016828
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=HhFiCiOMit2PNHqEiRhuPw&expires=1779016829
 
 
 # --- FOOTYSTREAM SECTION ---
