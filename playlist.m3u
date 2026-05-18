@@ -3,31 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:32 AM 19-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=4wtkqQMSnwihOXg6gBaQgQ&expires=1779135633
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Jm4_38B0eE_YxYIKLJgJvA&expires=1779135633
+#last update time: 01:30:26 AM 19-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=MNJJB4F_T-28-ahq5TxDJw&expires=1779135633
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=5UuPgBvdfodFDYSo7w24hw&expires=1779137427
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=g74b0j2Foe2Ij92A9TCmSg&expires=1779137427
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=xIY7aLQn7NPhbn_w-eh0yQ&expires=1779137427
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Chennai Super Kings vs Sunrisers Hyderabad (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=O3IDLa56dqxv9I43rHpE9w&expires=1779135633
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=5yUkObTmYNV5YpGuwTVIIg&expires=1779135634
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=XLXIZVAJJYRI-df4mLusiw&expires=1779137427
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=0o7rB51Pcj3Ejp1np4zxEA&expires=1779135634
+https://cdn4.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=c2Wb2rNdywr5r_0ieTMrhg&expires=1779137427
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=QeT4eqyI_-vE44vzWE_JGw&expires=1779137427
 
 
 # --- FOOTYSTREAM SECTION ---
