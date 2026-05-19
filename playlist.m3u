@@ -3,31 +3,15 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:23 AM 20-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Rajasthan Royals vs Lucknow Super Giants (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=PoCdmoISegGChw3uogdwqg&expires=1779229225
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Rajasthan Royals vs Lucknow Super Giants (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=bHUcOMNLFlNjoqh8KUViPQ&expires=1779229225
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Rajasthan Royals vs Lucknow Super Giants (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=dw-V0c5oFZmaeJ_cxsz_vQ&expires=1779229225
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Lucknow%20Super%20Giants.png" group-title="Live Cricket", Rajasthan Royals vs Lucknow Super Giants (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=1lfJe1Fz_ykt0_5j1EiFTA&expires=1779229225
+#last update time: 03:30:21 AM 20-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (HDCHNL2)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=Qyj6FqBxvh73US7gD4yxvQ&expires=1779229225
+https://cdn9.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=ZbTpC3X4OZU2UpmCVlyEYg&expires=1779231021
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=7mAsvEPdSjt6PrCTaw_8lQ&expires=1779229225
+https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=oiAidPa5qaANDrPuCR-izA&expires=1779231022
 
 
 # --- FOOTYSTREAM SECTION ---
