@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:37 PM 21-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Yrckbw48qRDKVO0vFghP6w&expires=1779380438
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=oclylT73DbP-zWkwkSw4YQ&expires=1779380438
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=nMz1p7-57d-XCQFHK4NavQ&expires=1779380438
+#last update time: 09:30:32 PM 21-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=GYHV3jJc8vVEW0sBgX3BRQ&expires=1779380438
+https://cdn8.zohanayaan.com:1686/hls/starhindi.m3u8?md5=mBuzRqkWs4-8IL2v0kcgvQ&expires=1779382233
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=VjQ7EXXqx0DhSvbttvImMw&expires=1779382233
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=_kdrkTlqRF4uKNLuLZMjjw&expires=1779382234
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Chennai%20Super%20Kings%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Chennai Super Kings vs Gujarat Titans (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=TmbMDRIF-DprMeS_cAzmuw&expires=1779382234
 
 
 # --- FOOTYSTREAM SECTION ---
