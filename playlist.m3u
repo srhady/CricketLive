@@ -3,19 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:31 PM 22-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=1KStqsmq8yPMrzlVYlPj6Q&expires=1779474033
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/starhindi.m3u8?md5=NCsVNFi_7e4GLxPj7Ko1JQ&expires=1779474033
+#last update time: 11:30:25 PM 22-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=T4dby54IcyV2l6KQhtBwyA&expires=1779474033
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=YHADJkFPB-RWJ_HZVpIqUg&expires=1779475826
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=HpO_hkD9x-AXFRYq-ovyMw&expires=1779475826
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=c7jvrxAHhizMimLbdY7G1Q&expires=1779475826
 
 
 # --- FOOTYSTREAM SECTION ---
