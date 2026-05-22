@@ -3,19 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:29 AM 23-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=o_A44TYLQp-xJYYQxTv7wg&expires=1779479430
+#last update time: 01:00:24 AM 23-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=WNwoT3XUuRRiFSA61D2EPg&expires=1779479430
+https://cdn4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=JjTLCjsBhhIkMSGR5AkVww&expires=1779481225
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=vZpzAMVMjdOr-ZTEY0r11Q&expires=1779481225
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Sunrisers%20Hyderabad%20vs%20Royal%20Challengers%20Bengaluru.png" group-title="Live Cricket", Sunrisers Hyderabad vs Royal Challengers Bengaluru (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=leqMcsjybZQrqtIgMODZpw&expires=1779479430
+https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=MtDhC-PYXsyp1fZBX2Y60A&expires=1779481225
 
 
 # --- FOOTYSTREAM SECTION ---
