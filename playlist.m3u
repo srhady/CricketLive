@@ -3,19 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:24 AM 24-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=cwtxvGEoijGfiV1PNRZ0xA&expires=1779567626
+#last update time: 01:30:22 AM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=N57kONyqDeGmFHvExdhk6A&expires=1779567626
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=5bfSlvn8OBvItUb-huBgkA&expires=1779569423
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=FRP8Rh006jp2YRSReAJ9GA&expires=1779567626
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=X-hb-NNSXl7njSgw5BnHMw&expires=1779569424
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Lucknow%20Super%20Giants%20vs%20Punjab%20Kings.png" group-title="Live Cricket", Lucknow Super Giants vs Punjab Kings (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=AVH6p_ku0ZqfpjajyjRoEA&expires=1779569424
 
 
 # --- FOOTYSTREAM SECTION ---
