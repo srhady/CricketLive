@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:30:22 PM 24-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STAR1IN)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=_1DczpSC-27Uzf7IUUsG-w&expires=1779634223
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=XZeNlllkCQlzZAKLv2Bd2A&expires=1779634223
+#last update time: 08:00:26 PM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=JNvjgSbdmshfkPz7bt9WNg&expires=1779634223
+https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=U_DGLIRbOkrdD8GaBok9rA&expires=1779636027
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (STARHINDI)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=JNvjgSbdmshfkPz7bt9WNg&expires=1779634223
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=uI3x4gdfuWMpVY-NJJsyzQ&expires=1779636028
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (STAR1IN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=MwwA_iW2RHCIIRNVaP7gjQ&expires=1779634224
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ZLTn4eOiUPHbbaCrPD3jrg&expires=1779634224
+https://cdn2.zohanayaan.com:1686/hls/star1in.m3u8?md5=6PQDYhIKMJYSbBDt25GWPQ&expires=1779636028
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=hOlS13srLgN0v1GXeF2GJQ&expires=1779634224
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=OYms5H8oZMH2rJrr7dmtMg&expires=1779636028
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=4v9U83mJZylLmxffFxcCWw&expires=1779636028
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ZVc1Yst3niStF60r88f7DQ&expires=1779636029
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Kolkata%20Knight%20Riders%20vs%20Delhi%20Capitals.png" group-title="Live Cricket", Kolkata Knight Riders vs Delhi Capitals (STAR1IN)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=6ExbvgSYPL-D_870HQZnug&expires=1779636029
 
 
 # --- FOOTYSTREAM SECTION ---
