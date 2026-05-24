@@ -3,19 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:00:23 PM 24-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=FfKW4-yU9xIXpmfwOWAwGw&expires=1779621623
+#last update time: 04:30:22 PM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=F8bEwPaN72FH9LzL31gyUw&expires=1779621624
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=JGzcdeX3wLLOrkINniEuXg&expires=1779623423
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=FXklSuOGPQCjHXWsdGq7RA&expires=1779623423
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=jy9ks4OmJhu0-Tn5ED70_Q&expires=1779621624
+https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=8fCxlSa6kuyd5vIvxGyYSQ&expires=1779623423
 
 
 # --- FOOTYSTREAM SECTION ---
