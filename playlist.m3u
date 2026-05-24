@@ -3,19 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:22 PM 24-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (WILLOWUSA)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=JGzcdeX3wLLOrkINniEuXg&expires=1779623423
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STARHINDI)
-#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=FXklSuOGPQCjHXWsdGq7RA&expires=1779623423
+#last update time: 05:00:25 PM 24-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=8fCxlSa6kuyd5vIvxGyYSQ&expires=1779623423
+https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=UuJ-SLGzHb7BH39a_xh5og&expires=1779625226
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (WILLOWUSA)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn10.zohanayaan.com:1686/hls/willowusa.m3u8?md5=4aEInIECMr0CXPsrrTVD3A&expires=1779625226
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Mumbai%20Indians%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Mumbai Indians vs Rajasthan Royals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://teachtrendhub.com/
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=kUgjwnDeh98LHCJo5nyVaQ&expires=1779625227
 
 
 # --- FOOTYSTREAM SECTION ---
