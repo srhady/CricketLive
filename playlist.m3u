@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:28 PM 26-05-2026
+#last update time: 11:00:30 PM 26-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=8OQf8_0R6fctCVai3ev1Yw&expires=1779817829
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=QaOABZs8T89pjBsg2YK76A&expires=1779819631
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (STAR1IN)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=hfLqCiYGBTz5vpsjRfkijA&expires=1779817829
+https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=5Twq6_trBi8WNvVN4Pz7_A&expires=1779819631
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Qgfg3hK3ZiTmzyy-OWduZQ&expires=1779817829
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=qu8HvDvZzfPUQZQATGZJgg&expires=1779819631
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (STARHINDI)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=HN5UjBA5sQB6mHF0Bbm1_A&expires=1779817829
+https://cdn6.zohanayaan.com:1686/hls/starhindi.m3u8?md5=1Pe2Pcsm19AMeEbJR0rLWA&expires=1779819632
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=f-eIK1iS_XgHMRG-PkSHWA&expires=1779817830
+https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=OCKz2s0SsFQxd8AWDC1yaA&expires=1779819632
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=aZBoehh7N_k3v36EMXuDRg&expires=1779817830
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=eqogZyNMbkbcskIud8j9PA&expires=1779819632
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=iF9ushReRSayuO3v_CWNcg&expires=1779817830
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=wvkatc5HS-BF5JSlweM4zg&expires=1779819632
 
 
 # --- FOOTYSTREAM SECTION ---
