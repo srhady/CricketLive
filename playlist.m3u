@@ -3,39 +3,39 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:32 AM 28-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (STARHINDI)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/starhindi.m3u8?md5=DO0oMfsoRrAR_VH3jewUlQ&expires=1779915033
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (STAR1IN)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=wNUYG6wyA7QT60k4QD1WNA&expires=1779915033
+#last update time: 02:00:30 AM 28-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/willowusa.m3u8?md5=2FM2FhA0fa9FDCn6mGgIgg&expires=1779915034
+https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=vO22AsmXecDdcbGnywn9PQ&expires=1779916831
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (STAR1IN)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=xqnV_vZe27vZCw4r-IfTpg&expires=1779916831
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-aqjzPgEuYHzofcckAPaww&expires=1779915034
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=NDbq94qWCJcJBJA-F_RrbQ&expires=1779916832
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Rajasthan%20Royals%20vs%20Sunrisers%20Hyderabad.png" group-title="Live Cricket", Rajasthan Royals vs Sunrisers Hyderabad (STARHINDI)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=ynXiRcoq-gN15TZwwRsq1Q&expires=1779915034
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-aqjzPgEuYHzofcckAPaww&expires=1779915034
+https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=KByGnGrKNpzBPCHTCcDUnQ&expires=1779916832
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=6Itbu1m8ar-fHLQeWcYZCw&expires=1779915034
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=7AQiib4YXmWJOAcc1pDz0A&expires=1779916832
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=JRc5EsXSEEQgNIScDrLN0A&expires=1779916832
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=NDbq94qWCJcJBJA-F_RrbQ&expires=1779916832
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=P--CianCeDb6lg6oxWOeNA&expires=1779915035
+https://cdn4.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=t5PLkhRo_hV3VVw_2A5OyA&expires=1779916833
 
 
 # --- FOOTYSTREAM SECTION ---
