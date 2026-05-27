@@ -90,11 +90,9 @@ def main():
                 
             is_valid = False
             
-            # লজিক ১: যদি "Live Now!" লেখা থাকে
             if "Live Now!" in content:
                 is_valid = True
             else:
-                # লজিক ২: টাইম ডেটা আলাদা করে খোঁজা (স্পেস বা লাইন ব্রেক থাকলেও ধরবে)
                 start_match = re.search(r'data-start=["\']([^"\']+)["\']', content)
                 end_match = re.search(r'data-end=["\']([^"\']+)["\']', content)
                 
@@ -103,7 +101,6 @@ def main():
                         start = datetime.fromisoformat(start_match.group(1).replace('Z', '+00:00'))
                         end = datetime.fromisoformat(end_match.group(1).replace('Z', '+00:00'))
                         
-                        # ম্যাচ শুরুর ৩০ মিনিট আগে থেকে শেষ পর্যন্ত ছবি বানাবে
                         if start - timedelta(minutes=30) <= now_utc <= end:
                             is_valid = True
                     except Exception as e:
@@ -120,12 +117,18 @@ def main():
                 
                 print(f"\n🎯 Processing Match: {match_title}")
                 
-                images = re.findall(r'<img\s+[^>]*src=["\']([^"\']+\.webp)["\']', content, re.IGNORECASE)
-                
-                if len(images) >= 2:
-                    create_max_logo_poster(match_title, images[-2], images[-1], local_path)
-                else:
-                    print(f"    [-] Could not find .webp team logos for {match_slug}")
+                # ✅ আপডেট: ২য় পেজে ঢুকে লোগো খোঁজার লজিক
+                match_url = f"https://crichd.at{link}"
+                try:
+                    match_html = s.get(match_url, timeout=10).text
+                    images = re.findall(r'<img\s+[^>]*src=["\']([^"\']+\.webp)["\']', match_html, re.IGNORECASE)
+                    
+                    if len(images) >= 2:
+                        create_max_logo_poster(match_title, images[-2], images[-1], local_path)
+                    else:
+                        print(f"    [-] Could not find .webp team logos for {match_slug}")
+                except Exception as e:
+                    print(f"    [!] Error fetching match page for logos: {e}")
 
         print("\n[*] Cleaning up old match posters...")
         if os.path.exists(OUTPUT_DIR):
