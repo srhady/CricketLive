@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:00:33 PM 28-05-2026
+#last update time: 03:30:23 PM 28-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=2P8p6M3hrkM8DNrbyyfRiQ&expires=1779963634
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=6xkLhxirZPSqWbE3pth8hQ&expires=1779965424
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=xL6vIrtbouY0ir41GrWwJg&expires=1779963634
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=e4L11QLXuGPxrsspW-YUTQ&expires=1779965424
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=ZxeoyeHw7E_ZI-wkDhXW8w&expires=1779963634
+https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=4OYoo3SStnV6Jn1vFDuIdQ&expires=1779965424
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=RD-KJiq--98t9k_DmFCt2A&expires=1779963635
+https://cdn10.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=xaaKAvnca-56YPV-QcRznQ&expires=1779965425
 
 
 # --- FOOTYSTREAM SECTION ---
