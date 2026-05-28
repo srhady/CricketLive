@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:24 PM 28-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=OwFuYOKrVAO2MnsZkhPgVA&expires=1779958225
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=p8QAhgFeyi-IKU_Fgg19Sw&expires=1779958225
+#last update time: 02:00:29 PM 28-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=b8O0lva7p0WIP9fQI9QBMw&expires=1779958226
+https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=6_8P6-SvurRHdEsNSRBU9Q&expires=1779960030
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=WRcQg8bazJgEcFpo1yqvPg&expires=1779960030
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=n_gzY7I6Q_FeywSDyMRFOQ&expires=1779960031
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=1HYUmy28Pj64xQPkjSiHBw&expires=1779958226
+https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=Tfj8eBla_-ZJk-gSretAmg&expires=1779960031
 
 
 # --- FOOTYSTREAM SECTION ---
