@@ -3,23 +3,39 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:33 PM 29-05-2026
+#last update time: 07:30:28 PM 29-05-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Gujarat Titans vs Rajasthan Royals (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=CCALEjWouAZQ50L1OQJxYQ&expires=1780064434
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=1umSkZPQ1Ttspbz1V3Mc1Q&expires=1780066229
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Gujarat Titans vs Rajasthan Royals (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=pQl6KNNQLpuwtImKYpCI-Q&expires=1780064434
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=hQkWQ54042_cMvyxR771uw&expires=1780066230
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Gujarat Titans vs Rajasthan Royals (STAR1IN)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/star1in.m3u8?md5=bY5rBHtfEzlld62kV-I9yw&expires=1780066230
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Gujarat%20Titans%20vs%20Rajasthan%20Royals.png" group-title="Live Cricket", Gujarat Titans vs Rajasthan Royals (STARHINDI)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/starhindi.m3u8?md5=_a8YgzkOXHQrd_Nzqo-_tA&expires=1780066230
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=pMQS9RbvqIxx1AYGRFuMVg&expires=1780064434
+https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=xdrIC0JEWnjSQgs54g5lRw&expires=1780066231
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=bDXWDqFaDbIFLj_7aLzefQ&expires=1780066231
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=kx8q2UgHRIvaTX7tk6D-3Q&expires=1780066231
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=lluQa3rBx01b5-q_3ab_ig&expires=1780064435
+https://cdn7.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=WfieOvC-REFSznA7vZ2CVw&expires=1780066231
 
 
 # --- FOOTYSTREAM SECTION ---
