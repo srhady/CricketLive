@@ -3,39 +3,39 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 09:00:25 PM 31-05-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (STARHINDI)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=lgeYwqL7iw3YHbxOm864mQ&expires=1780244426
+#last update time: 09:30:19 PM 31-05-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (STAR1IN)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/star1in.m3u8?md5=DpyMwtIYI7BYZKQ6RQvNfA&expires=1780244426
+https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=-nZDXFOznqDL4ujhtyw_Jw&expires=1780246220
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=NdMGAq17HqggXzxmTA0iMQ&expires=1780244426
+https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=2TGyFF3H721Zb-_OvZJOVQ&expires=1780246220
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=5dnHw-CMf7qFaBX6cWGaTg&expires=1780244427
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=2uvfNjmwTp7lloOW-F_49w&expires=1780246220
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Royal%20Challengers%20Bengaluru%20vs%20Gujarat%20Titans.png" group-title="Live Cricket", Royal Challengers Bengaluru vs Gujarat Titans (STARHINDI)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=InyugP4sQM7OuRn13FTx6Q&expires=1780244427
+https://cdn4.zohanayaan.com:1686/hls/starhindi.m3u8?md5=1qGXfYykhrJ8KaorjHt0Sw&expires=1780246220
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=FTZNKnGqpEpp7FwvsU5xtQ&expires=1780244427
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=Won6raNXvnWwP84uZqDCRw&expires=1780246221
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=Brl1jvPv8M-kZdEL3hWPkQ&expires=1780244427
+https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=PM6QAnSroKXkxYaxxrdC0Q&expires=1780246221
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=Bi-sCOYHoX-y-T3fHdjEcg&expires=1780246221
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20New%20Zealand.png" group-title="Live Cricket", Ireland vs New Zealand (BBTSP2)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=SBb7xuzDLcc7sF6d9gRsDA&expires=1780244427
+https://cdn3.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=vWPTEk5lEr-_1EFmFfqiMQ&expires=1780246221
 
 
 # --- FOOTYSTREAM SECTION ---
