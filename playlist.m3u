@@ -3,27 +3,27 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:36 PM 02-06-2026
+#last update time: 11:00:36 PM 02-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=OIsVGmTLEwKR9eVFbUFZGg&expires=1780422637
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=mOwUmE0r1Gz1MEybZk_8pA&expires=1780424437
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=atUCMURFcjx8T0eD_L_YvQ&expires=1780422637
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=R2_HiwmFq8Vqij3a4tXeZw&expires=1780424437
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=3_amkV8Hb1hGYU-q38WlBg&expires=1780422637
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=MR1tSX-MMXy84_b6X5zrLw&expires=1780424437
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=lH5E8ioqdcs-XwURJGLpTg&expires=1780422638
+https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=H1vdo6IT0TVvVXcJ1IPDiQ&expires=1780424437
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=zurJacoi7h2ZY1AEd7gdUQ&expires=1780422638
+https://cdn1.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=g8jLQuoeevsp6eu1JrYy8Q&expires=1780424438
 
 
 # --- FOOTYSTREAM SECTION ---
