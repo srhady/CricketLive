@@ -3,39 +3,39 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:24 AM 05-06-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=cn9ODwrY1PDLKBuUGnp-Vw&expires=1780606225
+#last update time: 02:00:27 AM 05-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=CEqDB3AUovpM9p31StUjSg&expires=1780606225
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=8ILylDFf3eBYpNR-il6kQA&expires=1780608028
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skysare.m3u8?md5=InQyJPnw03-D3WKbZbjZRQ&expires=1780606225
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=ipa7gnLJjQSSV-rCuv4VaA&expires=1780608028
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=cn9ODwrY1PDLKBuUGnp-Vw&expires=1780606225
+https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=5G5OwsEgJR1e2EWFEtJVYA&expires=1780608029
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/willowextra.m3u8?md5=yoSgDqnrd0mxnZIxc61dYA&expires=1780606225
+https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=4BpITmzTX8_g2auBpleKrg&expires=1780608029
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=Mg_PZiTd14eF_9lbq51gTg&expires=1780606226
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=GsYaBAfZNSbJKElvOCIqTQ&expires=1780608029
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=5G5OwsEgJR1e2EWFEtJVYA&expires=1780608029
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=Cq1QK-g42-dT83RpXStSxQ&expires=1780606226
+https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=kkrktc5So_cgbtpSvlqoPg&expires=1780608029
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=SUfTrClIvJ9ur4R6KEfaNg&expires=1780606226
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Sc4GMxrAmcdCso1_VcbrLg&expires=1780608029
 
 
 # --- FOOTYSTREAM SECTION ---
