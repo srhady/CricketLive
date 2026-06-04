@@ -3,39 +3,39 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:30:29 PM 04-06-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=7Aye6bq3vwkblE8nxlhAPg&expires=1780581030
+#last update time: 07:00:35 PM 04-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=RTFWt1XXStSxJJwC5IJ8bQ&expires=1780581030
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=PVO9PbtcmOjb-clrDxIBCQ&expires=1780582836
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=OST2iyRRSFZenhEK0qKqiw&expires=1780582836
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=Fjv9xidSNqsCn1ZrX53w-w&expires=1780581031
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=uIhva92ZK8yCJHT8frw_Eg&expires=1780582836
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=sV-XHvEv3Id8ZGW4vuOqIw&expires=1780581031
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=OST2iyRRSFZenhEK0qKqiw&expires=1780582836
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/willowextra.m3u8?md5=7tUv4v8vPJo2_5DNjgLxMg&expires=1780581031
+https://cdn4.zohanayaan.com:1686/hls/willowextra.m3u8?md5=I6SdLv1h-R_9i39C0Y9U4Q&expires=1780582837
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=Fjv9xidSNqsCn1ZrX53w-w&expires=1780581031
+https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=n0NsXNRl8dWvYCzTyEYqtg&expires=1780582837
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Ye_CfjMPvBLZegKMDXQ7JA&expires=1780581032
+https://cdn5.zohanayaan.com:1686/hls/willowusa.m3u8?md5=0-FkCZQOjDVHarvW0nf1ng&expires=1780582837
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Australia.png" group-title="Live Cricket", Pakistan vs Australia (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=RdcErjM9Y9gWCr7ijJTXKQ&expires=1780581032
+https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=10jRd4XAhZIil5M4-0IM8g&expires=1780582838
 
 
 # --- FOOTYSTREAM SECTION ---
