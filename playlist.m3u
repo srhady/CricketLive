@@ -3,43 +3,43 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:30 PM 07-06-2026
+#last update time: 06:30:27 PM 07-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=BPwDHpv8Q_9qEQq04FIJCA&expires=1780838431
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=F-vJv3v5gORloRW0ZB5cdA&expires=1780840229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=l7LKW0Zh-6jwE76ZsE4G9w&expires=1780838431
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=3zzo8LJ1K5koawqoR8cj-w&expires=1780840229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=j7HZHdvuOM7k0KE9tYNE_Q&expires=1780838431
+https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=cuHnJuM5WOXDBXtudvXHWA&expires=1780840229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=w8QCUIw0-lc_dviGmb-uaA&expires=1780838432
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=F-vJv3v5gORloRW0ZB5cdA&expires=1780840229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=byo2RnDz6OLlrPBA-DdV2A&expires=1780838432
+https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=3zzo8LJ1K5koawqoR8cj-w&expires=1780840229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/willowextra.m3u8?md5=pGWZRE5OW1E2zOfztKqUuQ&expires=1780838432
+https://cdn2.zohanayaan.com:1686/hls/willowextra.m3u8?md5=uWSaM_gJD4R3d46rBqeibQ&expires=1780840229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=zhSTPjRwmkg_3XPwnh8flg&expires=1780838433
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=-y2zZosLlj-jVgXfXkC5NA&expires=1780840230
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP3)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=MfZ2n0WTBYH892hLYj78Fg&expires=1780838433
+https://cdn6.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=66-fM2CFltxJlIRcaO1-RA&expires=1780840230
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTESPN)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=6HShQ4EIIO4CBqYbugtbew&expires=1780838433
+https://cdn5.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=ZxppBNhy_G9Emg0cH2ubRA&expires=1780840230
 
 
 # --- FOOTYSTREAM SECTION ---
