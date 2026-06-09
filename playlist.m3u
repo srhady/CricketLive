@@ -3,39 +3,39 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:30:30 PM 09-06-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=HridS6jeHAkynRPw2rnCzQ&expires=1781005831
+#last update time: 05:00:34 PM 09-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=FI1GRySrrkPyWEyPPsabmg&expires=1781005831
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=BUn81T0uQqx7Ew7aweeBoQ&expires=1781007635
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=SL46zI8OkKyYIkdgDQ3c8Q&expires=1781005831
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=61cX7hHya8JcocXR0eMeRA&expires=1781007635
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=jirfJq0WJ_GYm0RWC5cZXg&expires=1781007635
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=lbHDlb8WpWDwK1CFgeiVDg&expires=1781005832
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=qE1iw6rGAkTaNaMWspIGTA&expires=1781007635
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=N6lX9Gl6_9SJp-YXIaykqw&expires=1781005832
+https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=jH3zZwiXwk4yJzA1j97mvA&expires=1781007636
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP1)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=N6lX9Gl6_9SJp-YXIaykqw&expires=1781005832
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP3)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=wJhNfOSrSRFsU0fmGo3krg&expires=1781005833
+https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=jH3zZwiXwk4yJzA1j97mvA&expires=1781007636
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/willowextra.m3u8?md5=5qmZFoTvQCQ-hdm8goInkA&expires=1781005833
+https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=12FvEyvEEM_1c580hv-4AA&expires=1781007636
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP1)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=jH3zZwiXwk4yJzA1j97mvA&expires=1781007636
 
 
 # --- FOOTYSTREAM SECTION ---
