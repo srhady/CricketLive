@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:30:27 PM 09-06-2026
+#last update time: 12:00:42 AM 10-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=pa35V5_GzDlb9n4HLLXmzw&expires=1781031028
+https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=psR7-hkUOvPdN0-XoKIeAw&expires=1781032843
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/skysme.m3u8?md5=Paa8R4BeMJW6zZ_6sqiHeA&expires=1781031028
+https://cdn5.zohanayaan.com:1686/hls/skysme.m3u8?md5=qikUO_F8ZtMD6C3AAvd0Sg&expires=1781032843
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=t6miZUlssSpcla48_oJpig&expires=1781031029
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=CIm71atYm8BHKcHQmgHi2w&expires=1781032843
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=rMbohTdv4k_R0xAj3-ASsQ&expires=1781031029
+https://cdn6.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=2L2aDL6ufsXkJEjygen0zQ&expires=1781032843
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=ZnDAYw2cctMFiz4KA257Zg&expires=1781031029
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=97cDGYwfMe47CE2HjX-DdQ&expires=1781032844
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP1)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=rMbohTdv4k_R0xAj3-ASsQ&expires=1781031029
+https://cdn6.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=2L2aDL6ufsXkJEjygen0zQ&expires=1781032843
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/willowextra.m3u8?md5=q6UwDwrlRHHfVnIxw04kBw&expires=1781031029
+https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=NryAJ0BlFd4FczYR60RcUg&expires=1781032844
 
 
 # --- FOOTYSTREAM SECTION ---
