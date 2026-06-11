@@ -3,35 +3,35 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:33 AM 12-06-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=H89ypSavFjQh-AkjW76Xdg&expires=1781211034
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=ztq9i7Uwe5caXLBqjflyug&expires=1781211035
+#last update time: 02:00:34 AM 12-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=2a98kcQNQu48djGuyxd-JQ&expires=1781211035
+https://cdn3.zohanayaan.com:1686/hls/skysme.m3u8?md5=-YU62lv5FpWMaLe5BzkiPQ&expires=1781212836
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/skysare.m3u8?md5=Ghc40bmdAiNqDkAxV9T7QQ&expires=1781212836
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=xi6KQ0FVXRPdi10fFuCf5A&expires=1781212836
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20A%20vs%20Afghanistan%20A.png" group-title="Live Cricket", India A vs Afghanistan A (SONYTEN1)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=sbMW0FQiMUi7e1sKLcSKzg&expires=1781211035
+https://cdn4.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=fmI3lsYiU9bb6FYzG0Dasw&expires=1781212836
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20A%20vs%20Afghanistan%20A.png" group-title="Live Cricket", India A vs Afghanistan A (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=TkWhHmUWOTfvjSG_l0ebDQ&expires=1781211036
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP2)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=RqL8QEuylvFrqRLKl7Iojg&expires=1781211036
+https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=tbrdGJViDeUKmfi5XyAZMg&expires=1781212837
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/willowextra.m3u8?md5=Nl2905c_dn0mli_j1uhZRw&expires=1781211036
+https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=UnhB34cg3smzE1ult0DXpg&expires=1781212837
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP2)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=MVVpBitFzWY3JWfFrTy9Pw&expires=1781212837
 
 
 # --- FOOTYSTREAM SECTION ---
