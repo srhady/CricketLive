@@ -3,23 +3,23 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:35 PM 12-06-2026
+#last update time: 06:30:27 PM 12-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=993Vhps4_MINNqbJsElftA&expires=1781270436
+https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=uw4BjJwQvXMWdqqfWbO-vQ&expires=1781272229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=BV7aJazDJRKdIK1r3tpvkA&expires=1781270436
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=MwJnAWxnmOVtlUhHPTP2ug&expires=1781272229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysare.m3u8?md5=s4EXjfdFJUFM-PpJeRMB8A&expires=1781270436
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=SEPvh2rixEawd7OJ-iASiA&expires=1781272229
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP1)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=cUbjQQboLRHpZ58Nu68CnQ&expires=1781270437
+https://cdn3.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=qXI28oULv5btkUkWe9zgVg&expires=1781272230
 
 
 # --- FOOTYSTREAM SECTION ---
