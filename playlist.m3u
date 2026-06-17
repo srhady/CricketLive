@@ -3,55 +3,55 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:30:42 AM 18-06-2026
+#last update time: 01:00:43 AM 18-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=0z6pvDMh_dy-ZlJ1GD014Q&expires=1781725843
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=o4R1qoJjviJYA6Aat_jiRA&expires=1781725843
+https://cdn3.zohanayaan.com:1686/hls/skysare.m3u8?md5=VwQHMhpxard06JSa3JAlTQ&expires=1781727644
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=rzTsdJnMQRhEIfVJMxL-Dw&expires=1781725844
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=kt1_geBif7wGK6ZN5uoQ0w&expires=1781727644
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=GwnN37g9lcAqeEgnL8todA&expires=1781725844
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=ibcNPTNpgj9VTEGcFw0hbg&expires=1781727644
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STARHINDI)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=nZy4jzgAobpdeiS_jmJBUw&expires=1781725845
+https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=ADlHFMVsQfniK28Gwt1Wgg&expires=1781727644
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (BBTSP1)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=i4TAeZ8Fb-VZfMi5ovPtaA&expires=1781727644
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (STAR1IN)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/star1in.m3u8?md5=S18Cy7HZ6Z-sn1lKeITujg&expires=1781725845
+https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5=9wPOemIyS8_Xel9UeL6DOg&expires=1781727644
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Live Cricket", India vs Afghanistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=uD2qHp9leXNeamrLGowl4A&expires=1781725845
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=NZl6a-ZFqE0Q6P7ZClhKMQ&expires=1781727645
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (BBTSP3)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=vtCa2Ckz5sGh5u3ye7F_VQ&expires=1781725845
+https://cdn10.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=qHK8lMvlVdwAwD3H8Ji1Vg&expires=1781727645
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Bangladesh%20vs%20Australia.png" group-title="Live Cricket", Bangladesh vs Australia (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/willowextra.m3u8?md5=eLRb8RItGtrxuM7syLEAyA&expires=1781725846
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=o4R1qoJjviJYA6Aat_jiRA&expires=1781725843
+https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=Z2_7tIRQ5NPGct3eKuAIug&expires=1781727645
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skyscric.m3u8?md5=rzTsdJnMQRhEIfVJMxL-Dw&expires=1781725844
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=kt1_geBif7wGK6ZN5uoQ0w&expires=1781727644
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/skysme.m3u8?md5=ibcNPTNpgj9VTEGcFw0hbg&expires=1781727644
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/willowextra.m3u8?md5=eLRb8RItGtrxuM7syLEAyA&expires=1781725846
+https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=Z2_7tIRQ5NPGct3eKuAIug&expires=1781727645
 
 
 # --- FOOTYSTREAM SECTION ---
