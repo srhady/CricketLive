@@ -3,31 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 10:30:31 AM 19-06-2026
+#last update time: 11:00:36 AM 19-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=QEtTLgGlkpX4L27b7mUx8Q&expires=1781848232
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=aCEVnpP7mD6KxPONxAP9_w&expires=1781848232
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=nJaSVYwEJq378hImPxc63Q&expires=1781850037
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysare.m3u8?md5=jtT-7O3L0DcS_YGJ2q3fnQ&expires=1781848232
+https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=HF2IZHUK3uVS4Xlt_dhB3Q&expires=1781850037
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=Vf05DBjGvO5rvs5Yf674hw&expires=1781850037
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skyscric.m3u8?md5=QEtTLgGlkpX4L27b7mUx8Q&expires=1781848232
+https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=nJaSVYwEJq378hImPxc63Q&expires=1781850037
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=aCEVnpP7mD6KxPONxAP9_w&expires=1781848232
+https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=Vf05DBjGvO5rvs5Yf674hw&expires=1781850037
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/England%20vs%20New%20Zealand.png" group-title="Live Cricket", England vs New Zealand (WILLOWEXTRA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=iRJ6dSJe6F0BLTba0LompQ&expires=1781848233
+https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=MVbJw0RUHXQ9vz87MbxbRg&expires=1781850038
 
 
 # --- FOOTYSTREAM SECTION ---
