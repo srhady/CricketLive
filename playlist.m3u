@@ -3,19 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 06:00:41 AM 24-06-2026
+#last update time: 06:30:34 AM 24-06-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=2KWFvQcMlL3yTZ1bLrJEQA&expires=1782264042
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=m-R9xqyDEhiZ2CRN-F8Dzg&expires=1782265835
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=MpHEqQi-eyQ4uMuJ-HbSqw&expires=1782264042
+https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=52hOz8PW3z5yFabsThEtyw&expires=1782265836
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/skyscric.m3u8?md5=PRJ3IRKTAK62b2E9j4wcaw&expires=1782264042
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=PmCTwFqSYa5ShmzojPbnQg&expires=1782265836
 
 
 # --- FOOTYSTREAM SECTION ---
