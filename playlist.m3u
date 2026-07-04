@@ -3,31 +3,31 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:00:51 AM 05-07-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=JLexz0-sL6AZhrDdv8llrg&expires=1783196452
+#last update time: 01:30:49 AM 05-07-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skysme.m3u8?md5=mveV56DqaaWxVgL88fYXug&expires=1783196452
+https://cdn7.zohanayaan.com:1686/hls/skysme.m3u8?md5=02VddSELA8fHqxrem4KGbQ&expires=1783198250
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=InXsVpWXLrDWI9dEvGDVVg&expires=1783198250
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysare.m3u8?md5=dEYCeAur5coc1fthlzGqzw&expires=1783196453
+https://cdn1.zohanayaan.com:1686/hls/skysare.m3u8?md5=UFstBYPYxzzv4sY1rrEtDA&expires=1783198250
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Sri%20Lanka.png" group-title="Live Cricket", West Indies vs Sri Lanka (BBTSP2)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=4_4JzEdVRP289ep9maxhlg&expires=1783196453
+https://cdn8.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=oh_IoeI7XEuvGMTWBle4Wg&expires=1783198250
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=JLexz0-sL6AZhrDdv8llrg&expires=1783196452
+https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=InXsVpWXLrDWI9dEvGDVVg&expires=1783198250
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=N7wxdHq8_hP7X0_qrWkEmg&expires=1783196453
+https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=O1yD2jQmPnHovndDTSz9Sw&expires=1783198251
 
 
 # --- FOOTYSTREAM SECTION ---
