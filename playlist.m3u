@@ -3,19 +3,19 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 07:00:57 AM 10-07-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=0Ofsl0BR7su51L48Mj5beA&expires=1783650058
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skyscric.m3u8?md5=HXBXaRsy23kukRRDG647tg&expires=1783650058
+#last update time: 07:30:56 AM 10-07-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSARE)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skysare.m3u8?md5=BIuULJoB0GkK_ZFVMkZJXA&expires=1783650058
+https://cdn6.zohanayaan.com:1686/hls/skysare.m3u8?md5=Sb8p1BNYahmM45-5OSM6tQ&expires=1783651857
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSME)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysme.m3u8?md5=pWXjxYXSQCJOK9kHlVEmtw&expires=1783651857
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Vitality%20T20%20Blast%20vs%20T20%20Blast%202025.png" group-title="Live Cricket", Vitality T20 Blast vs T20 Blast 2025 (SKYSCRIC)
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skyscric.m3u8?md5=0mb-3eHc9QWVeIxOsEVjsA&expires=1783651858
 
 
 # --- FOOTYSTREAM SECTION ---
