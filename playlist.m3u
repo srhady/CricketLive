@@ -3,15 +3,15 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 11:00:37 PM 19-07-2026
+#last update time: 11:30:32 PM 19-07-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (SKYSCRIC)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=xO48a3NN7NfZUsB7_WKDPQ&expires=1784485238
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=rDdYKly_cMNIffn5I7iXfg&expires=1784487032
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20England.png" group-title="Live Cricket", India vs England (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/willowusa.m3u8?md5=Rot7Xo2S65o_w30Qt3gAHg&expires=1784485238
+https://cdn7.zohanayaan.com:1686/hls/willowusa.m3u8?md5=FH2D44UfSfQKQulKTqV62A&expires=1784487033
 
 
 # --- FOOTYSTREAM SECTION ---
