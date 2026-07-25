@@ -3,23 +3,15 @@
 #name: CricketLive Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 01:30:34 AM 26-07-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN3)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/sonyten3.m3u8?md5=8cOA7XtGJ80BU3AK7D9eBQ&expires=1785012635
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20India.png" group-title="Live Cricket", Zimbabwe vs India (SONYTEN1)
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/sonyten1.m3u8?md5=SxtndefNNxaBvHXwJZAecg&expires=1785012635
+#last update time: 02:00:34 AM 26-07-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (WILLOWUSA)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=iLY_IsQoUknuSAZ5tnyY9Q&expires=1785012635
+https://cdn3.zohanayaan.com:1686/hls/willowusa.m3u8?md5=yEXNw0SQEkpjdYHkiu7_yw&expires=1785014435
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/West%20Indies%20vs%20Pakistan.png" group-title="Live Cricket", West Indies vs Pakistan (PTVPK)
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=_2IKG-IO3G9BPhnsY8s42w&expires=1785012636
+https://cdn3.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=lVOhCAAHO8bf_sumymBmpw&expires=1785014435
 
 
 # --- FOOTYSTREAM SECTION ---
