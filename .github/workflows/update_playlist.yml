@@ -1,7 +1,7 @@
-name: Sports Private Engine (Cricket & Footy)
+name: Sports Private Engine (Cricket)
 
 on:
-  workflow_dispatch: # ম্যানুয়াল রানের জন্য
+  workflow_dispatch: # For manual triggering
 
 jobs:
   build:
@@ -32,19 +32,14 @@ jobs:
       run: python private_scripts/cricket.py
       continue-on-error: true
 
-    - name: ⚽ Run Footy Engine (Private)
-      run: python private_scripts/footy_m3u8.py
-      continue-on-error: true
-
     - name: 💾 Commit and Push Changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # ফাইল বা ফোল্ডার না পেলেও এরর দিয়ে ক্র্যাশ করবে না (|| true এর ম্যাজিক)
-        git add playlist.m3u || true
+        # Prevent crash if files are missing
+        git add Crichdat_Live.m3u || true
         git add posters/ || true
-        git add footy_posters/ || true
         
-        git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Manual Update: All Engines (Cricket & Footy)"
+        git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Manual Update: Cricket Engine"
         git push
