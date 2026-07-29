@@ -2,8 +2,8 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-07-29 11:31:06 PM (BD Time)"
-# Total Active Links: 16
+#"last updated": "2026-07-30 12:01:09 AM (BD Time)"
+# Total Active Links: 15
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Pakistan+vs+West+Indies+1st+Test&font=Oswald" group-title="PAK vs WI", Pakistan vs West Indies 1st Test - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
@@ -79,9 +79,4 @@ https://playerso.top/embed2.php?id=asports
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://playerso.top/embed2.php?id=cricgo5
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Nepal+vs+Netherlands&font=Oswald" group-title="ODI Match", Nepal vs Netherlands - CricGo 2
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=cricgo2
 
