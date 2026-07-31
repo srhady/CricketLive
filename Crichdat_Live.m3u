@@ -2,28 +2,43 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-01 02:30:47 AM (BD Time)"
-# Total Active Links: 14
+#"last updated": "2026-08-01 03:01:08 AM (BD Time)"
+# Total Active Links: 19
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Global+Super+League+T20&font=Oswald" group-title="GSL T20", Global Super League T20 - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=willow
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Global+Super+League+T20&font=Oswald" group-title="GSL T20", Global Super League T20 - A Sports HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=asports
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Global+Super+League+T20&font=Oswald" group-title="GSL T20", Global Super League T20 - Willow HD
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=willowhd
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Global+Super+League+T20&font=Oswald" group-title="GSL T20", Global Super League T20 - CricGo 4
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=cricgo4
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Asian+Legends+League&font=Oswald" group-title="T20 League", Asian Legends League - CricGo 3
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://playerso.top/embed2.php?id=cricgo3
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Lanka+Premier+League+2026&font=Oswald" group-title="LPL", Lanka Premier League 2026 - Willow Xtra
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Delhi+Premier+League&font=Oswald" group-title="T20 League", Delhi Premier League - Star Sports Hindi
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=willowextra
+https://playerso.top/embed2.php?id=starsp3
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Lanka+Premier+League+2026&font=Oswald" group-title="LPL", Lanka Premier League 2026 - A Sports HD
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Delhi+Premier+League&font=Oswald" group-title="T20 League", Delhi Premier League - CricGo 6
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=asports
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Lanka+Premier+League+2026&font=Oswald" group-title="LPL", Lanka Premier League 2026 - CricGo 5
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=cricgo5
+https://playerso.top/embed2.php?id=cricgo6
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=The+Hundred+2026&font=Oswald" group-title="The Hundred", The Hundred 2026 - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
@@ -45,33 +60,43 @@ https://playerso.top/embed2.php?id=willowhd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://playerso.top/embed2.php?id=crich2
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Delhi+Premier+League&font=Oswald" group-title="T20 League", Delhi Premier League - Star Sports Hindi
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Lanka+Premier+League+2026&font=Oswald" group-title="LPL", Lanka Premier League 2026 - Willow Xtra
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=starsp3
+https://playerso.top/embed2.php?id=willowextra
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Delhi+Premier+League&font=Oswald" group-title="T20 League", Delhi Premier League - CricGo 6
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=cricgo6
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Global+Super+League+T20&font=Oswald" group-title="GSL T20", Global Super League T20 - Willow Cricket
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=willow
-
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Global+Super+League+T20&font=Oswald" group-title="GSL T20", Global Super League T20 - A Sports HD
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Lanka+Premier+League+2026&font=Oswald" group-title="LPL", Lanka Premier League 2026 - A Sports HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://playerso.top/embed2.php?id=asports
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Global+Super+League+T20&font=Oswald" group-title="GSL T20", Global Super League T20 - Willow HD
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Lanka+Premier+League+2026&font=Oswald" group-title="LPL", Lanka Premier League 2026 - CricGo 5
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=cricgo5
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Pakistan+vs+West+Indies+2nd+Test&font=Oswald" group-title="PAK vs WI", Pakistan vs West Indies 2nd Test - Willow Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=willow
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Pakistan+vs+West+Indies+2nd+Test&font=Oswald" group-title="PAK vs WI", Pakistan vs West Indies 2nd Test - PTV Sports
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=ptvsp
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Pakistan+vs+West+Indies+2nd+Test&font=Oswald" group-title="PAK vs WI", Pakistan vs West Indies 2nd Test - Willow HD
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://playerso.top/embed2.php?id=willowhd
 
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Global+Super+League+T20&font=Oswald" group-title="GSL T20", Global Super League T20 - CricGo 4
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Pakistan+vs+West+Indies+2nd+Test&font=Oswald" group-title="PAK vs WI", Pakistan vs West Indies 2nd Test - CricGo 1
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://playerso.top/embed2.php?id=cricgo4
+https://playerso.top/embed2.php?id=cricgo1
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Pakistan+vs+West+Indies+2nd+Test&font=Oswald" group-title="PAK vs WI", Pakistan vs West Indies 2nd Test - TNT Cricket
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=crich13
 
