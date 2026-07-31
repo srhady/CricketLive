@@ -2,8 +2,8 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-07-31 10:31:09 PM (BD Time)"
-# Total Active Links: 13
+#"last updated": "2026-07-31 11:01:06 PM (BD Time)"
+# Total Active Links: 14
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Asian+Legends+League&font=Oswald" group-title="T20 League", Asian Legends League - CricGo 3
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
@@ -49,6 +49,11 @@ https://playerso.top/embed2.php?id=crich2
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://playerso.top/embed2.php?id=starsp3
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Delhi+Premier+League&font=Oswald" group-title="T20 League", Delhi Premier League - CricGo 6
+#EXTVLCOPT:http-referrer=https://bhalocast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://playerso.top/embed2.php?id=cricgo6
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Global+Super+League+T20&font=Oswald" group-title="GSL T20", Global Super League T20 - Willow Cricket
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
