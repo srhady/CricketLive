@@ -9,24 +9,24 @@ jobs:
 
     steps:
     - name: 🌐 Checkout Public Repository (CricketLive)
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: 🔐 Checkout Private Repository (axsportspvt)
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: srhady/axsportspvt
         token: ${{ secrets.GH_PAT }}
         path: private_scripts
 
     - name: 🐍 Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.10'
 
     - name: 📦 Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests Pillow beautifulsoup4
+        pip install requests Pillow beautifulsoup4 cloudscraper
 
     - name: 🚀 Run Cricket Engine (Private)
       run: python private_scripts/cricket.py
