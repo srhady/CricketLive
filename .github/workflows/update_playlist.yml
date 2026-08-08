@@ -38,7 +38,7 @@ jobs:
         git config --local user.name "GitHub Action"
         
         # Prevent crash if files are missing
-        git add Crichdat_Live.m3u || true
+        git add playlist.m3u || true
         git add posters/ || true
         
         git diff --quiet && git diff --staged --quiet || git commit -m "⚡ Manual Update: Cricket Engine"
