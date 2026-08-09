@@ -8,9 +8,10 @@ from PIL import Image, ImageDraw, ImageFont
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
-print(" 🎨 Background: Deep Navy Studio (#0F172A) + HUGE Watermark 🎨")
+print(" 🎨 Background: Professional Broadcast Slate + Oswald Font 🎨")
 print("="*75)
 
+# Navigate out of the 'scripts' folder to the root directory
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(BASE_DIR, "posters")
 
@@ -71,15 +72,14 @@ def fetch_telegram_icon_circular():
         print(f"    [!] Failed to download Telegram icon: {e}")
     return None
 
-def get_guaranteed_font(size):
-    """Downloads a real TTF font to ensure it works on GitHub Actions Linux servers"""
-    font_path = os.path.join(BASE_DIR, "Roboto-Bold.ttf")
+def get_oswald_font(size):
+    """Downloads Oswald-Bold TTF to ensure it works on GitHub Actions Linux servers"""
+    font_path = os.path.join(BASE_DIR, "Oswald-Bold.ttf")
     
-    # Download font if it doesn't exist in the repo
     if not os.path.exists(font_path):
         try:
-            print("    [*] Downloading Roboto-Bold font for watermark...")
-            font_url = "https://github.com/googlefonts/roboto/raw/main/src/hinted/Roboto-Bold.ttf"
+            print("    [*] Downloading Oswald-Bold font for watermark...")
+            font_url = "https://github.com/google/fonts/raw/main/ofl/oswald/Oswald-Bold.ttf"
             r = requests.get(font_url, allow_redirects=True, timeout=15)
             with open(font_path, 'wb') as f:
                 f.write(r.content)
@@ -91,6 +91,52 @@ def get_guaranteed_font(size):
         return ImageFont.truetype(font_path, size)
     except:
         return ImageFont.load_default()
+
+def create_broadcast_background(width=1080, height=810):
+    """Generates a professional sports broadcast background with radial gradient and subtle grid"""
+    bg = Image.new('RGBA', (width, height))
+    draw = ImageDraw.Draw(bg)
+    
+    # Radial Gradient Colors (Center: Slate 700, Edge: Deep Navy/Slate 950)
+    center_color = (51, 65, 85)
+    edge_color = (2, 6, 23)
+    
+    cx, cy = width / 2, height / 2
+    max_radius = 800
+    
+    # Draw radial gradient
+    for r in range(max_radius, 0, -10):
+        ratio = r / max_radius
+        red = int(edge_color[0] * ratio + center_color[0] * (1 - ratio))
+        green = int(edge_color[1] * ratio + center_color[1] * (1 - ratio))
+        blue = int(edge_color[2] * ratio + center_color[2] * (1 - ratio))
+        draw.ellipse((cx - r, cy - r, cx + r, cy + r), fill=(red, green, blue, 255))
+        
+    # Draw subtle geometrical grid (opacity 15)
+    grid_color = (255, 255, 255, 12)
+    for x in range(0, width, 90):
+        draw.line((x, 0, x, height), fill=grid_color, width=1)
+    for y in range(0, height, 90):
+        draw.line((0, y, width, y), fill=grid_color, width=1)
+        
+    # Add TV safe-zone corner brackets
+    bracket_color = (255, 255, 255, 40)
+    length = 60
+    margin = 40
+    # Top-Left
+    draw.line((margin, margin, margin + length, margin), fill=bracket_color, width=4)
+    draw.line((margin, margin, margin, margin + length), fill=bracket_color, width=4)
+    # Top-Right
+    draw.line((width - margin, margin, width - margin - length, margin), fill=bracket_color, width=4)
+    draw.line((width - margin, margin, width - margin, margin + length), fill=bracket_color, width=4)
+    # Bottom-Left
+    draw.line((margin, height - margin, margin + length, height - margin), fill=bracket_color, width=4)
+    draw.line((margin, height - margin, margin, height - margin - length), fill=bracket_color, width=4)
+    # Bottom-Right
+    draw.line((width - margin, height - margin, width - margin - length, height - margin), fill=bracket_color, width=4)
+    draw.line((width - margin, height - margin, width - margin, height - margin - length), fill=bracket_color, width=4)
+    
+    return bg
 
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon, font):
     """Creates a 1080x810 poster with team logos, custom background, and HUGE watermark"""
@@ -107,7 +153,8 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         img1 = Image.open(BytesIO(res1.content)).convert('RGBA')
         img2 = Image.open(BytesIO(res2.content)).convert('RGBA')
         
-        canvas = Image.new('RGBA', (1080, 810), (15, 23, 42, 255))
+        # Generate the dynamic broadcast background
+        canvas = create_broadcast_background(1080, 810)
         
         img1 = auto_crop_and_resize(img1, 480, 600)
         img2 = auto_crop_and_resize(img2, 480, 600)
@@ -129,7 +176,7 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         
         padding_right = 50
         padding_bottom = 45
-        icon_spacing = 20 
+        icon_spacing = 15 
         
         icon_w = tg_icon.width if tg_icon else 0
         icon_h = tg_icon.height if tg_icon else 0
@@ -144,7 +191,8 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
             canvas.paste(tg_icon, (int(start_x), int(icon_y)), tg_icon)
             
         text_x = start_x + icon_w + icon_spacing
-        text_y = start_y + (max(icon_h, text_h) - text_h) // 2 - 10 
+        # Vertical adjustment for Oswald font alignment
+        text_y = start_y + (max(icon_h, text_h) - text_h) // 2 - 8
         draw.text((text_x, text_y), WATERMARK_TEXT, fill=(255, 255, 255, 240), font=font)
         
         quantized_canvas = canvas.convert('P', palette=Image.Palette.ADAPTIVE, colors=256)
@@ -170,8 +218,8 @@ def main():
         matches = data.get("matches", [])
         
         tg_icon = fetch_telegram_icon_circular()
-        # Set HUGE font size to 70
-        guaranteed_font = get_guaranteed_font(70) 
+        # Ensure Oswald font is loaded with size 75
+        guaranteed_font = get_oswald_font(75) 
         
         active_poster_filenames = []
         
