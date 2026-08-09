@@ -1,15 +1,15 @@
 import requests
 import re
 import os
+import time
 from io import BytesIO
 from PIL import Image
 
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
-print(" 🌐 Source: Cricbuzz API (Live Matches Only) 🌐")
+print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
 print("="*75)
 
-# Fix: Double dirname to navigate out of the 'scripts' folder to the root directory
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(BASE_DIR, "posters")
 
@@ -79,7 +79,7 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
 
 def main():
     try:
-        print(f"\n[+] Fetching live matches from Cricbuzz API...")
+        print(f"\n[+] Fetching matches from Cricbuzz API...")
         
         api_url = "https://www.cricbuzz.com/api/home"
         response = s.get(api_url, timeout=15)
@@ -93,10 +93,28 @@ def main():
         
         active_poster_filenames = []
         
+        # Current time in milliseconds
+        now_ms = int(time.time() * 1000)
+        
+        # Calculate time limits in milliseconds
+        THREE_HOURS_MS = 3 * 60 * 60 * 1000
+        ONE_HOUR_MS = 1 * 60 * 60 * 1000
+        
         for item in matches:
             match_info = item.get("match", {}).get("matchInfo", {})
             
-            if match_info.get("state") == "In Progress":
+            start_time = match_info.get("startDate", 0)
+            # Default fallback for end_time if missing (start_time + 4 hours)
+            end_time = match_info.get("endDate", start_time + (4 * 60 * 60 * 1000)) 
+            
+            is_valid_match = False
+            
+            # Check if current time is within [start - 3h] to [end + 1h]
+            if start_time and end_time:
+                if (start_time - THREE_HOURS_MS) <= now_ms <= (end_time + ONE_HOUR_MS):
+                    is_valid_match = True
+            
+            if is_valid_match:
                 team1 = match_info.get("team1", {})
                 team2 = match_info.get("team2", {})
                 
@@ -115,12 +133,16 @@ def main():
                 
                 active_poster_filenames.append(final_filename)
                 
-                print(f"\n🎯 Processing Live Match: {match_title}")
+                match_state = match_info.get("state", "Unknown")
+                print(f"\n🎯 Processing Match [{match_state}]: {match_title}")
                 
-                logo1 = generate_cricbuzz_logo_url(t1_id, t1_name)
-                logo2 = generate_cricbuzz_logo_url(t2_id, t2_name)
-                
-                create_max_logo_poster(match_title, logo1, logo2, local_path)
+                # Check if poster already exists to prevent unnecessary API calls/re-rendering
+                if not os.path.exists(local_path):
+                    logo1 = generate_cricbuzz_logo_url(t1_id, t1_name)
+                    logo2 = generate_cricbuzz_logo_url(t2_id, t2_name)
+                    create_max_logo_poster(match_title, logo1, logo2, local_path)
+                else:
+                    print(f"    [-] Poster already exists. Skipping generation.")
 
         print("\n[*] Cleaning up old match posters...")
         if os.path.exists(OUTPUT_DIR):
@@ -133,7 +155,7 @@ def main():
                         print(f"   [!] Error deleting {file}: {e}")
                         
         if not active_poster_filenames:
-            print("\n[-] No live matches found at the moment.")
+            print("\n[-] No matches within the specified time window found.")
 
     except Exception as e:
         print(f"\n[!] Critical Error: {e}")
