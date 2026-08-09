@@ -143,9 +143,9 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         img2 = auto_crop_and_resize(img2, 480, 600)
         
         x1 = 270 - (img1.width // 2)
-        y1 = 405 - (img1.height // 2)
+        y1 = 350 - (img1.height // 2)  # Fixed from 405 to 350!
         x2 = 810 - (img2.width // 2)
-        y2 = 405 - (img2.height // 2)
+        y2 = 350 - (img2.height // 2)  # Fixed from 405 to 350!
         
         canvas.paste(img1, (x1, y1), img1)
         canvas.paste(img2, (x2, y2), img2)
