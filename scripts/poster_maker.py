@@ -8,8 +8,10 @@ from PIL import Image
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
+print(" 🎨 Background: Solid Light Gray (#F0F0F0) 🎨")
 print("="*75)
 
+# Navigate out of the 'scripts' folder to the root directory
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(BASE_DIR, "posters")
 
@@ -26,13 +28,16 @@ s.headers.update({
 })
 
 def sanitize_filename(name):
+    """Removes invalid characters for Windows/Linux filenames"""
     return re.sub(r'[\\/*?:"<>|]', "", name).strip()
 
 def generate_cricbuzz_logo_url(image_id, team_name):
+    """Generates logo URL based on Cricbuzz format"""
     slug = re.sub(r'\s+', '-', team_name).lower()
     return f"https://static.cricbuzz.com/a/img/v1/0x0/i1/c{image_id}/{slug}.jpg"
 
 def auto_crop_and_resize(img, max_w, max_h):
+    """Crops empty spaces around logo and resizes to specific dimension"""
     bbox = img.getbbox()
     if bbox:
         img = img.crop(bbox)
@@ -43,9 +48,11 @@ def auto_crop_and_resize(img, max_w, max_h):
     return img.resize((new_w, new_h), Image.Resampling.LANCZOS)
 
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
+    """Creates a 1080x810 poster with both team logos on a solid light gray background"""
     try:
         print(f"    [*] Generating PNG for: {match_name}...")
         
+        # Logo download
         res1 = requests.get(logo1_url, timeout=10)
         res2 = requests.get(logo2_url, timeout=10)
         
@@ -56,11 +63,14 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
         img1 = Image.open(BytesIO(res1.content)).convert('RGBA')
         img2 = Image.open(BytesIO(res2.content)).convert('RGBA')
         
-        canvas = Image.new('RGBA', (1080, 810), (0, 0, 0, 0))
+        # CHANGE HERE: Set canvas to solid light gray (#F0F0F0) instead of transparent
+        # Color tuple is (Red, Green, Blue, Alpha). 255 is full opacity.
+        canvas = Image.new('RGBA', (1080, 810), (240, 240, 240, 255))
         
         img1 = auto_crop_and_resize(img1, 480, 600)
         img2 = auto_crop_and_resize(img2, 480, 600)
         
+        # Position calculation
         x1 = 270 - (img1.width // 2)
         y1 = 405 - (img1.height // 2)
         x2 = 810 - (img2.width // 2)
@@ -69,6 +79,7 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
         canvas.paste(img1, (x1, y1), img1)
         canvas.paste(img2, (x2, y2), img2)
         
+        # Optimization & Save
         quantized_canvas = canvas.convert('P', palette=Image.Palette.ADAPTIVE, colors=256)
         quantized_canvas.save(local_path, "PNG", optimize=True)
         
@@ -96,7 +107,7 @@ def main():
         # Current time in milliseconds
         now_ms = int(time.time() * 1000)
         
-        # Calculate time limits in milliseconds
+        # Time limits in milliseconds (3 hours before start to 1 hour after end)
         THREE_HOURS_MS = 3 * 60 * 60 * 1000
         ONE_HOUR_MS = 1 * 60 * 60 * 1000
         
@@ -144,6 +155,7 @@ def main():
                 else:
                     print(f"    [-] Poster already exists. Skipping generation.")
 
+        # Auto-cleanup logic for expired posters
         print("\n[*] Cleaning up old match posters...")
         if os.path.exists(OUTPUT_DIR):
             for file in os.listdir(OUTPUT_DIR):
