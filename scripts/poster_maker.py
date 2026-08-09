@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
-print(" 🎨 Background: Custom Image Studio + HUGE Watermark (Bottom-Left) 🎨")
+print(" 🎨 Background: New Custom Image + Black Bordered Watermark 🎨")
 print("="*75)
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -48,7 +48,7 @@ def auto_crop_and_resize(img, max_w, max_h):
     return img.resize((new_w, new_h), Image.Resampling.LANCZOS)
 
 def fetch_telegram_icon_circular():
-    """Fetches, makes circular, and resizes the Telegram icon for HUGE watermark"""
+    """Fetches, makes circular, adds a black border, and resizes the Telegram icon"""
     try:
         res = requests.get(TELEGRAM_LOGO_URL, timeout=10)
         if res.status_code == 200:
@@ -63,7 +63,11 @@ def fetch_telegram_icon_circular():
             
             circular_icon = Image.composite(icon_square, Image.new('RGBA', size, (0, 0, 0, 0)), mask)
             
-            # HUGE size to match the drawing (80x80)
+            # Draw a solid black border around the circular Telegram icon
+            border_draw = ImageDraw.Draw(circular_icon)
+            border_draw.ellipse((2, 2, size[0] - 3, size[1] - 3), outline=(0, 0, 0, 255), width=8)
+            
+            # Resize to final size (80x80)
             final_size = (80, 80) 
             circular_icon = circular_icon.resize(final_size, Image.Resampling.LANCZOS)
             return circular_icon
@@ -91,12 +95,12 @@ def get_guaranteed_font(size):
     return ImageFont.load_default()
 
 def load_background_image(width, height):
-    """Loads the custom background image from local repository or remote fallback"""
+    """Loads the updated custom background image from local repository or remote fallback"""
     possible_paths = [
-        os.path.join(os.path.dirname(os.path.abspath(__file__)), "IMG_20260810_002738.jpg"),
-        os.path.join(BASE_DIR, "scripts", "IMG_20260810_002738.jpg"),
-        os.path.join(BASE_DIR, "IMG_20260810_002738.jpg"),
-        "IMG_20260810_002738.jpg"
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "IMG_20260810_004413.jpg"),
+        os.path.join(BASE_DIR, "scripts", "IMG_20260810_004413.jpg"),
+        os.path.join(BASE_DIR, "IMG_20260810_004413.jpg"),
+        "IMG_20260810_004413.jpg"
     ]
     
     for bg_path in possible_paths:
@@ -108,7 +112,7 @@ def load_background_image(width, height):
                 print(f"    [!] Error loading background image at {bg_path}: {e}")
                 
     try:
-        url = "https://raw.githubusercontent.com/srhady/CricketLive/main/scripts/IMG_20260810_002738.jpg"
+        url = "https://raw.githubusercontent.com/srhady/CricketLive/main/scripts/IMG_20260810_004413.jpg"
         res = requests.get(url, timeout=10)
         if res.status_code == 200:
             bg = Image.open(BytesIO(res.content)).convert('RGBA')
@@ -116,10 +120,10 @@ def load_background_image(width, height):
     except Exception as e:
         print(f"    [!] Failed to download background image: {e}")
         
-    return Image.new('RGBA', (width, height), (15, 23, 42, 255))
+    return Image.new('RGBA', (width, height), (255, 255, 255, 255))
 
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon, font):
-    """Creates a 1080x810 poster with team logos, custom image background, and bottom-left watermark"""
+    """Creates a 1080x810 poster with team logos, custom image background, and black bottom-left watermark"""
     try:
         print(f"    [*] Generating PNG for: {match_name}...")
         
@@ -146,7 +150,7 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         canvas.paste(img1, (x1, y1), img1)
         canvas.paste(img2, (x2, y2), img2)
         
-        # --- DRAW HUGE WATERMARK (BOTTOM-LEFT CORNER) ---
+        # --- DRAW HUGE WATERMARK (BOTTOM-LEFT CORNER WITH BLACK TEXT) ---
         draw = ImageDraw.Draw(canvas)
             
         bbox = draw.textbbox((0, 0), WATERMARK_TEXT, font=font)
@@ -169,7 +173,9 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
             
         text_x = start_x + icon_w + icon_spacing
         text_y = start_y + (max(icon_h, text_h) - text_h) // 2 
-        draw.text((text_x, text_y), WATERMARK_TEXT, fill=(255, 255, 255, 240), font=font)
+        
+        # Draw watermark text in solid black color
+        draw.text((text_x, text_y), WATERMARK_TEXT, fill=(0, 0, 0, 255), font=font)
         
         quantized_canvas = canvas.convert('P', palette=Image.Palette.ADAPTIVE, colors=256)
         quantized_canvas.save(local_path, "PNG", optimize=True)
