@@ -3,12 +3,12 @@ import re
 import os
 import time
 from io import BytesIO
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
-print(" 🎨 Background: Solid Light Gray (#F0F0F0) 🎨")
+print(" 🎨 Background: Deep Navy Studio (#0F172A) + Telegram Watermark 🎨")
 print("="*75)
 
 # Navigate out of the 'scripts' folder to the root directory
@@ -16,6 +16,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(BASE_DIR, "posters")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Watermark credentials
+TELEGRAM_LOGO_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaSPdPPY4GyA1xREeBCQ7DKXRd-zzddux-SB7CgBQkOg&s=10"
+WATERMARK_TEXT = "@SRHady12"
 
 s = requests.Session()
 s.headers.update({
@@ -47,12 +51,24 @@ def auto_crop_and_resize(img, max_w, max_h):
     new_h = int(img.height * ratio)
     return img.resize((new_w, new_h), Image.Resampling.LANCZOS)
 
-def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
-    """Creates a 1080x810 poster with both team logos on a solid light gray background"""
+def fetch_telegram_icon():
+    """Fetches and resizes the Telegram icon for watermark"""
+    try:
+        res = requests.get(TELEGRAM_LOGO_URL, timeout=10)
+        if res.status_code == 200:
+            icon = Image.open(BytesIO(res.content)).convert('RGBA')
+            icon = auto_crop_and_resize(icon, 28, 28)
+            return icon
+    except Exception as e:
+        print(f"    [!] Failed to download Telegram icon: {e}")
+    return None
+
+def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon):
+    """Creates a 1080x810 poster with team logos, custom background, and watermark"""
     try:
         print(f"    [*] Generating PNG for: {match_name}...")
         
-        # Logo download
+        # Download team logos
         res1 = requests.get(logo1_url, timeout=10)
         res2 = requests.get(logo2_url, timeout=10)
         
@@ -63,14 +79,14 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
         img1 = Image.open(BytesIO(res1.content)).convert('RGBA')
         img2 = Image.open(BytesIO(res2.content)).convert('RGBA')
         
-        # CHANGE HERE: Set canvas to solid light gray (#F0F0F0) instead of transparent
-        # Color tuple is (Red, Green, Blue, Alpha). 255 is full opacity.
-        canvas = Image.new('RGBA', (1080, 810), (240, 240, 240, 255))
+        # Solid Deep Navy Blue Studio Background (#0F172A)
+        canvas = Image.new('RGBA', (1080, 810), (15, 23, 42, 255))
         
+        # Auto-crop and resize team logos
         img1 = auto_crop_and_resize(img1, 480, 600)
         img2 = auto_crop_and_resize(img2, 480, 600)
         
-        # Position calculation
+        # Position calculation for team logos
         x1 = 270 - (img1.width // 2)
         y1 = 405 - (img1.height // 2)
         x2 = 810 - (img2.width // 2)
@@ -79,7 +95,41 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
         canvas.paste(img1, (x1, y1), img1)
         canvas.paste(img2, (x2, y2), img2)
         
-        # Optimization & Save
+        # Draw Watermark in Bottom-Right Corner
+        draw = ImageDraw.Draw(canvas)
+        
+        try:
+            font = ImageFont.truetype("arial.ttf", 22)
+        except:
+            font = ImageFont.load_default()
+            
+        bbox = draw.textbbox((0, 0), WATERMARK_TEXT, font=font)
+        text_w = bbox[2] - bbox[0]
+        text_h = bbox[3] - bbox[1]
+        
+        padding_right = 30
+        padding_bottom = 25
+        icon_spacing = 8
+        
+        icon_w = tg_icon.width if tg_icon else 0
+        icon_h = tg_icon.height if tg_icon else 0
+        
+        total_watermark_w = icon_w + icon_spacing + text_w
+        
+        start_x = 1080 - padding_right - total_watermark_w
+        start_y = 810 - padding_bottom - max(icon_h, text_h)
+        
+        # Paste Telegram icon
+        if tg_icon:
+            icon_y = start_y + (max(icon_h, text_h) - icon_h) // 2
+            canvas.paste(tg_icon, (int(start_x), int(icon_y)), tg_icon)
+            
+        # Draw Watermark Text
+        text_x = start_x + icon_w + icon_spacing
+        text_y = start_y + (max(icon_h, text_h) - text_h) // 2
+        draw.text((text_x, text_y), WATERMARK_TEXT, fill=(226, 232, 240, 240), font=font)
+        
+        # Convert and optimize output
         quantized_canvas = canvas.convert('P', palette=Image.Palette.ADAPTIVE, colors=256)
         quantized_canvas.save(local_path, "PNG", optimize=True)
         
@@ -102,12 +152,12 @@ def main():
         data = response.json()
         matches = data.get("matches", [])
         
+        # Download Telegram icon once for all posters
+        tg_icon = fetch_telegram_icon()
+        
         active_poster_filenames = []
         
-        # Current time in milliseconds
         now_ms = int(time.time() * 1000)
-        
-        # Time limits in milliseconds (3 hours before start to 1 hour after end)
         THREE_HOURS_MS = 3 * 60 * 60 * 1000
         ONE_HOUR_MS = 1 * 60 * 60 * 1000
         
@@ -115,12 +165,10 @@ def main():
             match_info = item.get("match", {}).get("matchInfo", {})
             
             start_time = match_info.get("startDate", 0)
-            # Default fallback for end_time if missing (start_time + 4 hours)
-            end_time = match_info.get("endDate", start_time + (4 * 60 * 60 * 1000)) 
+            end_time = match_info.get("endDate", start_time + (4 * 60 * 60 * 1000))
             
             is_valid_match = False
             
-            # Check if current time is within [start - 3h] to [end + 1h]
             if start_time and end_time:
                 if (start_time - THREE_HOURS_MS) <= now_ms <= (end_time + ONE_HOUR_MS):
                     is_valid_match = True
@@ -147,15 +195,13 @@ def main():
                 match_state = match_info.get("state", "Unknown")
                 print(f"\n🎯 Processing Match [{match_state}]: {match_title}")
                 
-                # Check if poster already exists to prevent unnecessary API calls/re-rendering
                 if not os.path.exists(local_path):
                     logo1 = generate_cricbuzz_logo_url(t1_id, t1_name)
                     logo2 = generate_cricbuzz_logo_url(t2_id, t2_name)
-                    create_max_logo_poster(match_title, logo1, logo2, local_path)
+                    create_max_logo_poster(match_title, logo1, logo2, local_path, tg_icon)
                 else:
                     print(f"    [-] Poster already exists. Skipping generation.")
 
-        # Auto-cleanup logic for expired posters
         print("\n[*] Cleaning up old match posters...")
         if os.path.exists(OUTPUT_DIR):
             for file in os.listdir(OUTPUT_DIR):
