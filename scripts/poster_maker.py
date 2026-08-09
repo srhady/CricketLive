@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x700 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
-print(" 🎨 Background: Original 1080x700 Image + Black Watermark 🎨")
+print(" 🎨 Background: New Custom Image + Black Bordered Watermark 🎨")
 print("="*75)
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -94,8 +94,8 @@ def get_guaranteed_font(size):
     print("    [!] Local font 'oswald.regular.ttf' not found. Falling back to default.")
     return ImageFont.load_default()
 
-def load_background_image():
-    """Loads the custom background image at its ORIGINAL size (1080x700)."""
+def load_background_image(width, height):
+    """Loads the updated custom background image from local repository or remote fallback"""
     possible_paths = [
         os.path.join(os.path.dirname(os.path.abspath(__file__)), "IMG_20260810_004413.jpg"),
         os.path.join(BASE_DIR, "scripts", "IMG_20260810_004413.jpg"),
@@ -106,7 +106,8 @@ def load_background_image():
     for bg_path in possible_paths:
         if os.path.exists(bg_path):
             try:
-                return Image.open(bg_path).convert('RGBA')
+                bg = Image.open(bg_path).convert('RGBA')
+                return bg.resize((width, height), Image.Resampling.LANCZOS)
             except Exception as e:
                 print(f"    [!] Error loading background image at {bg_path}: {e}")
                 
@@ -114,12 +115,12 @@ def load_background_image():
         url = "https://raw.githubusercontent.com/srhady/CricketLive/main/scripts/IMG_20260810_004413.jpg"
         res = requests.get(url, timeout=10)
         if res.status_code == 200:
-            return Image.open(BytesIO(res.content)).convert('RGBA')
+            bg = Image.open(BytesIO(res.content)).convert('RGBA')
+            return bg.resize((width, height), Image.Resampling.LANCZOS)
     except Exception as e:
         print(f"    [!] Failed to download background image: {e}")
         
-    # Standard Fallback to 1080x700
-    return Image.new('RGBA', (1080, 700), (255, 255, 255, 255))
+    return Image.new('RGBA', (width, height), (255, 255, 255, 255))
 
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon, font):
     """Creates a 1080x700 poster with team logos, custom image background, and black bottom-left watermark"""
@@ -136,18 +137,15 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         img1 = Image.open(BytesIO(res1.content)).convert('RGBA')
         img2 = Image.open(BytesIO(res2.content)).convert('RGBA')
         
-        # Load the 1080x700 canvas
-        canvas = load_background_image()
+        canvas = load_background_image(1080, 700)
         
-        # Keep the exact same giant crop ratio you wanted (480x600)
         img1 = auto_crop_and_resize(img1, 480, 600)
         img2 = auto_crop_and_resize(img2, 480, 600)
         
-        # Y position centered for 700 height (350 is the middle)
         x1 = 270 - (img1.width // 2)
-        y1 = 350 - (img1.height // 2)
+        y1 = 405 - (img1.height // 2)
         x2 = 810 - (img2.width // 2)
-        y2 = 350 - (img2.height // 2)
+        y2 = 405 - (img2.height // 2)
         
         canvas.paste(img1, (x1, y1), img1)
         canvas.paste(img2, (x2, y2), img2)
@@ -160,14 +158,13 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         text_h = bbox[3] - bbox[1]
         
         padding_left = 50
-        padding_bottom = 45 
+        padding_bottom = 45
         icon_spacing = 20 
         
         icon_w = tg_icon.width if tg_icon else 0
         icon_h = tg_icon.height if tg_icon else 0
         
         start_x = padding_left
-        # Set explicitly for the new 700 canvas height
         start_y = 700 - padding_bottom - max(icon_h, text_h)
         
         if tg_icon:
