@@ -9,12 +9,12 @@ print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Live Matches Only) 🌐")
 print("="*75)
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# Fix: Double dirname to navigate out of the 'scripts' folder to the root directory
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(BASE_DIR, "posters")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Cricbuzz API Headers
 s = requests.Session()
 s.headers.update({
     'accept': '*/*',
@@ -26,16 +26,13 @@ s.headers.update({
 })
 
 def sanitize_filename(name):
-    """উইন্ডোজ/লিনাক্স ফাইলের নামের জন্য অবৈধ ক্যারেক্টার মুছে ফেলে"""
     return re.sub(r'[\\/*?:"<>|]', "", name).strip()
 
 def generate_cricbuzz_logo_url(image_id, team_name):
-    """Cricbuzz এর ফরম্যাট অনুযায়ী লোগো লিংক তৈরি করে"""
     slug = re.sub(r'\s+', '-', team_name).lower()
     return f"https://static.cricbuzz.com/a/img/v1/0x0/i1/c{image_id}/{slug}.jpg"
 
 def auto_crop_and_resize(img, max_w, max_h):
-    """লোগোর চারপাশের ফাঁকা জায়গা কেটে নির্দিষ্ট মাপে রিসাইজ করে"""
     bbox = img.getbbox()
     if bbox:
         img = img.crop(bbox)
@@ -46,11 +43,9 @@ def auto_crop_and_resize(img, max_w, max_h):
     return img.resize((new_w, new_h), Image.Resampling.LANCZOS)
 
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
-    """1080x810 ট্রান্সপারেন্ট ক্যানভাসে দুই টিমের লোগো বসিয়ে PNG বানায়"""
     try:
         print(f"    [*] Generating PNG for: {match_name}...")
         
-        # লোগো ডাউনলোড
         res1 = requests.get(logo1_url, timeout=10)
         res2 = requests.get(logo2_url, timeout=10)
         
@@ -61,13 +56,11 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
         img1 = Image.open(BytesIO(res1.content)).convert('RGBA')
         img2 = Image.open(BytesIO(res2.content)).convert('RGBA')
         
-        # মূল ক্যানভাস (1080x810)
         canvas = Image.new('RGBA', (1080, 810), (0, 0, 0, 0))
         
         img1 = auto_crop_and_resize(img1, 480, 600)
         img2 = auto_crop_and_resize(img2, 480, 600)
         
-        # পজিশন ক্যালকুলেশন
         x1 = 270 - (img1.width // 2)
         y1 = 405 - (img1.height // 2)
         x2 = 810 - (img2.width // 2)
@@ -76,7 +69,6 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path):
         canvas.paste(img1, (x1, y1), img1)
         canvas.paste(img2, (x2, y2), img2)
         
-        # অপ্টিমাইজেশন ও সেভ
         quantized_canvas = canvas.convert('P', palette=Image.Palette.ADAPTIVE, colors=256)
         quantized_canvas.save(local_path, "PNG", optimize=True)
         
@@ -104,12 +96,10 @@ def main():
         for item in matches:
             match_info = item.get("match", {}).get("matchInfo", {})
             
-            # শুধুমাত্র "In Progress" (Live) ম্যাচগুলো ফিল্টার করা
             if match_info.get("state") == "In Progress":
                 team1 = match_info.get("team1", {})
                 team2 = match_info.get("team2", {})
                 
-                # টিমের নাম ও আইডি
                 t1_name = team1.get("teamName", "")
                 t2_name = team2.get("teamName", "")
                 t1_id = team1.get("imageId")
@@ -127,14 +117,11 @@ def main():
                 
                 print(f"\n🎯 Processing Live Match: {match_title}")
                 
-                # লোগো লিংক জেনারেট
                 logo1 = generate_cricbuzz_logo_url(t1_id, t1_name)
                 logo2 = generate_cricbuzz_logo_url(t2_id, t2_name)
                 
-                # পোস্টার তৈরি
                 create_max_logo_poster(match_title, logo1, logo2, local_path)
 
-        # অটো-ক্লিনআপ লজিক
         print("\n[*] Cleaning up old match posters...")
         if os.path.exists(OUTPUT_DIR):
             for file in os.listdir(OUTPUT_DIR):
