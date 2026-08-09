@@ -8,10 +8,9 @@ from PIL import Image, ImageDraw, ImageFont
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
-print(" 🎨 Background: Deep Navy Studio (#0F172A) + Large Watermark 🎨")
+print(" 🎨 Background: Deep Navy Studio (#0F172A) + HUGE Watermark 🎨")
 print("="*75)
 
-# Navigate out of the 'scripts' folder to the root directory
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(BASE_DIR, "posters")
 
@@ -32,16 +31,13 @@ s.headers.update({
 })
 
 def sanitize_filename(name):
-    """Removes invalid characters for Windows/Linux filenames"""
     return re.sub(r'[\\/*?:"<>|]', "", name).strip()
 
 def generate_cricbuzz_logo_url(image_id, team_name):
-    """Generates logo URL based on Cricbuzz format"""
     slug = re.sub(r'\s+', '-', team_name).lower()
     return f"https://static.cricbuzz.com/a/img/v1/0x0/i1/c{image_id}/{slug}.jpg"
 
 def auto_crop_and_resize(img, max_w, max_h):
-    """Crops empty spaces around logo and resizes to specific dimension"""
     bbox = img.getbbox()
     if bbox:
         img = img.crop(bbox)
@@ -52,48 +48,55 @@ def auto_crop_and_resize(img, max_w, max_h):
     return img.resize((new_w, new_h), Image.Resampling.LANCZOS)
 
 def fetch_telegram_icon_circular():
-    """Fetches, makes circular, and resizes the Telegram icon for watermark"""
+    """Fetches, makes circular, and resizes the Telegram icon for HUGE watermark"""
     try:
         res = requests.get(TELEGRAM_LOGO_URL, timeout=10)
         if res.status_code == 200:
             icon = Image.open(BytesIO(res.content)).convert('RGBA')
             
-            # 1. Resize to a square larger than target
-            size = (150, 150) 
+            size = (200, 200) 
             icon_square = icon.resize(size, Image.Resampling.LANCZOS)
             
-            # 2. Create circular mask
             mask = Image.new('L', size, 0)
             draw = ImageDraw.Draw(mask)
             draw.ellipse((0, 0, size[0], size[1]), fill=255)
             
-            # 3. Apply mask using composite
             circular_icon = Image.composite(icon_square, Image.new('RGBA', size, (0, 0, 0, 0)), mask)
             
-            # 4. Final resize to fit the larger font size (55x55)
-            final_size = (55, 55) 
+            # HUGE size to match the drawing (80x80)
+            final_size = (80, 80) 
             circular_icon = circular_icon.resize(final_size, Image.Resampling.LANCZOS)
             return circular_icon
     except Exception as e:
         print(f"    [!] Failed to download Telegram icon: {e}")
     return None
 
-def get_beautiful_font(size):
-    """Attempts to load a beautiful font, falls back if not found"""
-    font_options = ["trebuc.ttf", "verdana.ttf", "segoeui.ttf", "arial.ttf"]
-    for f in font_options:
+def get_guaranteed_font(size):
+    """Downloads a real TTF font to ensure it works on GitHub Actions Linux servers"""
+    font_path = os.path.join(BASE_DIR, "Roboto-Bold.ttf")
+    
+    # Download font if it doesn't exist in the repo
+    if not os.path.exists(font_path):
         try:
-            return ImageFont.truetype(f, size)
-        except:
-            pass
-    return ImageFont.load_default()
+            print("    [*] Downloading Roboto-Bold font for watermark...")
+            font_url = "https://github.com/googlefonts/roboto/raw/main/src/hinted/Roboto-Bold.ttf"
+            r = requests.get(font_url, allow_redirects=True, timeout=15)
+            with open(font_path, 'wb') as f:
+                f.write(r.content)
+        except Exception as e:
+            print(f"    [!] Font download failed: {e}")
+            return ImageFont.load_default()
+            
+    try:
+        return ImageFont.truetype(font_path, size)
+    except:
+        return ImageFont.load_default()
 
-def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon):
-    """Creates a 1080x810 poster with team logos, custom background, and watermark"""
+def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon, font):
+    """Creates a 1080x810 poster with team logos, custom background, and HUGE watermark"""
     try:
         print(f"    [*] Generating PNG for: {match_name}...")
         
-        # Download team logos
         res1 = requests.get(logo1_url, timeout=10)
         res2 = requests.get(logo2_url, timeout=10)
         
@@ -104,14 +107,11 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         img1 = Image.open(BytesIO(res1.content)).convert('RGBA')
         img2 = Image.open(BytesIO(res2.content)).convert('RGBA')
         
-        # Solid Deep Navy Blue Studio Background (#0F172A)
         canvas = Image.new('RGBA', (1080, 810), (15, 23, 42, 255))
         
-        # Auto-crop and resize team logos
         img1 = auto_crop_and_resize(img1, 480, 600)
         img2 = auto_crop_and_resize(img2, 480, 600)
         
-        # Position calculation for team logos
         x1 = 270 - (img1.width // 2)
         y1 = 405 - (img1.height // 2)
         x2 = 810 - (img2.width // 2)
@@ -120,19 +120,16 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         canvas.paste(img1, (x1, y1), img1)
         canvas.paste(img2, (x2, y2), img2)
         
-        # Draw Watermark in Bottom-Right Corner
+        # --- DRAW HUGE WATERMARK ---
         draw = ImageDraw.Draw(canvas)
-        
-        # --- LARGE BEAUTIFUL FONT ---
-        font = get_beautiful_font(60)
             
         bbox = draw.textbbox((0, 0), WATERMARK_TEXT, font=font)
         text_w = bbox[2] - bbox[0]
         text_h = bbox[3] - bbox[1]
         
-        padding_right = 40
-        padding_bottom = 35
-        icon_spacing = 15 
+        padding_right = 50
+        padding_bottom = 45
+        icon_spacing = 20 
         
         icon_w = tg_icon.width if tg_icon else 0
         icon_h = tg_icon.height if tg_icon else 0
@@ -142,18 +139,14 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         start_x = 1080 - padding_right - total_watermark_w
         start_y = 810 - padding_bottom - max(icon_h, text_h)
         
-        # Paste Telegram icon
         if tg_icon:
             icon_y = start_y + (max(icon_h, text_h) - icon_h) // 2
             canvas.paste(tg_icon, (int(start_x), int(icon_y)), tg_icon)
             
-        # Draw Watermark Text
         text_x = start_x + icon_w + icon_spacing
-        # Adjust Y position slightly for better vertical alignment with icon
-        text_y = start_y + (max(icon_h, text_h) - text_h) // 2 - 5 
-        draw.text((text_x, text_y), WATERMARK_TEXT, fill=(255, 255, 255, 230), font=font)
+        text_y = start_y + (max(icon_h, text_h) - text_h) // 2 - 10 
+        draw.text((text_x, text_y), WATERMARK_TEXT, fill=(255, 255, 255, 240), font=font)
         
-        # Convert and optimize output
         quantized_canvas = canvas.convert('P', palette=Image.Palette.ADAPTIVE, colors=256)
         quantized_canvas.save(local_path, "PNG", optimize=True)
         
@@ -176,8 +169,9 @@ def main():
         data = response.json()
         matches = data.get("matches", [])
         
-        # Download Telegram icon once for all posters, make it circular and resize
         tg_icon = fetch_telegram_icon_circular()
+        # Set HUGE font size to 70
+        guaranteed_font = get_guaranteed_font(70) 
         
         active_poster_filenames = []
         
@@ -222,7 +216,7 @@ def main():
                 if not os.path.exists(local_path):
                     logo1 = generate_cricbuzz_logo_url(t1_id, t1_name)
                     logo2 = generate_cricbuzz_logo_url(t2_id, t2_name)
-                    create_max_logo_poster(match_title, logo1, logo2, local_path, tg_icon)
+                    create_max_logo_poster(match_title, logo1, logo2, local_path, tg_icon, guaranteed_font)
                 else:
                     print(f"    [-] Poster already exists. Skipping generation.")
 
