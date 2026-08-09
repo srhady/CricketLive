@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
-print(" 🎨 Background: Deep Navy Studio (#0F172A) + Large Circular Telegram Watermark 🎨")
+print(" 🎨 Background: Deep Navy Studio (#0F172A) + Large Watermark 🎨")
 print("="*75)
 
 # Navigate out of the 'scripts' folder to the root directory
@@ -58,8 +58,8 @@ def fetch_telegram_icon_circular():
         if res.status_code == 200:
             icon = Image.open(BytesIO(res.content)).convert('RGBA')
             
-            # 1. Resize to a square larger than target (to avoid pixelation during mask composition)
-            size = (100, 100) # Increased size before mask
+            # 1. Resize to a square larger than target
+            size = (150, 150) 
             icon_square = icon.resize(size, Image.Resampling.LANCZOS)
             
             # 2. Create circular mask
@@ -70,13 +70,23 @@ def fetch_telegram_icon_circular():
             # 3. Apply mask using composite
             circular_icon = Image.composite(icon_square, Image.new('RGBA', size, (0, 0, 0, 0)), mask)
             
-            # 4. Final resize to fit the large font size
-            final_size = (36, 36) # Increased size to match 40-size font height
+            # 4. Final resize to fit the larger font size (55x55)
+            final_size = (55, 55) 
             circular_icon = circular_icon.resize(final_size, Image.Resampling.LANCZOS)
             return circular_icon
     except Exception as e:
         print(f"    [!] Failed to download Telegram icon: {e}")
     return None
+
+def get_beautiful_font(size):
+    """Attempts to load a beautiful font, falls back if not found"""
+    font_options = ["trebuc.ttf", "verdana.ttf", "segoeui.ttf", "arial.ttf"]
+    for f in font_options:
+        try:
+            return ImageFont.truetype(f, size)
+        except:
+            pass
+    return ImageFont.load_default()
 
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon):
     """Creates a 1080x810 poster with team logos, custom background, and watermark"""
@@ -113,21 +123,16 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         # Draw Watermark in Bottom-Right Corner
         draw = ImageDraw.Draw(canvas)
         
-        # --- LARGE FONT ---
-        try:
-            # Increase font size to 40 for Arial (previous size was 22)
-            font = ImageFont.truetype("arial.ttf", 40)
-        except:
-            # Fallback to default font (size cannot be changed)
-            font = ImageFont.load_default()
+        # --- LARGE BEAUTIFUL FONT ---
+        font = get_beautiful_font(60)
             
         bbox = draw.textbbox((0, 0), WATERMARK_TEXT, font=font)
         text_w = bbox[2] - bbox[0]
         text_h = bbox[3] - bbox[1]
         
-        padding_right = 30
-        padding_bottom = 25
-        icon_spacing = 10 # Slightly increased spacing for large watermark
+        padding_right = 40
+        padding_bottom = 35
+        icon_spacing = 15 
         
         icon_w = tg_icon.width if tg_icon else 0
         icon_h = tg_icon.height if tg_icon else 0
@@ -140,13 +145,13 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         # Paste Telegram icon
         if tg_icon:
             icon_y = start_y + (max(icon_h, text_h) - icon_h) // 2
-            # Pastel circular icon
             canvas.paste(tg_icon, (int(start_x), int(icon_y)), tg_icon)
             
         # Draw Watermark Text
         text_x = start_x + icon_w + icon_spacing
-        text_y = start_y + (max(icon_h, text_h) - text_h) // 2
-        draw.text((text_x, text_y), WATERMARK_TEXT, fill=(226, 232, 240, 240), font=font)
+        # Adjust Y position slightly for better vertical alignment with icon
+        text_y = start_y + (max(icon_h, text_h) - text_h) // 2 - 5 
+        draw.text((text_x, text_y), WATERMARK_TEXT, fill=(255, 255, 255, 230), font=font)
         
         # Convert and optimize output
         quantized_canvas = canvas.convert('P', palette=Image.Palette.ADAPTIVE, colors=256)
@@ -171,7 +176,7 @@ def main():
         data = response.json()
         matches = data.get("matches", [])
         
-        # Download Telegram icon once for all posters, make it circular and resize to 36x36
+        # Download Telegram icon once for all posters, make it circular and resize
         tg_icon = fetch_telegram_icon_circular()
         
         active_poster_filenames = []
