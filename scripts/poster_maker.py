@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
-print(" 🎨 Background: Deep Navy Studio (#0F172A) + HUGE Watermark 🎨")
+print(" 🎨 Background: Custom Image Studio + HUGE Watermark (Bottom-Left) 🎨")
 print("="*75)
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -90,8 +90,36 @@ def get_guaranteed_font(size):
     print("    [!] Local font 'oswald.regular.ttf' not found. Falling back to default.")
     return ImageFont.load_default()
 
+def load_background_image(width, height):
+    """Loads the custom background image from local repository or remote fallback"""
+    possible_paths = [
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "IMG_20260810_002738.jpg"),
+        os.path.join(BASE_DIR, "scripts", "IMG_20260810_002738.jpg"),
+        os.path.join(BASE_DIR, "IMG_20260810_002738.jpg"),
+        "IMG_20260810_002738.jpg"
+    ]
+    
+    for bg_path in possible_paths:
+        if os.path.exists(bg_path):
+            try:
+                bg = Image.open(bg_path).convert('RGBA')
+                return bg.resize((width, height), Image.Resampling.LANCZOS)
+            except Exception as e:
+                print(f"    [!] Error loading background image at {bg_path}: {e}")
+                
+    try:
+        url = "https://raw.githubusercontent.com/srhady/CricketLive/main/scripts/IMG_20260810_002738.jpg"
+        res = requests.get(url, timeout=10)
+        if res.status_code == 200:
+            bg = Image.open(BytesIO(res.content)).convert('RGBA')
+            return bg.resize((width, height), Image.Resampling.LANCZOS)
+    except Exception as e:
+        print(f"    [!] Failed to download background image: {e}")
+        
+    return Image.new('RGBA', (width, height), (15, 23, 42, 255))
+
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon, font):
-    """Creates a 1080x810 poster with team logos, custom background, and HUGE watermark"""
+    """Creates a 1080x810 poster with team logos, custom image background, and bottom-left watermark"""
     try:
         print(f"    [*] Generating PNG for: {match_name}...")
         
@@ -105,7 +133,7 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         img1 = Image.open(BytesIO(res1.content)).convert('RGBA')
         img2 = Image.open(BytesIO(res2.content)).convert('RGBA')
         
-        canvas = Image.new('RGBA', (1080, 810), (15, 23, 42, 255))
+        canvas = load_background_image(1080, 810)
         
         img1 = auto_crop_and_resize(img1, 480, 600)
         img2 = auto_crop_and_resize(img2, 480, 600)
@@ -118,23 +146,21 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         canvas.paste(img1, (x1, y1), img1)
         canvas.paste(img2, (x2, y2), img2)
         
-        # --- DRAW HUGE WATERMARK ---
+        # --- DRAW HUGE WATERMARK (BOTTOM-LEFT CORNER) ---
         draw = ImageDraw.Draw(canvas)
             
         bbox = draw.textbbox((0, 0), WATERMARK_TEXT, font=font)
         text_w = bbox[2] - bbox[0]
         text_h = bbox[3] - bbox[1]
         
-        padding_right = 50
+        padding_left = 50
         padding_bottom = 45
         icon_spacing = 20 
         
         icon_w = tg_icon.width if tg_icon else 0
         icon_h = tg_icon.height if tg_icon else 0
         
-        total_watermark_w = icon_w + icon_spacing + text_w
-        
-        start_x = 1080 - padding_right - total_watermark_w
+        start_x = padding_left
         start_y = 810 - padding_bottom - max(icon_h, text_h)
         
         if tg_icon:
