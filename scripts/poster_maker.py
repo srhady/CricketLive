@@ -72,32 +72,23 @@ def fetch_telegram_icon_circular():
     return None
 
 def get_guaranteed_font(size):
-    """Downloads a real TTF font to ensure it works on GitHub Actions Linux servers"""
-    font_path = os.path.join(BASE_DIR, "Roboto-Bold.ttf")
+    """Loads the local Oswald TTF font directly from the repository"""
+    possible_paths = [
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "oswald.regular.ttf"),
+        os.path.join(BASE_DIR, "scripts", "oswald.regular.ttf"),
+        os.path.join(BASE_DIR, "oswald.regular.ttf"),
+        "oswald.regular.ttf"
+    ]
     
-    # Download font if it doesn't exist in the repo
-    if not os.path.exists(font_path):
-        try:
-            print("    [*] Downloading Roboto-Bold font for watermark...")
-            # Working direct link for Roboto-Bold TTF
-            font_url = "https://raw.githubusercontent.com/google/fonts/main/ofl/roboto/Roboto-Bold.ttf"
-            r = requests.get(font_url, allow_redirects=True, timeout=15)
-            if r.status_code == 200:
-                with open(font_path, 'wb') as f:
-                    f.write(r.content)
-            else:
-                return ImageFont.load_default()
-        except Exception as e:
-            print(f"    [!] Font download failed: {e}")
-            return ImageFont.load_default()
-            
-    try:
-        return ImageFont.truetype(font_path, size)
-    except Exception:
+    for font_path in possible_paths:
         if os.path.exists(font_path):
-            try: os.remove(font_path)
-            except: pass
-        return ImageFont.load_default()
+            try:
+                return ImageFont.truetype(font_path, size)
+            except Exception as e:
+                print(f"    [!] Error loading local font at {font_path}: {e}")
+                
+    print("    [!] Local font 'oswald.regular.ttf' not found. Falling back to default.")
+    return ImageFont.load_default()
 
 def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon, font):
     """Creates a 1080x810 poster with team logos, custom background, and HUGE watermark"""
@@ -151,7 +142,6 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
             canvas.paste(tg_icon, (int(start_x), int(icon_y)), tg_icon)
             
         text_x = start_x + icon_w + icon_spacing
-        # Perfectly aligned vertically with the Telegram icon
         text_y = start_y + (max(icon_h, text_h) - text_h) // 2 
         draw.text((text_x, text_y), WATERMARK_TEXT, fill=(255, 255, 255, 240), font=font)
         
