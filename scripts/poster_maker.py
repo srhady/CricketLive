@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 print("="*75)
 print(" 🏏 CRICKETLIVE: 1080x810 AUTO-CROP GIANT LOGO STUDIO 🏏")
 print(" 🌐 Source: Cricbuzz API (Upcoming, Live & Recent) 🌐")
-print(" 🎨 Background: Deep Navy Studio (#0F172A) + Telegram Watermark 🎨")
+print(" 🎨 Background: Deep Navy Studio (#0F172A) + Large Circular Telegram Watermark 🎨")
 print("="*75)
 
 # Navigate out of the 'scripts' folder to the root directory
@@ -51,14 +51,29 @@ def auto_crop_and_resize(img, max_w, max_h):
     new_h = int(img.height * ratio)
     return img.resize((new_w, new_h), Image.Resampling.LANCZOS)
 
-def fetch_telegram_icon():
-    """Fetches and resizes the Telegram icon for watermark"""
+def fetch_telegram_icon_circular():
+    """Fetches, makes circular, and resizes the Telegram icon for watermark"""
     try:
         res = requests.get(TELEGRAM_LOGO_URL, timeout=10)
         if res.status_code == 200:
             icon = Image.open(BytesIO(res.content)).convert('RGBA')
-            icon = auto_crop_and_resize(icon, 28, 28)
-            return icon
+            
+            # 1. Resize to a square larger than target (to avoid pixelation during mask composition)
+            size = (100, 100) # Increased size before mask
+            icon_square = icon.resize(size, Image.Resampling.LANCZOS)
+            
+            # 2. Create circular mask
+            mask = Image.new('L', size, 0)
+            draw = ImageDraw.Draw(mask)
+            draw.ellipse((0, 0, size[0], size[1]), fill=255)
+            
+            # 3. Apply mask using composite
+            circular_icon = Image.composite(icon_square, Image.new('RGBA', size, (0, 0, 0, 0)), mask)
+            
+            # 4. Final resize to fit the large font size
+            final_size = (36, 36) # Increased size to match 40-size font height
+            circular_icon = circular_icon.resize(final_size, Image.Resampling.LANCZOS)
+            return circular_icon
     except Exception as e:
         print(f"    [!] Failed to download Telegram icon: {e}")
     return None
@@ -98,9 +113,12 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         # Draw Watermark in Bottom-Right Corner
         draw = ImageDraw.Draw(canvas)
         
+        # --- LARGE FONT ---
         try:
-            font = ImageFont.truetype("arial.ttf", 22)
+            # Increase font size to 40 for Arial (previous size was 22)
+            font = ImageFont.truetype("arial.ttf", 40)
         except:
+            # Fallback to default font (size cannot be changed)
             font = ImageFont.load_default()
             
         bbox = draw.textbbox((0, 0), WATERMARK_TEXT, font=font)
@@ -109,7 +127,7 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         
         padding_right = 30
         padding_bottom = 25
-        icon_spacing = 8
+        icon_spacing = 10 # Slightly increased spacing for large watermark
         
         icon_w = tg_icon.width if tg_icon else 0
         icon_h = tg_icon.height if tg_icon else 0
@@ -122,6 +140,7 @@ def create_max_logo_poster(match_name, logo1_url, logo2_url, local_path, tg_icon
         # Paste Telegram icon
         if tg_icon:
             icon_y = start_y + (max(icon_h, text_h) - icon_h) // 2
+            # Pastel circular icon
             canvas.paste(tg_icon, (int(start_x), int(icon_y)), tg_icon)
             
         # Draw Watermark Text
@@ -152,8 +171,8 @@ def main():
         data = response.json()
         matches = data.get("matches", [])
         
-        # Download Telegram icon once for all posters
-        tg_icon = fetch_telegram_icon()
+        # Download Telegram icon once for all posters, make it circular and resize to 36x36
+        tg_icon = fetch_telegram_icon_circular()
         
         active_poster_filenames = []
         
