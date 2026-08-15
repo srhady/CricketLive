@@ -2,21 +2,6 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-08-15 11:00:44 PM (BD Time)"
-# Total Active Links: 3
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - Willow Xtra
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/wextres5.m3u8?md5=airDrOGqVnnCLIZ_2N47DQ&expires=1786818037&ch=wextres5&s=fa2184be944a48b1bff60c7e0020f21e
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - CricGo 2
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/cricgo2.m3u8?md5=KpAz-Dlb3etMMb-NMgoFbw&expires=1786818040&ch=cricgo2&s=dbe968baae7f9df1bbeec4b8588c9783
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Ireland%20vs%20Afghanistan.png" group-title="Afghanistan tour of Ireland, 2026", Ireland vs Afghanistan - CricGo 6
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://oz2.bhalocast.com:7060/hls/cricgo6.m3u8?md5=NbyvqJzxknztI8pEVjZNgQ&expires=1786818043&ch=cricgo6&s=0e10382a9a9b83373eac347ad051b7dd
+#"last updated": "2026-08-16 12:00:36 AM (BD Time)"
+# Total Active Links: 0
 
