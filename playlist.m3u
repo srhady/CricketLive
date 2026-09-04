@@ -2,11 +2,11 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-04 06:00:36 PM (BD Time)"
+#"last updated": "2026-09-04 07:00:48 PM (BD Time)"
 # Total Active Links: 1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Namibia.png" group-title="Namibia T20I Tri-Series 2026", South Africa vs Namibia - CricGo 2
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo2.m3u8?md5=aNfnqxJQE6zBzdaB7IjEgQ&expires=1788528035&ch=cricgo2&s=a76e41635f3f7d2325c69a605c69ed1f
+https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=JJrGBX5pWOlteaI9iO9gNw&expires=1788531647&ch=cricgo2&s=71c67975f8ad365acda3cb04d6fc2691
 
