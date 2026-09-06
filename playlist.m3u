@@ -2,6 +2,11 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-06 04:00:31 PM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-06 05:00:35 PM (BD Time)"
+# Total Active Links: 1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Zimbabwe.png" group-title="Namibia T20I Tri-Series 2026", South Africa vs Zimbabwe - CricGo 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=-YOcjBZsNN9pHi1Nyt0jkA&expires=1788697234&ch=cricgo2&s=5801ebd751027b3765734e5754934f80
 
