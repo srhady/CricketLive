@@ -2,6 +2,31 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-10 03:00:38 AM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-10 04:00:53 AM (BD Time)"
+# Total Active Links: 5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Saint Lucia Kings - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=Z2NiqNeaN3ZvPhWj3vBjrg&expires=1788996038&ch=willowsd&s=95509aff648a13848d7e6ac04dd42be0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Saint Lucia Kings - Star Sports 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/star2cl5.m3u8?md5=feA-DyRHmdMl3UFerCcqFQ&expires=1788996042&ch=star2cl5&s=8c9e63069913aed52f3142d986c2e7f3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Saint Lucia Kings - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/hdwillos5.m3u8?md5=noaeeGL4bJhy6hSr4ZJMVg&expires=1788996046&ch=hdwillos5&s=1146c3b4bdd985c5b910326d45552091
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Saint Lucia Kings - CricGo 5
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=INLYb_vZiubVK1xvh6Tu_g&expires=1788996050&ch=cricgo5&s=d6af7c92dea346ed75d97536782804ef
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Saint%20Lucia%20Kings.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Saint Lucia Kings - TNT Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/bbtsvp2.m3u8?md5=w7L126jXpMX6DVXGPVM9tQ&expires=1788996052&ch=bbtsvp2&s=7768d9646f9c52bd0b444e284461bd78
 
