@@ -2,11 +2,11 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-11 01:00:39 PM (BD Time)"
+#"last updated": "2026-09-11 02:00:36 PM (BD Time)"
 # Total Active Links: 1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Namibia%20vs%20South%20Africa.png" group-title="South Africa tour of Namibia, 2026", Namibia vs South Africa - CricGo 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/South%20Africa%20vs%20Namibia.png" group-title="South Africa tour of Namibia, 2026", South Africa vs Namibia - CricGo 2
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=HUSt6A_jJu0oC_7Z0B_bEA&expires=1789114838&ch=cricgo2&s=8152b3efeea0e44793ab4fb79545f959
+https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=likTvw0L9zef_IoHulWYGw&expires=1789118435&ch=cricgo2&s=9668bbab247ff9f6cda37eb98a82c3a0
 
