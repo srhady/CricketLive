@@ -2,6 +2,31 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-14 04:00:32 AM (BD Time)"
-# Total Active Links: 0
+#"last updated": "2026-09-14 05:00:46 AM (BD Time)"
+# Total Active Links: 5
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Barbados%20Tridents.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Barbados Tridents - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/willower.m3u8?md5=_08jMgCnWVo7b2ZE4DjsYg&expires=1789345236&ch=willower&s=3ef97588d4e822cefbdd98934e112bb2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Barbados%20Tridents.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Barbados Tridents - Star Sports 2
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/star2cl5.m3u8?md5=uJKnUjsoGoWQBpdXa_nIfQ&expires=1789345239&ch=star2cl5&s=187176e4a66852361b1eadfe33401727
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Barbados%20Tridents.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Barbados Tridents - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/hdwillower.m3u8?md5=mxV7hGEJv8x5aiV9nJtclQ&expires=1789345242&ch=hdwillower&s=11974b24e7f68984c8293a7a1d7b93c2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Barbados%20Tridents.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Barbados Tridents - CricGo 5
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=1RNNgxsRFJKpDshdvT2N0Q&expires=1789345243&ch=cricgo5&s=e11633ca9c739aea68f041981b429994
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Guyana%20Amazon%20Warriors%20vs%20Barbados%20Tridents.png" group-title="Caribbean Premier League 2026", Guyana Amazon Warriors vs Barbados Tridents - TNT Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.playerr03.com:7060/hls/bbtsvp2.m3u8?md5=9kdcapR23jGX7T7nRbONyA&expires=1789345245&ch=bbtsvp2&s=3257b4d1e4e691f45730240a7690d6e5
 
