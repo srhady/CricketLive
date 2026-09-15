@@ -2,16 +2,16 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-15 01:00:38 PM (BD Time)"
+#"last updated": "2026-09-15 02:00:45 PM (BD Time)"
 # Total Active Links: 2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20Australia.png" group-title="Australia tour of Zimbabwe 2026", Zimbabwe vs Australia - CricGo 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Zimbabwe.png" group-title="Australia tour of Zimbabwe 2026", Australia vs Zimbabwe - CricGo 2
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=ac3EBCNO0-C-dkLR8xnt_Q&expires=1789460435&ch=cricgo2&s=38cfa1ff83125ff3d38c8ce7ccf667da
+https://mz01.playerr03.com:7060/hls/cricgo2.m3u8?md5=qqBDbhx6eYILaaE3zOnLyg&expires=1789464041&ch=cricgo2&s=c3982ea609eba7d7d5f2e8b06be24e9d
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Zimbabwe%20vs%20Australia.png" group-title="Australia tour of Zimbabwe 2026", Zimbabwe vs Australia - Fox Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Australia%20vs%20Zimbabwe.png" group-title="Australia tour of Zimbabwe 2026", Australia vs Zimbabwe - Fox Cricket
 #EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/cf0sp1.m3u8?md5=IzlyINjVGnfRapzy8mXAxw&expires=1789460437&ch=cf0sp1&s=003b11cc3c58f82f1efb715565641894
+https://mz02.playerr03.com:7060/hls/cf0sp1.m3u8?md5=KDSHcTvSCK3ExUXSrzpKMg&expires=1789464044&ch=cf0sp1&s=b6fdebc142cb15c87e38c42a1e071f05
 
