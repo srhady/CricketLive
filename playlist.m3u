@@ -2,41 +2,41 @@
 #"name": "Live Sports Events"
 #"owner": "Md Sohanur Rahman Hady"
 #"telegram": "https://t.me/livesportsplay"
-#"last updated": "2026-09-17 08:21:16 PM (BD Time)"
+#"last updated": "2026-09-17 08:28:58 PM (BD Time)"
 # Total Active Links: 7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Afghanistan vs India in India 2026", India vs Afghanistan - Willow
-#EXTVLCOPT:http-referrer=https://playerso.top/
+#EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/willow.m3u8?md5=k9vkoblX7EMrraQtvNywzA&expires=1789659658&ch=willow&s=7b42dea6aa9d09b5aaf3c9033d97e702
+https://mz01.playerr03.com:7060/hls/willow.m3u8?md5=3ZhXgQm2giBqE_v0HdU5TA&expires=1789660132&ch=willow&s=b322c8e26e2236e712cf22b13004c96c
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Afghanistan vs India in India 2026", India vs Afghanistan - Willow HD
-#EXTVLCOPT:http-referrer=https://playerso.top/
+#EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/willowhd.m3u8?md5=jeb65J8u2VaYfqmsu7bUpQ&expires=1789659660&ch=willowhd&s=3ee64642ef45310815429d72f0647966
+https://mz01.playerr03.com:7060/hls/willowhd.m3u8?md5=xGlYylldMNo0nqRNWo1SEQ&expires=1789660132&ch=willowhd&s=0fb196b3e1fa3fa59c2cd0f7f88779b2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Afghanistan vs India in India 2026", India vs Afghanistan - Astro Cricket
-#EXTVLCOPT:http-referrer=https://playerso.top/
+#EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/astrocric.m3u8?md5=OWZgmB-pYarBfzZqs3VI7Q&expires=1789659662&ch=astrocric&s=feabb73d47da44648a582448b314a42c
+https://mz02.playerr03.com:7060/hls/astrocric.m3u8?md5=vJxDTeCOhMa-HqWhVKulhw&expires=1789660133&ch=astrocric&s=98107d4711b3d46e97addb86d55dd03e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Afghanistan vs India in India 2026", India vs Afghanistan - Sony Ten 3
-#EXTVLCOPT:http-referrer=https://playerso.top/
+#EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/ten3.m3u8?md5=cpFHXR0_pQP1lo61l0N0Jg&expires=1789659666&ch=ten3&s=f5d39dd34314b44ae28c5582142359cc
+https://mz02.playerr03.com:7060/hls/ten3.m3u8?md5=LHcu69kfhHt6i8u3VMLp1w&expires=1789660136&ch=ten3&s=9d28893a98475c827f912359ce732ced
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Afghanistan vs India in India 2026", India vs Afghanistan - Sony Ten 5
-#EXTVLCOPT:http-referrer=https://playerso.top/
+#EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/sonysix.m3u8?md5=X4wHQ3d59jPyJoTaKGnAPQ&expires=1789659668&ch=sonysix&s=52369bc3331d84508b769fa1ee4ad2b5
+https://mz01.playerr03.com:7060/hls/sonysix.m3u8?md5=72mdmeDmv_VYsxJhosh2GA&expires=1789660136&ch=sonysix&s=62af69d87aa7c1890c6972a94f66bc38
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Afghanistan vs India in India 2026", India vs Afghanistan - CricGo 1
-#EXTVLCOPT:http-referrer=https://playerso.top/
+#EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo1.m3u8?md5=mUAgiRfzd7LsxHQLbu2eHg&expires=1789659673&ch=cricgo1&s=97f62fa20bda039bfbc29739021f7b1b
+https://mz01.playerr03.com:7060/hls/cricgo1.m3u8?md5=yU8UOcAxF-1nos1iW5jU0Q&expires=1789660137&ch=cricgo1&s=4149047358ff59c1f4252ad27ea51aaa
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Afghanistan.png" group-title="Afghanistan vs India in India 2026", India vs Afghanistan - CricGo 4
-#EXTVLCOPT:http-referrer=https://playerso.top/
+#EXTVLCOPT:http-referrer=https://playerr03.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo4.m3u8?md5=6male_tafRvX_NWepzjbjA&expires=1789659675&ch=cricgo4&s=8ef4d5017275c8d297ecaae834b9966d
+https://mz02.playerr03.com:7060/hls/cricgo4.m3u8?md5=hqTps4NeoO1sB75CCybh-g&expires=1789660137&ch=cricgo4&s=5027f92c125e1c15e42b21dfc5841ed6
 
